@@ -1,0 +1,5910 @@
+**==> picture [207 x 84] intentionally omitted <==**
+
+## **Gemeenteraad** 
+
+## zitting van 17 november 2025 
+
+## **Notulen (openbare zitting)** 
+
+## **SAMENSTELLING** 
+
+## **Aanwezig:** 
+
+Carl Devlies, voorzitter van de gemeenteraad; Mohamed Ridouani, burgemeester; Dirk Vansina, schepen; Lalynn Wadera, schepen; Thomas Van Oppens, schepen; Bieke Verlinden, schepen; Bert Cornillie, schepen; Liesbeth Vandermeeren, schepen; Lothe Ramakers, schepen; Christophe Stockman, schepen; Lies Corneillie, schepen; Anna Roos Brimco Melotte, raadslid; Anton Nilis, raadslid; Aynur Tasdemir, raadslid; Bart Meulemans, raadslid; Britt Huybrechts, raadslid; Bruno Tobback, raadslid; Daisy Kaerts, raadslid; Daniela El-Kadi, raadslid; David Dessers, raadslid; Debby Appermans, raadslid; Els Van Hoof, raadslid; Frieda Aerts, raadslid; Frouke Wouters, raadslid; Hannes De Geest, raadslid; Irma De Wolf, raadslid; Jan Thomas Roefs, raadslid; Janne Vermeesch, raadslid; Jasmien Beckers, raadslid; Karen Van Herck, raadslid; Karin Brouwers, raadslid; Karine Op de Beeck, raadslid; Katelijne Dedeurwaerder, raadslid; Katja Hermans, raadslid; Katrien Vermijlen, raadslid; Lies Verlinden, raadslid; Lisa Jiroflee, raadslid; Mauro Michielsen, raadslid; Myriam Welkenhuysen, raadslid; Natalie Haine, raadslid; Pieterjan Vangerven, raadslid; Ruben Geleyns, raadslid; Sarah Mohamed Khalif, raadslid; Surya Dhakal, raadslid; Veerle Bovyn, raadslid; Yu-Chun Liao, raadslid; Zeger Debyser, raadslid Geertrui Vanloo, algemeen directeur 
+
+17 november 2025 20:19 - De voorzitter opent de openbare zitting. 
+
+## **MEDEDELINGEN** 
+
+## **Regeling van de werkzaamheden** 
+
+## **Notulen en zittingsverslag van de vorige zitting** 
+
+De notulen en het zittingsverslag van de zitting van de gemeenteraad van 20 oktober 2025 werden digitaal ter beschikking gesteld. Vragen en opmerkingen hierover zijn mogelijk tot aan het einde van de zitting. 
+
+## **Gewijzigde agendapunten** 
+
+In agendapunt 3, over de vertegenwoordiging in het EU Local Councillors netwerk, werden de namen van de raadsleden die wensen aan te sluiten bij het netwerk aangevuld. 
+
+In agendapunten 49 en 50, over omgevingsvergunningen met wegenis, werd in artikel 1 verduidelijkt dat er kennis wordt genomen van het feit dat een omgevingsvergunning werd ingediend. 
+
+In agendapunt 58, over het wijkcommissariaat op het Martelarenplein, werd het plan van het onthaal als bijlage toegevoegd. 
+
+In agendapunt 62, over de notulen en het zittingsverslag van de vorige vergadering, werd een aanpassing doorgevoerd in het zittingsverslag op vraag van raadslid Zeger Debyser, “fauna” werd vervangen door “flora” in zijn tussenkomst over het masterplan Haasrode. 
+
+## **HOOGDRINGENDE PUNTEN TOE TE LATEN TOT DE ZITTING** 
+
+## **HD 1 Tijdelijke politieverordening - Uitvoeren heraanleg van de Korenstraat en Boulevardstraat te Kessel-Lo - Wijziging - Bekrachtiging (2025_GR_00594)** 
+
+Het is aangewezen om dit punt toe te voegen aan de agenda van de gemeenteraad van 17 november 2025, aangezien deze politieverordening in de eerstvolgende vergadering van de gemeenteraad ter bekrachtiging moet worden voorgelegd. 
+
+## **Aanvaard** 
+
+## **HD 2 Tijdelijke politieverordening - Uitvoeren aansluiting verbinding fietssnelweg met de tunnel onder de Celestijnenlaan op de Remisebosweg te Heverlee - Verlenging - Bekrachtiging (2025_CBS_07463)** 
+
+Het is aangewezen om dit punt toe te voegen aan de agenda van de gemeenteraad van 17 november 2025, aangezien deze politieverordening in de eerstvolgende vergadering van de gemeenteraad ter bekrachtiging moet worden voorgelegd. 
+
+## **Aanvaard** 
+
+## **OPENBARE ZITTING** 
+
+## **DIENSTEN ALGEMEEN DIRECTEUR** 
+
+## **Bestuurs- en Organisatieondersteuning** 
+
+## **1 Klacht bij Agentschap Binnenlands Bestuur - Burgemeesterbesluit tot goedkeuring van een politieverordening - Beslissing toezichthoudende overheid - Kennisneming (2025_GR_00576)** 
+
+## **STATUS** 
+
+**Kennis genomen** 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gemeenteraad neemt kennis van de beslissing van de toezichthoudende overheid over de klacht betreffende het burgemeesterbesluit tot goedkeuring van een politieverordening. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 332 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+Op 3 september 2025 ontving de stad via het Agentschap Binnenlands Bestuur een klacht over het burgemeesterbesluit van 19 augustus 2025 tot goedkeuring van een politieverordening omtrent de organisatie van het festival van Marktrock vzw op 22 en 23 augustus 2025. 
+
+De stad bezorgde een uitgebreide toelichting over het voorwerp van de klacht aan de toezichthoudende overheid. 
+
+De toezichthoudende overheid, in deze de gouverneur, heeft beslist niet op te treden in dit dossier. 
+
+De politieverordening houdende de invoering van maatregelen ter vrijwaring van de openbare veiligheid, werd genomen op basis van artikel 133 van de Nieuwe Gemeentewet en artikelen 56 en 65 van het gecoördineerd politiereglement, en nadien ter kennis gegeven en bekrachtigd door de gemeenteraad. 
+
+De verkeersmaatregelen tijdens het festival werden ingevoerd door het besluit van het college in zitting van 20 juni 2025 en diezelfde dag bekendgemaakt op de website. 
+
+De gouverneur komt dan ook tot de conclusie dat noch het recht noch het algemeen belang werden geschonden. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van de beslissing van de gouverneur, als toezichthoudende overheid, betreffende de klacht over het burgermeesterbesluit van 19 augustus 2025 tot goedkeuring van een politieverordening, om geen toezichtsmaatregel te treffen. 
+
+## **BIJLAGEN** 
+
+1. Opvraging_CBS.pdf 
+
+2. Klacht_2025.000710.pdf 
+
+3. 20251001_Antwoordbrief aan ABB_get.pdf 
+
+4. Bijlage 1_20250819_BURG_politieverordening.pdf 
+
+5. Bijlage 2_20250620_CBS_tijdelijke politieverordening.pdf 
+
+6. Bijlage 3_Printscreen website Stad Leuven.pdf 
+
+7. Bijlage 4_Website politiezone Leuven.pdf 
+
+8. Bijlage 5_20250825_GR_bekrachtiging besluit BURG.pdf 
+
+9. OND_kennisgeving_bestuur_VL2025.2987.pdf 
+
+10. OND_kennisgeving_klager.pdf 
+
+## **2 Brabanthal vzw - Aanpassing statuten - Goedkeuring (2025_GR_00572)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Na het uittreden van de provincie Vlaams-Brabant uit Brabanthal vzw, moeten de statuten van de vzw worden aangepast. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+Naar aanleiding van de hersamenstelling van de organen van Brabanthal vzw aan het begin van de nieuwe legislatuur, liet de provincie Vlaams-Brabant per brief weten dat zij uit de vzw wenste te treden. De statuten van de vzw dienen in die zin te worden aangepast. 
+
+Meteen wordt van de gelegenheid gebruik gemaakt om de statuten te verduidelijken. In de huidige versie van de statuten wordt het lidmaatschap van de vzw zodanig geformuleerd dat elke vertegenwoordiger van de stad Leuven of van Voka - Kamer van Koophandel Arrondissement Leuven afzonderlijk als lid wordt beschouwd, terwijl het de bedoeling is dat deze entiteiten elk als één lid zouden fungeren. De leden van de vzw zijn stad Leuven en Voka, die afgevaardigden aanduiden. Deze afgevaardigden zijn niet elk individueel lid van de vzw, maar vertegenwoordigen een lid. 
+
+Aan de gemeenteraad wordt gevraagd akkoord te gaan met de nieuwe ontwerp-statuten, waarna de algemene vergadering van Brabanthal vzw ze zal goedkeuren. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Akkoord te gaan met de voorgestelde aanpassingen aan de statuten van Brabanthal vzw. 
+
+## **BIJLAGEN** 
+
+1. Brief uittreding Brabanthal vzw ondertekend.pdf 
+
+2. 20251021_statuten_aanpassing_WZ.pdf 
+
+3. 20251021_statuten_gecoordineerd.pdf 
+
+## **4 Vertegenwoordiging - Samen Onderwijs Maken Leuven (SOM Leuven) vzw - Vaststelling (2025_GR_00577)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De stad Leuven neemt kennis van het mandaat dat de schepen van onderwijs "van rechtswege" heeft in de organen van de op te richten vzw Samen Onderwijs Maken Leuven. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+Samen Onderwijs Maken (SOM) is een organisatienetwerk dat stad Leuven en onderwijsmakers over netten en niveaus heen verbindt. Er wordt ruimte gemaakt voor dialoog, experimenten worden ontworpen en er wordt collectief actie ondernomen om onderwijs innovatief te versterken voor alle Leuvense lerenden. 
+
+SOM is administratief ingebed bij de vzw DiversLeuven, maar is op zoek naar meer autonomie, vooral wat betreft budgetten en personeelsaangelegenheden. Om daaraan tegemoet te komen, zal de vzw Samen Onderwijs Maken Leuven worden opgericht. 
+
+Deze vzw in oprichting heeft als belangeloos doel: 'Het zoeken naar creatieve, vernieuwende antwoorden op complexe uitdagingen in het Leuvense onderwijs. De vzw ontwikkelt, samen met anderen, vernieuwende analyses, initiatieven en praktijken gerelateerd aan 3 speerpunten van het Leuvense onderwijs: (a) iedereen aan boord, (b) welbevinden en betrokkenheid voor iedereen die lesgeeft of volgt, en (c) diversiteit als kracht. De vzw tracht haar doelstellingen te verwezenlijken door onder andere labo’s op te zetten. In deze labo’s komen actoren van verschillende sectoren, onderwijsniveaus en -koepels gedurende een langere tijd bij elkaar om samen een complexe onderwijsuitdaging te analyseren en, via experiment en innovatie, een creatief antwoord te zoeken op deze onderwijsuitdaging. Labo’s worden tijdens de labonetwerkdagen van de vzw voorgesteld, geselecteerd, uitgevoerd en geëvalueerd. De vzw maakt de resultaten van de labo’s publiek bekend en viert haar resultaten'. 
+
+De vzw zal bestaan uit (personen werkzaam in) onderwijsinstellingen in Leuven (effectieve leden) en uit personen en organisaties met een hart voor onderwijs (toegetreden leden). Stad Leuven zal geen lid zijn van de vzw. 
+
+Gezien de verwevenheid tussen de doelstellingen van de vereniging en het lokale beleid rond onderwijs, acht de vzw in oprichting het wenselijk om de samenwerking en afstemming met de stad structureel te verankeren.  Meer bepaald verzoekt de vzw in oprichting de gemeenteraad om de schepen van onderwijs af te vaardigen als bestuurder (artikel 27 van de statuten) en als voorzitter (toegevoegd lid) van de algemene vergadering (artikel 19 van de statuten). 
+
+Op deze manier wil SOM vzw ervoor zorgen dat de werking van de vzw beleidsmatig voldoende afgestemd blijft op het onderwijsbeleidswerk en de beleidslijnen van Stad Leuven. Daarmee beoogt SOM vzw transparantie en overleg te garanderen tussen de vzw en de stad. 
+
+De vzw blijft autonoom in haar werking en beslissingen, maar erkent dat een structureel overleg met het gemeentebestuur bijdraagt aan een duurzaam en doelgericht beleid. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van de statuten van de vzw in oprichting Samen Onderwijs Maken Leuven (SOM Leuven). 
+
+## **Artikel 2** 
+
+Vast te stellen dat mevrouw Lalynn Wadera, schepen, na oprichting toegevoegd lid en voorzitter zal zijn van de algemene vergadering van de vzw SOM Leuven, en dit overeenkomstig artikel 19 van de ontwerp-statuten. 
+
+## **Artikel 3** 
+
+Vast te stellen dat mevrouw Lalynn Wadera, schepen, na oprichting bestuurder zal zijn van de vzw SOM Leuven, en dit overeenkomstig artikel 27 van de ontwerp-statuten. 
+
+## **BIJLAGEN** 
+
+1. Statuten SOM Leuven vzw.pdf 
+
+## **3 Vertegenwoordiging - EU Local Councillors netwerk - Goedkeuring (2025_GR_00560)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 45 stem(men) voor: Frieda Aerts; Debby Appermans; Jasmien Beckers; Veerle Bovyn; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; Zeger Debyser; Katelijne Dedeurwaerder; David Dessers; Carl Devlies; Surya Dhakal; Daniela El-Kadi; Ruben Geleyns; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Karine Op de Beeck; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Karen Van Herck; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Pieterjan Vangerven; Dirk Vansina; Bieke Verlinden; Lies Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters - 2 onthouding(en): Britt Huybrechts; Anton Nilis 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Gemeenteraadsleden kunnen zich als lid aansluiten bij het Europese netwerk 'The EU Local Councillors'. Door hun aansluiting verbinden ze zich ertoe om hun kiespubliek te informeren over wat de EU voor hen doet en om burgers aan te moedigen zich in te zetten voor het Europees project. De stad wordt beschouwd als partner, verzorgt de aangifte van de leden, voorziet een administratief contactpunt, zorgt voor de continuïteit in de afvaardiging en streeft genderevenwicht na. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+De EU Local Councillors (https://eu-local-councillors.europa.eu/) is een Europees netwerk dat lokale en regionale verkozen vertegenwoordigers samenbrengt in een innovatieve alliantie met de EUinstellingen om de burgers te informeren over het werk van de Europese Unie. 
+
+Het netwerk staat open voor lokale en regionale verkozen vertegenwoordigers uit heel Europa die zich ertoe verbinden hun kiezers te informeren over wat de EU voor hen doet en burgers aan te moedigen om zich in te zetten voor het Europese project. 
+
+Van de leden wordt het volgende verwacht: 
+
+- Actief bijdragen aan het dichter bij de inwoners brengen van het Europese project binnen de stad; 
+
+- Zijn/haar kiezers informeren over wat de EU doet en hen betrekken bij het Europese project; 
+
+- Evenementen en lokale dialogen organiseren over EU-onderwerpen voor zijn/haar kiezers; 
+
+- Contacten onderhouden met de relevante EU-instanties; 
+
+- Ervaringen delen met andere netwerkleden in heel Europa; 
+
+- Verslag uitbrengen over zijn/haar communicatieactiviteiten. 
+
+Leden krijgen bevoorrechte toegang tot een reeks speciale diensten en producten die ze kunnen gebruiken voor communicatie op het terrein, netwerken en het delen van kennis en ervaring met andere lokale raadsleden van de EU in het netwerk. 
+
+Het netwerk geeft aan het volgende te bieden: 
+
+- Een breed scala aan informatie over de betrokkenheid van de EU op gebieden die voor het kiesdistrict van belang zijn; 
+
+- Updates over de nieuwste EU-financieringsmogelijkheden, wedstrijden, enzovoort; 
+
+- Webinars en specifieke trainingen over EU-gerelateerde onderwerpen, over hoe (sociale) media effectief gebruikt kan worden, over het aanpakken van desinformatie, enzovoort. 
+
+- Studiebezoeken aan EU-instellingen in Brussel; 
+
+- Netwerkmogelijkheden met andere leden van de EU Local Councillors en relevante EU-instanties; 
+
+- Deelname aan evenementen, bijeenkomsten en debatten op EU-, nationaal en lokaal niveau; 
+
+- Een website en sociale mediaplatforms om te helpen het lidmaatschap van het netwerk en de betrokkenheid bij het werk ervan te promoten, inclusief een kaart met leden; 
+
+- Communicatiemateriaal en beeldmateriaal ter ondersteuning van het werk als lid; 
+
+- Enquêtes om gegevens te verzamelen over interessegebieden, ideeën en voorstellen 
+
+- Contactpunten/hulp in eigen land en in eigen taal. 
+
+Er staat geen limiet op het aantal aangesloten raadsleden per bestuur. Het eerste goedgekeurde lid wordt wel beschouwd als de belangrijkste "correspondent" voor de EU. Deze is de belangrijkste contactpersoon voor ad-hocactiviteiten en -initiatieven. 
+
+Het netwerk vraagt tevens een ambtenaar aan te duiden als contactpersoon van de stad. Op deze manier wil men de continuïteit borgen, over de lokale verkiezingen heen. De stad wordt ook gevraagd om bij meerdere kandidaten een politiek en genderevenwicht te hanteren. 
+
+Alle fracties werden gevraagd om geïnteresseerde raadsleden als lid voor te dragen. 
+
+De stad dient het aangifteformulier met de leden in. De stad wordt dan ook beschouwd als partner van het project. Er zijn hier geen directe kosten aan verbonden als stad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van het feit dat volgende raadsleden  als lid wensen aan te sluiten bij het 'EU Local Councillors Network' en hiervoor de nodige aangifte bij het netwerk te doen: 
+
+- mevrouw Yu-Chun Liao; 
+
+- de heer Hannes De Geest; 
+
+- mevrouw Myriam Welkenhuysen; 
+
+- de heer Mauro Michielsen; 
+
+- de heer Jan Thomas Roefs; 
+
+- mevrouw Katja Hermans; 
+
+- de heer Carl Devlies; 
+
+- de heer Ruben Geleyns; 
+
+- mevrouw Karine Op de Beeck; 
+
+- mevrouw Lies Corneillie; 
+
+- mevrouw Janne Vermeesch. 
+
+## **Artikel 2** 
+
+Kennis te nemen van het feit dat het eerste goedgekeurde lid, met name mevrouw Yu-Chun Liao, door het netwerk beschouwd wordt als belangrijkste "correspondent". 
+
+## **Artikel 3** 
+
+Mevrouw Geertrui Vanloo, algemeen directeur, te mandateren om als wettelijk vertegenwoordiger het aangifteformulier te ondertekenen en haar aan te duiden als contactpersoon voor het netwerk. 
+
+## **5 Vertegenwoordiging - Creat Services dv - Buitengewone algemene vergadering van 16 december 2025 - Goedkeuring (2025_GR_00582)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Ruben Geleyns; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 12 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Anton Nilis; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De stad legt het mandaat van haar vertegenwoordigers vast voor de buitengewone algemene vergadering van Creat Services dv van dinsdag 16 december 2025. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het decreet lokaal bestuur van 22 december 2017, en latere wijzigingen - de statuten van Creat Services dv 
+
+## **Argumentatie** 
+
+De stad ontving op 13 oktober 2025 een uitnodiging van Creat Services dv betreffende de buitengewone algemene vergadering van dinsdag 16 december 2025 om 14.30 uur. De vergadering vindt plaatsin Flanders Expo, Maaltekouter 1, te 9051 Gent. 
+
+De voorgestelde agenda luidt als volgt: 
+
+- wijziging van vermogen; 
+
+- actualisering van bijlagen 1 en 2 aan de statuten ingevolge wijziging van vermogen; 
+
+- evaluatieverslag met betrekking tot de werking van de dienstverlenende vereniging, het ondernemingsplan 2025-2030, de te ontwikkelen activiteiten en de te volgen strategie 2026 (overeenkomstig artikel 432 en 459 decreet over het lokaal bestuur); 
+
+- begroting 2026 (overeenkomstig artikel 432 decreet over het lokaal bestuur); 
+
+- statutaire benoemingen; 
+
+- varia. 
+
+Er kan akkoord gegaan worden met deze agenda en de vertegenwoordigers de heer Thomas Van Oppens, schepen en effectief vertegenwoordiger, en mevrouw Frouke Wouters, raadslid en plaatsvervangend vertegenwoordiger, wordt mandaat gegeven om deze punten goed te keuren. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Akkoord te gaan met de voorgestelde agenda en de agendapunten van deze buitengewone algemene vergadering goed te keuren, meer bepaald: 
+
+- wijziging van vermogen; 
+
+- actualisering van bijlagen 1 en 2 aan de statuten ingevolge wijziging van vermogen; 
+
+- evaluatieverslag met betrekking tot de werking van de dienstverlenende vereniging, het ondernemingsplan 2025-2030, de te ontwikkelen activiteiten en de te volgen strategie 2026 (overeenkomstig artikel 432 en 459 decreet over het lokaal bestuur); 
+
+- begroting 2026 (overeenkomstig artikel 432 decreet over het lokaal bestuur); 
+
+- statutaire benoemingen; 
+
+- varia. 
+
+## **Artikel 2** 
+
+De vertegenwoordigers van de stad te mandateren te handelen volgens deze beslissing. 
+
+## **Artikel 3** 
+
+Deze beslissing ter kennis te geven aan Creat Services dv en aan de aangeduide vertegenwoordigers. 
+
+## **BIJLAGEN** 
+
+1. 20251216_BAV_CreatServices_Uitnodiging_en_bijlagen.pdf 
+
+## **6 Vertegenwoordiging - IGS Hofheide ov - Buitengewone algemene vergadering van 17 december 2025 - Goedkeuring (2025_GR_00581)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Ruben Geleyns; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 12 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Anton Nilis; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De stad legt het mandaat van haar vertegenwoordigers vast voor de buitengewone algemene vergadering van IGS Hofheide ov van woensdag 17 december 2025. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het decreet lokaal bestuur van 22 december 2017, en latere wijzigingen 
+
+- de statuten van IGS Hofheide ov 
+
+## **Argumentatie** 
+
+De stad ontving op 23 oktober 2025 een uitnodiging van IGS Hofheide ov betreffende de buitengewone algemene vergadering van woensdag 17 december 2025 om 20.00 uur. De vergadering vindt plaats in het Crematorium Hofheide, Jennekensstraat 5, te 3221 Holsbeek. 
+
+De voorgestelde agenda luidt als volgt: 
+
+- goedkeuring van het verslag van de gewone algemene vergadering van 25 juni 2025; 
+
+- budget 2026 en meerjarenplanning; 
+
+- statutenwijziging; 
+
+- varia. 
+
+Er kan akkoord gegaan worden met deze agenda en de vertegenwoordigers mevrouwen Bieke Verlinden, schepen en effectief vertegenwoordiger, en Lothe Ramakers, schepen en 
+
+plaatsvervangend vertegenwoordiger, wordt mandaat gegeven om deze punten goed te keuren. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Akkoord te gaan met de voorgestelde agenda en de agendapunten van deze buitengewone algemene vergadering goed te keuren, meer bepaald: 
+
+- goedkeuring van het verslag van de gewone algemene vergadering van 25 juni 2025; 
+
+- budget 2026 en meerjarenplanning; 
+
+- statutenwijziging; 
+
+- varia. 
+
+## **Artikel 2** 
+
+De vertegenwoordigers van de stad te mandateren te handelen volgens deze beslissing. 
+
+## **Artikel 3** 
+
+Deze beslissing ter kennis te geven aan IGS Hofheide ov en aan de aangeduide vertegenwoordigers. 
+
+## **BIJLAGEN** 
+
+1. Uitnodiging AV 17 december 2025.pdf 
+
+2. 1 Verslag AV 25 juni 2025.pdf 
+
+3. 2 Budget 2026 en meerjarenplanning.pdf 
+
+4. 3 Statutenwijziging.pdf 
+
+## **Staf** 
+
+20:39 - Anton Nilis, raadslid verlaat de zitting. 
+
+- 20:39 - Sarah Mohamed Khalif, raadslid verlaat de zitting. 
+
+20:39 - David Dessers, raadslid verlaat de zitting. 
+
+## **7 Gemeentelijke extern verzelfstandigde agentschappen - Evaluatie - Kennisneming (2025_GR_00567)** 
+
+## **STATUS** 
+
+**Kennis genomen** 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gemeenteraad neemt kennis van de evaluatieverslagen, opgemaakt door de 7 privaatrechtelijke en 2 publiekrechtelijke verzelfstandigde agentschappen van de stad Leuven, inzake de uitvoering van de samenwerkingsovereenkomst respectievelijk beheersovereenkomst met de stad, en inzake de principes van verzelfstandiging. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- Artikel 227 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+Overeenkomstig artikel 227 van het decreet lokaal bestuur moet elk gemeentelijk extern verzelfstandigd agentschap in de loop van het eerste jaar na de volledige vernieuwing van de 
+
+gemeenteraad een evaluatieverslag voorleggen aan de gemeenteraad. Dit verslag moet twee elementen bevatten: een evaluatie over de uitvoering van de beheers- of samenwerkingsovereenkomst, en een evaluatie van de (noodzaak tot) verzelfstandiging zelf. De gemeenteraad moet zich vervolgens over de drie maanden over de verzelfstandiging uitspreken. 
+
+De principes voor verzelfstandiging van taken worden binnen het Decreet lokaal bestuur bepaald in Titel 3, en specifiek voor privaatrechtelijke verzelfstandigde agentschappen in Artikel 225, Titel 3, Hoofdstuk 3, van het Decreet Lokaal Bestuur. 
+
+De dienstverlening van een lokaal bestuur moet binnen de eigen organisatie georganiseerd worden, tenzij er een objectieve onweerlegbare noodzaak bestaat om de taak te verzelfstandigen, dit volgens een cascaderedenering: kan de stad dit doen, zo nee kan een publiekrechtelijke verzelfstandigingsvorm dit doen (AGB), zo nee dan  kan de 'verste' vorm van verzelfstandiging, de privaatrechtelijke (bijvoorbeeld vzw) overwogen worden. Beleid mag niet verzelfstandigd worden; enkel welbepaalde beleidsuitvoerende taken. 
+
+In 2014 werden 8 bestaande ‘stedelijke' vzw’s formeel omgevormd met goedkeuring van de Vlaamse overheid tot  extern verzelfstandigde agentschappen van privaatrecht, een vorm die toen voor het eerst beschreven en mogelijk gemaakt werd in het Gemeentedecreet. In 2025 zijn er nog 7 privaatrechtelijke EVA's van de stad, alle zeven in de vennootschapsrechtelijke vzw-vorm: dit zijn vzw 30CC, vzw Leuvenement, vzw Tofsport, vzw Centrummanagement, vzw Kinderopvang Leuven, vzw Stedelijk Jeugdwerk Leuven en vzw DiversLeuven. 
+
+Naast deze 7 verzelfstandigde agentschappen van privaatrecht telt de stad Leuven ook  2 publiekrechtelijke verzelfstandigd agentschappen,  AGB's: 
+
+- Autonoom Gemeentebedrijf Museum Leuven (AGM), opgericht in 2007 
+
+- Autonoom Gemeentebedrijf Stadsontwikkeling Leuven (AGSL), opgericht in 2004 
+
+Bij de start van de derde legislatuur na oprichting van de privaatrechtelijke EVA's en (bijna) 20 jaar na de oprichting van de AGB's is het belangrijk om de afweging van noodzaak van verzelfstandiging opnieuw grondig te maken. Lokale besturen zijn immers grondig veranderd de afgelopen jaren, zowel qua mogelijkheden van snelle besluitvorming, als qua flexibele bedrijfsvoering, als qua organisatiebeheersing. 
+
+Daarom werd aan de EVA-vzw’s en AGB's gevraagd om een grondige afweging van de verzelfstandiging aan de hand van volgende thema’s met een specifiek vragenlijst te maken, over thema's die mogelijk elementen bevatten die de noodzaak van een verzelfstandiging onderbouwen: 
+
+- specifieke autonomie en onafhankelijkheid; 
+
+- specifieke democratische controle; 
+
+- specifieke operationele efficiëntie; 
+
+- specifieke participatie, draagvlak en samenwerking; 
+
+- wijze van personeelsbeleid en – beheer; 
+
+- wijze van financieel beheer. 
+
+Er moest telkens afgewogen en gemotiveerd worden of taken binnen een van deze 7 domeinen binnen een stadsorganisatie konden uitgevoerd worden, en zo nee onderbouwd waarom niet. Daarbij werd ook gevraagd een afweging van risico's en mogelijkheden tot mitigatie van risico's te maken. 
+
+Hieronder wordt een samenvatting per EVA-vzw en EVA-AGB gegeven. De volledige evaluatie per agentschap werd gevoegd als bijlage. 
+
+## **1. vzw 30CC** 
+
+Vzw 30CC heeft overeenkomstig artikel 3 van de statuten volgend maatschappelijk doel: ' _het bevorderen van het sociaal-culturele leven in Leuven door onder meer: 1° een eigen cultuuraanbod met lokale en regionale uitstraling te realiseren dat inspeelt op de_ 
+
+_vragen en behoeften van diverse bevolkingsgroepen en aandacht heeft voor een spreiding van en wisselwerking met door de Vlaamse overheid gesubsidieerde en ondersteunde gezelschappen;_ 
+
+_2° actief ondersteuning te bieden aan amateurkunsten en (sociaal-) culturele verenigingen;_ 
+
+_3° in te zetten op een aangepast aanbod van kunst- en cultuureducatie in samenwerking met relevante actoren;_ 
+
+_4° in te staan voor de publiekswerking van de Bib Leuven;_ 
+
+_5° in te staan voor de stadsbrede werking van de directie Cultuur: participatie, talentontwikkeling en creatieve sectoren, netwerking (regionaal, bovenlokaal en internationaal), communicatie, projectontwikkeling en ontwikkeling podiumkunstensite'.._ 
+
+## Evaluatie over de uitvoering van de samenwerkingsovereenkomst 2020-2025 
+
+De uitvoering van de samenwerkingsovereenkomst wordt globaal positief geëvalueerd. De modaliteiten vastgelegd in de samenwerkingsovereenkomst werden algemeen goed opgevolgd door zowel vzw 30CC als de stad. Er is een constructieve samenwerking tussen vzw 30CC en de stad, door de nauwe samenwerking binnen de ambtelijke poot, waarbij de directeur cultuur de liaison vormt. 
+
+## Evaluatie over de verzelfstandiging 
+
+De verzelfstandiging in een EVA-vzw is noodzakelijk om als cultuurcentrum te kunnen overleven in een vrije markteconomie die ook het culturele veld kenmerkt. De meeste gezelschappen en andere professionele actoren zijn privaatrechtelijke rechtspersonen. Via de verzelfstandiging kan een cultuurcentrum identieke activiteiten organiseren als de private actoren en een samenwerking opzetten met derden, ook met commerciële partners. Bij deze onderhandelingen treedt vzw 30CC op als gelijkwaardige partner. 
+
+Uit de praktijk blijkt dat een vzw makkelijker kan onderhandelen over het aanbod en de hieraan verbonden financiële voorwaarden. Daarenboven is er nood om binnen een beheersbare structuur een eigen ticketprijzenbeleid te voeren, dat soepel inspeelt op de wisselende omstandigheden van de markt. Het besluitvormingsproces binnen een vzw kan lichter georganiseerd worden, wat bijdraagt tot een grotere dynamiek en flexibiliteit. Externe sponsors zijn makkelijker bereid een vzw te sponsoren dan een stadsdienst. Bepaalde subsidies kunnen enkel toegekend worden aan een privaatrechtelijke beheersvorm (Europese subsidies, kunstendecreet, enzovoort). 
+
+In de loop der jaren zijn een aantal deelwerkingen binnen het financieel beheer van de vzw 30CC geplaatst die niet tot de strikte opdrachtbepaling horen. De redenen daarvan hadden te maken met de wens tot een snellere en soepelere verwerking van betalingen, toekenning van initiatieven. Inhoudelijk zijn er echter weinig banden tussen de werking van 30CC en deze ‘derden’. Op deze manier is de werking van de vzw minder transparant en leesbaar, wat de controle en opvolging vanuit de stad van haar entiteit bemoeilijkt. Uit de afweging van de verzelfstandiging blijkt tevens dat er niet voor al deze deelwerkingen een noodzaak is om deze binnen de verzelfstandigde entiteit te organiseren. In de geest van het decreet lokaal bestuur, is het daarom aangewezen om de invulling van vzw 30CC zoveel mogelijk terug te brengen tot de werking van een cultuurcentrum strictu senso, en tot de deelwerkingen waarvoor verzelfstandiging een noodzaak is omwille van bijvoorbeeld financieel-technische redenen. 
+
+## **2. vzw Leuvenement** 
+
+Vzw Leuvenement heeft overeenkomstig artikel 3 van de statuten volgend maatschappelijk doel: ' _in synergie met de stad Leuven het hele jaar door een belangrijke organisator, initiator of voorkeurspartner te zijn van (outdoor) evenementen die het (toeristische) imago van de stad versterken. Vzw Leuvenement slaat daarbij bruggen tussen alle actoren uit de vrijetijdssector. De vereniging gebruikt onder meer het toeristisch beleidsplan van de stad Leuven als kader voor haar werking. De daarbij gehanteerde parameters zijn toeristisch, kwalitatief en economisch van aard. Innovatie en creativiteit zijn de motoren van de vereniging. De vereniging wil via een doordacht evenementenbeleid de aantrekkingskracht van de stad voor bezoekers uit binnen- en buitenland_ 
+
+_verhogen, zonder daarbij de eigen bewoners en handelaars uit het oog te verliezen. Evenementen zijn kwalitatief hoogstaand en toegankelijk voor een breed publiek. De vereniging kan ook zelf productief optreden om helemaal op maat van en voor de stad te kunnen werken'._ In artikel 2 van de samenwerkingsovereenkomst met vzw Leuvenement wordt bijkomend vermeld: ' _In het kader hiervan zorgt de vereniging voor de realisatie van Het Groot Verlof, Wintertijd en Leuven Bierweekends. Binnen deze evenementiële concepten staat telkens beleving en verbinding centraal'._ 
+
+## Evaluatie over de uitvoering van de samenwerkingsovereenkomst 2020-2025 
+
+De uitvoering van de samenwerkingsovereenkomst wordt globaal positief geëvalueerd. De modaliteiten vastgelegd in de samenwerkingsovereenkomst werden algemeen goed opgevolgd door zowel vzw Leuvenement als de stad. Er is een constructieve samenwerking tussen vzw Leuvenement en de stad. Ook hier vormt de directeur een belangrijke schakel in die samenwerking en informatiestroom. 
+
+## Evaluatie over de verzelfstandiging 
+
+De argumenten die aan de basis lagen om de EVA op te richten, zijn nog steeds actueel. Het besluitvormingsproces binnen een vzw is directer (Algemene Vergadering, Raad van Bestuur, orgaan van dagelijks bestuur), waardoor men sneller en daadkrachtiger kan optreden. Dit draagt bij tot een grotere dynamiek en flexibiliteit en geeft de ruimte om sneller op te treden. Hierdoor kan tevens kort op de bal worden gespeeld, belangrijk voor de samenwerking met private partners, met artiesten en boekingskantoren. 
+
+De werking in de evenementensector heeft een flexibel personeelsbeleid voor tijdelijke medewerkers nodig. De flexibele inzet van tijdelijke medewerkers tijdens (onregelmatige) vrijetijdsuren en op piekmoment is onmisbaar, en kan goedkoper binnen een vzw georganiseerd worden. Het personeelsstatuut binnen de stad, en met name de rechtspositieregeling, is, hoewel flexibel, onvoldoende geschikt op een dergelijke manier van werken met pieken, seizoenswerk en ad hoc contracten. Voor vzw Leuvenement speelt net zoals voor 30CC het marktgericht criterium: een duurzame organisatie- en financieringsstructuur is noodzakelijk om op gelijke voet te staan met de private evenementensector en met commerciële en economische initiatieven. Er worden geregeld sponsorcontracten afgesloten met grote bedrijven, die bepaalde onderdelen van (meerdaagse) evenementen sponsoren. Het financieel beheer kan niet op de wijze die nodig is binnen de stad georganiseerd worden. De procedures moeten soepele betalingen in functie van het eigen programma van de vzw ondersteunen. Dit geldt bijvoorbeeld: voor voorschotten aan artiesten of boekingskantoren die noodzakelijk zijn binnen de sector. De stad werkt echter niet met voorschotten. 
+
+## **3. vzw Tofsport** 
+
+Vzw Tofsport heeft overeenkomstig artikel 3 van de statuten volgend maatschappelijk doel: ' _de competitieve en recreatieve sportbeoefening in de stad Leuven te promoten. Zij zal met dit doel een synergie beogen door de samenwerking te bevorderen tussen de sportverenigingen: door initiatieven, met het oog op de sport voor allen te ondersteunen; door zelf initiatieven te nemen om de participatie te stimuleren. Daarvoor kan de vereniging zelf sportevenementen organiseren, materiële en financiële steun verlenen aan bepaalde sport- of randactiviteiten met het oog op de sportbeoefening in de ruimste zin'._ 
+
+## Evaluatie over de uitvoering van de samenwerkingsovereenkomst 2020-2025 
+
+De uitvoering van de samenwerkingsovereenkomst wordt globaal positief geëvalueerd. De modaliteiten vastgelegd in de samenwerkingsovereenkomst werden algemeen goed opgevolgd door zowel vzw Tofsport als de stad. Er is een constructieve samenwerking tussen vzw Tofsport en de stad. Ook hier is de directeur van de betrokken directie een belangrijke brugfiguur. 
+
+## Evaluatie over de verzelfstandiging 
+
+De argumenten die aan de basis lagen om de EVA op te richten, zijn nog steeds actueel. Het besluitvormingsproces binnen vzw Tofsport is directer, waardoor men sneller en daadkrachtiger kan optreden en minder gebonden is aan het langer besluitvormingsproces binnen een stad. Dit draagt bij tot een grotere dynamiek en flexibiliteit en geeft de ruimte om sneller op te treden, wat belangrijk is met bijvoorbeeld lokale sportactoren en private partners. Op die manier staat men ook een stuk dichter bij de Leuvense sporter. Via een EVA-vzw verloopt het betalingsverkeer soepeler, wat een noodzaak is om kort op de bal te spelen voor betalingen in functie van het eigen sport- en beweegbeleid. Binnen vzw Tofsport werd hiervoor ook een passend intern controlesysteem opgezet. In de sportsector kunnen bepaalde subsidies (zoals bepaalde projectsubsidies) enkel aangevraagd en effectief verworven worden, wanneer deze worden toegekend aan een privaatrechtelijke beheersvorm. Ook voor het bekomen van bepaalde sponsoring heeft de rechtsvorm van een vzw een aantal voordelen boven de werking binnen een stadsdienst. Privé-(rechts)personen zijn minder snel geneigd om met een stadsbestuur (of AGB) in zee te gaan. Bij vzw Tofsport wordt de doelstelling gehanteerd om een drempelverlagend sport- en beweegaanbod te ontwikkelen door het hanteren van zeer democratische tarieven. De stad Leuven voorziet een toelage die wordt vastgelegd in de meerjarenbegroting. Daarnaast worden deze middelen aangevuld met beperkte middelen die voortkomen uit inkomsten (zoals daar zijn de Tofsportkampen, sportreeksen, enzovoort), alsook met bepaalde projectsubsidies. Hierdoor is een eigen rekening waarop deze diverse inkomsten kunnen toekomen een noodzaak. Door de verzelfstandiging wordt het ook mogelijk om bepaalde diensten meer te responsabiliseren, ook voor de inkomstenzijde. Eventuele extra inkomsten kunnen door de vzw Tofsport worden ingezet in het kader van het na te streven doel, binnen de missie & visie. Het inzetten van vrijwilligers bij diverse sportactiviteiten is gemakkelijker te organiseren vanuit de vzwstructuur. 
+
+## **4. vzw Centrummanagement** 
+
+Vzw Centrummanagement heeft overeenkomstig artikel 3 van de statuten volgend maatschappelijk doel: ' _de centrumfunctie van de stad die verbonden is met handel en horeca te versterken, uit te breiden en te promoten. Het is eveneens het doel om hierbij maximale coherentie en samenwerking na te streven met de andere centrumfuncties zoals: wonen, toerisme en cultuur. De vereniging ontwikkelt daartoe activiteiten op volgende terreinen (niet limitatieve opsomming):_ 
+
+_-_ het bevorderen van de onderlinge samenwerking tussen de marktactoren en het uitbouwen van evenwichtige partnerships tussen private en publieke partijen; 
+
+- acties in het leven roepen die een impact hebben op: de binnenstedelijke gebieden of 
+
+stadsdeelcentra, de toegankelijkheid, de parkeermogelijkheden, de veiligheid. Hiertoe wordt een businessplan opgesteld op korte, middellange en lange termijn; 
+
+- het bijstaan van de winkelgebieden in hun verdere uitbouw en ze helpen om competitief te blijven; - het bevorderen van wonen boven winkels; 
+
+- het promoten van de Leuvense handelscentra in binnen en buitenland, dat laatste in samenspraak met de diensten toerisme en cultuur'. 
+
+## Evaluatie over de uitvoering van de samenwerkingsovereenkomst 2020-2025 
+
+De uitvoering van de samenwerkingsovereenkomst wordt globaal positief geëvalueerd. De modaliteiten vastgelegd in de samenwerkingsovereenkomst werden algemeen goed opgevolgd door zowel vzw Centrummanagement als de stad. Er is een constructieve samenwerking tussen vzw Centrummanagement en de stad. 
+
+## Evaluatie over de verzelfstandiging 
+
+Alhoewel het betalingsverkeer soepeler verloopt binnen een EVA-vzw en de betrokkenheid van het maatschappelijk draagvlak van de handel- en reca-ondernemers belangrijke motivaties zijn, wordt de noodzaak van de werking van het extern verzelfstandigd agentschap vzw Centrummanagement als beperkt ervaren. Hogere betrokkenheid van de handel- en reca-ondernemers buiten het centrum 
+
+kan de meerwaarde van vzw Centrummanagement en bij uitbreiding de samenwerking met Liefst Leuven verhogen. Een traject om dit uit te klaren werd reeds opgestart. 
+
+## **5. vzw Kinderopvang Leuven** 
+
+Vzw Kinderopvang Leuven heeft overeenkomstig artikel 3 van de statuten volgend maatschappelijk doel: ' _kinderopvang te organiseren, te coördineren, te bevorderen en alle handelingen te stellen die hiermee betrekking hebben'._ 
+
+In artikel 2 van de samenwerkingsovereenkomst met vzw Kinderopvang Leuven staat beschreven dat dit volgende hoofdopdrachten omvat: 
+
+- het project binnenschoolse kinderopvang in het basisonderwijs Leuven; 
+
+- het operationeel coördineren van het loket voorschoolse kinderopvang in Leuven in samenwerking met het netwerk Centrum voor Kinderopvang Leuven; 
+
+- de acties verbonden aan de erkenning van de stad Leuven als Centrum Inclusieve Kinderopvang; 
+
+- gezinsondersteunende activiteiten en projecten, zoals het Buggypunt; 
+
+- het voort uitbaten van IBO ’t Koetshuis, een zelfbedruipende deelwerking van deze vzw. 
+
+## Evaluatie over de uitvoering van de samenwerkingsovereenkomst 2020-2025 
+
+De uitvoering van de samenwerkingsovereenkomst wordt globaal positief geëvalueerd. De modaliteiten vastgelegd in de samenwerkingsovereenkomst werden algemeen goed opgevolgd door zowel vzw Kinderopvang Leuven als de stad. Er is een constructieve samenwerking tussen vzw Kinderopvang Leuven en de stad. De directeur (welzijn) heeft ook hier een scharnierfunctie, samen met de beleidsadviseur opvang en opvoeding, samen met de directeur van de vzw. 
+
+## Evaluatie over de verzelfstandiging 
+
+Het opsplitsen van de regie- en aanbodrol in kader van buitenschoolse opvang en activiteiten is een belangrijke vereiste in het BOA-decreet, en is een grote meerwaarde voor het stadsbeleid. Het is dan ook noodzakelijk dat Kinderkuren als BOA-organisator een aparte juridische entiteit blijft, in de vorm van een extern verzelfstandigd agentschap. 
+
+De vzw-structuur is noodzakelijk om in flexibele personeelsnoden, eigen aan de buitenschoolse opvang, te kunnen voorzien, met name: het volgen van PC331 conform andere organisatoren in de sector, grotere flexibiliteit in plaats- en tijdsonafhankelijk werken, flexibele uurroosters, flexibele aanwervingen binnen zeer uiteenlopende statuten op maat van dit knelpuntberoep, enzovoort. Het inzetten van vrijwilligers bij diverse activiteiten is veel soepeler te organiseren vanuit de vzwstructuur. De vzw-structuur laat ook een profilering als aparte werkgever toe, wat de nabijheid en betrokkenheid van de medewerkers met de eigen werking verhoogt. De medewerkers nemen daarnaast net als alle ander personeel van de EVA's van de stad ook deel aan de 
+
+personeelsactiviteiten georganiseerd door de stad. Ze hebben op die manier een dubbele vorm van 'horen tot', op kleine en grote schaal, die goed werkt voor deze groep. 
+
+## **6. vzw Stedelijk Jeugdwerk Leuven** 
+
+Vzw Stedelijk Jeugdwerk Leuven heeft overeenkomstig artikel 3 van de statuten volgend maatschappelijk doel: ' _de uitbouw van een jeugdwerking mogelijk te maken'._ 
+
+In artikel 2 van de samenwerkingsovereenkomst met vzw Stedelijk Jeugdwerk Leuven staat beschreven dat dit gebeurt door volgende acties: 
+
+- de organisatie van een speelpleinwerking in enkele Leuvense stadsdelen tijdens de schoolvakanties voor kinderen; 
+
+- de organisatie van een speelaanbod voor kinderen; 
+
+- kindercommunicatie en –participatie; 
+
+- de uitbouw van een actieve jongerenwerking in samenwerking met lokale partners; 
+
+- de ondersteuning van aanbod zoals bijvoorbeeld concerten, en projecten voor en door jongeren; 
+
+- de uitbouw van een jeugdinformatietraject met jongeren, zoals bijvoorbeeld een magazine; 
+
+- de uitbouw van een communicatiestrategie op maat van jongeren, zoals bijvoorbeeld een website; 
+
+- de verhuur van lokalen aan jongeren(organisaties); 
+
+- een kwalitatief vrijwilligersbeleid. 
+
+## Evaluatie over de uitvoering van de samenwerkingsovereenkomst 2020-2025 
+
+De uitvoering van de samenwerkingsovereenkomst wordt globaal positief geëvalueerd. De modaliteiten vastgelegd in de samenwerkingsovereenkomst werden algemeen goed opgevolgd door zowel vzw Stedelijk Jeugdwerk Leuven als de stad. Er is een constructieve samenwerking tussen vzw Stedelijk Jeugdwerk Leuven en de stad. Het afdelingshoofd jeugd vervult hier een scharnierfunctie, samen met het diensthoofd dagelijks beheer van de directie Samenleving. 
+
+## Evaluatie over de verzelfstandiging 
+
+De verzelfstandiging in een EVA-vzw is noodzakelijk voor het behouden en het verwerven van subsidie-inkomsten die niet via de stadsorganisatie kunnen worden bekomen. Het flexibel inzetten van werkingsmiddelen voor bepaalde activiteiten (zoals aankopen en uitgaven tijdens speelpleinwerking, monitoren, OKAN-activiteiten, outreachende jongerenactiviteiten) gebeurt veel efficiënter via een vzw. Het inzetten van vrijwilligers bij diverse activiteiten is evidenter te organiseren vanuit de vzw-structuur. 
+
+Uit de afweging van de verzelfstandiging blijkt anderzijds dat deze noodzaak niet geldt voor alle deelwerkingen van de vzw Stedelijk Jeugdwerk Leuven. Voor een groot aantal functies kan de invulling evengoed binnen de stadsorganisatie gebeuren. In de geest van het decreet lokaal bestuur en met het oog op efficiëntie en effectiviteit is het daarom aangewezen om een deel van de opdrachten opnieuw naar de stad te laten komen:  de centrale ondersteunende processen gebeuren zo kost effectiever én robuuster (personeelsbeheer en -beleid, organisatiebeheersing, enzovoort). Op drie gesubsidieerde personeelsleden na kunnen alle huidige functies, en de werkingsmiddelen van een aantal deelwerkingen, ingekanteld worden in de stadsorganisatie en het stadsbudget. 
+
+## **7. vzw DiversLeuven** 
+
+Vzw DiversLeuven heeft overeenkomstig artikel 3 van de statuten volgend maatschappelijk doel: ' _acties en initiatieven te ontwikkelen die de verbondenheid tussen diverse bevolkingsgroepen, en van deze groepen en hun leden met de lokale maatschappij, te versterken. Ze heeft daarbij specifieke aandacht voor etnisch-culturele diversiteit. Het handelingskader is het absoluut respect voor en het bevorderen van de rechten van de mens en de fundamentele vrijheden, zoals omschreven in het Europees Verdrag uit 1951 en verdere protocollen, en in de Universele Verklaring van de rechten van de mens. Om dit doel te bereiken werkt de vereniging onder meer emanciperend, participatief, stimuleert ze een correcte en positieve beeldvorming over diversiteit in al zijn aspecten, en bevordert ze de toegankelijkheid van lokale verenigingen en van maatschappelijke sectoren. Ze realiseert deze doelstellingen in samenwerking met de partners. Hiertoe vervult ze ook een rol als lokaal expertisecentrum diversiteit'._ 
+
+## Evaluatie over de uitvoering van de samenwerkingsovereenkomst 2020-2025 
+
+De uitvoering van de samenwerkingsovereenkomst wordt globaal positief geëvalueerd. De modaliteiten vastgelegd in de samenwerkingsovereenkomst werden algemeen goed opgevolgd door zowel vzw DiversLeuven als de stad. Er is een constructieve samenwerking tussen vzw DiversLeuven en de stad. De vzw voert haar taken zeer flexibel en met de nodige flexibiliteit voor ad hoc vragen van de stad, bijvoorbeeld: naar aanleiding van internationale crisissen, uit. Het afdelingshoofd diversiteit en gelijke kansen, tevens secretaris van de vzw, vervult een belangrijke functie hierin. 
+
+## Evaluatie over de verzelfstandiging 
+
+De vzw was in oorsprong een niet-stedelijke vzw, die na een tijdje onder politiek bestuur, en vervolgens over de decennia heen ook organisatorisch steeds dichter in de stadsorganisatie is gekomen, om in 2014 een formele privaatrechtelijke EVA te worden. 
+
+De vzw herbergt vele deelwerkingen, integraal voor verschillende afdelingen van de stadsorganisatie. 
+
+- De verzelfstandiging  blijft noodzakelijk voor: 
+
+- samenwerkingsverbanden of netwerken zonder eigen juridische structuur, zoals SOM en IHL; 
+
+- het behouden en verwerven van subsidie-inkomsten en inkomsten van leden en partnerorganisaties (bijvoorbeeld door IHL); 
+
+- de autonomie en profilering los van de stadsorganisatie van SOM en IHL; 
+
+- het behoud van de flexibele personeelswerking voor vrijwilligers, occasionele medewerkers, cultuursensitieve laaggeschoolde profielen, lesgevers, enzovoort voor onder meer de Nomade; 
+
+- het flexibel inzetten van werkingsmiddelen voor bepaalde activiteiten waar snel schakelen en het omgaan met kleine sommen cashgeld door anderen dan personeel noodzakelijk is. 
+
+Uit de afweging van de verzelfstandiging blijkt dat voor sommige deelwerkingen van de vzw DiversLeuven een inkanteling aangewezen is. Voor een groot aantal functies kan de invulling evengoed binnen de stadsorganisatie gebeuren. In de geest van het decreet lokaal bestuur en met het oog op efficiëntie en effectiviteit is het aangewezen dat een deel van de opdrachten opnieuw naar de stad komen: de centrale ondersteunende processen gebeuren zo kost effectiever én robuuster (personeelsbeheer en -beleid, organisatiebeheersing, enzovoort). De volgende deelwerkingen kunnen met personeel én werkingsmiddelen ingekanteld worden in de stadsorganisatie en het stadsbudget: algemeen diversiteitsbeleid, beleid nieuwkomers (met uitzondering van de werkingsmiddelen van de Nomade), Mundia, administratie. Om dezelfde redenen is het opportuun om de werkingsmiddelen en personeelsleden voor het flankerend onderwijs, die historisch vanuit de periode van Stedenfondsmiddelen via de vzw tewerkgesteld werden, in te kantelen in de stad in de afdeling onderwijs, waar ze nu ook deel van uitmaken. 
+
+## **8. Autonoom Gemeentebedrijf Museum Leuven (AG Museum Leuven)** 
+
+De stad heeft AG Museum Leuven opgericht met als maatschappelijk doel, vastgelegd in de statuten: 
+
+- een permanente instelling te ontwikkelen, te bouwen en te exploiteren ten dienste van de gemeenschap en haar ontwikkeling, toegankelijk voor het publiek, die de materiële en immateriële getuigenissen van de mens en zijn omgeving verwerft, behoudt, beheert, wetenschappelijk onderzoekt, presenteert en hierover informeert voor doeleinden van studie, educatie en genoegen, volgens de internationale maatstaven vastgelegd door de International Council of Museums (ICOM, onderdeel van de UNESCO); 
+
+- culturele en wetenschappelijke doelstellingen na te streven door het realiseren van tentoonstellingen, projecten, publicaties, lezingen, enzovoort. Deze doelstellingen tonen een kwaliteitsontwikkeling aan, geïntegreerd in het museumconcept. Hierbij wordt gestreefd naar een internationaal kwaliteitsniveau en naar internationale uitstraling; 
+
+- verwervende, bewarende, wetenschappelijke en publieksgerichte functies te vervullen, ook de basisfuncties genoemd; 
+
+- een raakvlak te vormen tussen het bewaren, het scheppen en het ontsluiten met als uitgangspunt het stedelijk patrimonium in de ruimste zin van het woord; 
+
+- het verlenen van diensten ter ondersteuning van hogervermelde doelstellingen. 
+
+Hierop voortbouwend hanteert AG Museum Leuven de volgende missie als leidraad voor de werking van het museum: “M Leuven is een museum en beeldende kunstenplatform voor en door mensen dat betekenisvolle verbindingen legt doorheen de tijd, met de samenleving en tussen kunstdisciplines. M realiseert zijn internationale ambities vanuit de kennisstad Leuven.” M is daarbij gericht op de volgende strategische doelstellingen: 
+
+- M wil het geheugen van de samenleving versterken door beheer, ontsluiting en verwerving van waardevolle kunst- en erfgoedobjecten; 
+
+- M wil de perspectieven op de kunstgeschiedenis verbreden door wetenschappelijk onderzoek en 
+
+## museologische innovatie; 
+
+- M wil vernieuwing in het kunstenlandschap aanbrengen door ondersteuning van (jonge) kunstenaars en stimulering van artistiek onderzoek; 
+
+- M wil kansen creëren om referentiefiguren in de beeldcultuur van alle tijden te ontdekken via presentaties op maat; 
+
+- M wil de blik op de kunst, de wereld en het eigen leven verruimen door de betekenis van kunstwerken te activeren; 
+
+- M wil de veerkracht van mensen versterken in de omgang met de visuele samenleving door uitwisselingen tussen kunstenaars, kunstwerken en gemeenschappen; 
+
+- M ontwikkelt zich als een als performante organisatie die de principes van goed bestuur hanteert en aandacht heeft voor een optimaal beheer van de beschikbare middelen (personeel, financieel en infrastructureel). 
+
+Met het oog op een maximale bestuurlijke efficiëntie worden alle taken én know-how inzake museum- en tentoonstellingsbeleid gebundeld in AG Museum Leuven. 
+
+## Evaluatie over de uitvoering van de beheersovereenkomst 2020-2025 
+
+De uitvoering van de beheersovereenkomst wordt globaal positief geëvalueerd. De modaliteiten vastgelegd in de beheersovereenkomst werden algemeen goed opgevolgd door zowel AG Museum Leuven als de stad. Er is een constructieve samenwerking tussen AG Museum Leuven en de stad, door de nauwe samenwerking binnen de ambtelijke poot, waarbij de directeur cultuur de liaison vormt. 
+
+## Evaluatie over de verzelfstandiging 
+
+- beslissingsstructuur & besluitvorming: Verzelfstandiging van M biedt voordelen op vlak van wendbaarheid, effectiviteit, snelheid en flexibiliteit; 
+
+- operationele efficiëntie: M kan dankzij flexibelere beheersregels en eigen beleidsruimte sneller schakelen, efficiënter organiseren en gerichter inspelen op het museumbezoek en culturele trends; - samenwerkingsverbanden: M heeft nood aan juridische en beleidsmatige ruimte om volwaardig te functioneren als actor in het culturele ecosysteem en de participatieve ambitie waar te maken die van een hedendaags museum met kunstenwerking wordt verwacht; 
+
+- personeelsbeleid en – beheer: Een aangepaste structuur en cultuur zorgen ervoor dat M een lerende en innoverende organisatie is die proactief inspeelt op de noden van medewerkers, bezoekers en stakeholders; 
+
+- financieel en fiscaal beheer: Aangepaste financiële processen maken M wendbaarder wat essentieel is voor een projectmatige, culturele werking en de verzelfstandiging van M biedt aanzienlijke fiscale voordelen, die kunnen leiden tot lagere operationele kosten en een efficiënter gebruik van middelen; 
+
+- autonomie en onafhankelijkheid: De autonomie is essentieel voor de aantrekkingskracht van M voor bezoekers, sponsors, sectorale partners en voorwaarde voor een duurzame en maatschappelijk verankerde werking. 
+
+## **9. Autonoom Gemeentebedrijf Stadsontwikkeling Leuven (AG Stadsontwikkeling Leuven)** 
+
+AG Stadsontwikkeling Leuven heeft overeenkomstig artikel 4 §2 van de statuten volgend maatschappelijk doel: 
+
+1° het coördineren van gebiedsontwikkelingen en van aan onderstaande doelstellingen verwante beleidsprogramma’s van de stad Leuven; 
+
+2° het ontwikkelen van stadsvernieuwings- en stadsontwikkelingsprojecten in Leuven; 
+
+3° het voorbereiden en het uitvoeren van een stedelijk grond- en pandenbeleid; 
+
+4° het afhandelen van de vastgoedtransacties voor rekening van de stad Leuven en van aan de stad Leuven verbonden rechtspersonen; 
+
+5° het beheren en het valoriseren van het openbaar en het privaat domein van de stad Leuven en van het vastgoed van aan de stad Leuven verbonden rechtspersonen; 
+
+- 6° het verlenen van facilitaire diensten aan de stad Leuven en aan de stad Leuven 
+
+## verbonden rechtspersonen; 
+
+7° het werven en beheren van de middelen uit subsidieprogramma’s met doelstellingen 
+
+inzake stadsvernieuwing en –ontwikkeling en vastgoed; 
+
+- 8° het verlenen van aan de hogervermelde doelstellingen verwante beleidsvoorbereidende adviezen, studies en andere diensten aan de stad Leuven en aan de stad Leuven verbonden rechtspersonen. 
+
+De stad draagt aan AG Stadsontwikkeling Leuven beleidsuitvoerende taken op, zoals nader omschreven in Deel II van de beheersovereenkomst met AG Stadsontwikkeling Leuven : 
+
+- projectmatige uitvoering van stedelijk woonbeleid; 
+
+- prospectie en grond- en pandenbeleid; 
+
+- ontwikkeling van woonprojecten; 
+
+- regie van woonontwikkelingsprojecten; 
+
+- integraal beheer van woningpatrimonium van groep Leuven; 
+
+- overdracht woningpatrimonium groep Leuven aan AG Stadsontwikkeling Leuven; 
+
+- labo voor innovatieve stadsontwikkeling; 
+
+- vastgoedtransacties en -beheer voor groep Leuven; 
+
+- facilitair beheer van dienstencentra en ander AG Stadsontwikkeling Leuven-patrimonium; 
+
+- beleidsvoorbereidende studie en advies 
+
+## Evaluatie over de uitvoering van de beheersovereenkomst 2020-2025 en evaluatie van de verzelfstandiging 
+
+De uitvoering van de beheersovereenkomst wordt globaal positief geëvalueerd. De modaliteiten vastgelegd in de beheersovereenkomst werden algemeen goed opgevolgd door zowel AG Stadsontwikkeling Leuven als de stad. Er is een constructieve samenwerking tussen AG Stadsontwikkeling Leuven en de stad, door de nauwe samenwerking binnen de ambtelijke poot. 
+
+De verzelfstandiging zorgt voor een duidelijke rolscheiding tussen regie en actor. De stad neemt de rol op van regie/beleid op vlak van ruimte planning, vergunningsverlening, mobiliteit en beheer van publieke ruimte. AGSL neemt de rol op van actor die op de vastgoedmarkt actief is als (publieke) ontwikkelaar. De vastgoedmarkt is een competitieve markt waar snelheid en soepelheid vereist zijn om slagkrachtig te kunnen inspelen op vastgoedopportuniteiten. Zo dient het principe van voorafgaand visum van financieel directeur niet te worden toegepast en kunnen investeringsuitgaven die nog niet waren gebudgetteerd vlotter worden gedaan. Een AG hoef bovendien niet te voldoen aan een positieve AFM op jaarbasis als verplichte evenwichtsvoorwaarde en kan hierdoor een investeringsbeleid over een langere termijn uitzetten. Dit is belangrijk bij vastgoedinvesteringen waarbij de ROI vaak pas met enkele jaren vertraging volgt. Als afzonderlijk rechtspersoon met een afgezonderd vermogen is een rollend investeringsfonds dat deels aan autofinanciering doet mogelijk. AG Stadsontwikkeling Leuven heeft het statuut van gemengd btw-plichtige en kan hierdoor uitgaande btw van btw plichtige activiteiten volledig in aftrek nemen. 
+
+Op basis van alle in de evaluatie opgesomde argumenten stelt het AG Stadsontwikkeling Leuven dat het zeker wenselijk om een autonoom gemeentebedrijf te behouden voor alle activiteiten op vlak van stadsontwikkeling en vastgoed die investeringen met een return inhouden. Daaronder vallen dus alle vastgoedprojecten met het oog op verkoop, verhuring of een andere vorm van commercialisatie. Het voorbeeld bij uitstek daarvan zijn uiteraard woningen, maar daarnaast komen ook commerciële ruimten, kantoren, parkeerplaatsen, en dergelijke, in aanmerking. 
+
+## **VERVOLGSTAPPEN:** 
+
+Met dit dossier ligt louter de kennisname voor van de eigen interne evaluaties per agentschap. 
+
+Overeenkomstig artikel 227 van het decreet lokaal bestuur dient de gemeenteraad zich binnen drie maanden hierover formeel uit te spreken, en de verzelfstandiging al dan niet bestendigen of aan te passen. 
+
+De huidige samenwerkingsovereenkomsten tussen de stad en de EVA's eindigen op woensdag 31 december 2025. Overeenkomstig artikel 21 van de samenwerkingsovereenkomst kan deze overeenkomst van rechtswege voor hoogstens één jaar verlengd worden na deze datum. De conclusies van de evaluatie van de verzelfstandiging en van de samenwerkingsovereenkomst van de voorbije periode, geven voeding aan de opmaak van de nieuwe samenwerkingsovereenkomsten, en het voorstel voor de bepaling van de opdrachten van de vzw's in de periode 2026-2031. De ontwerpen van nieuwe samenwerkingsovereenkomsten met de EVA-vzw’s worden ter bespreking en stemming voorgelegd aan de gemeenteraad. Dit wordt voorzien in december 2025. 
+
+De huidige beheersovereenkomsten tussen de stad en de AGB's hebben betrekking op de periode van 1 januari 2020 tot en met 30 juni 2025. Indien bij het verstrijken van deze termijn geen nieuwe beheersovereenkomst in werking is getreden, wordt de beheersovereenkomst van rechtswege met 1 jaar verlengd. De nieuwe beheersovereenkomsten worden gevoed door de input van de agentschappen, de beleidskeuzes van het college zoals onder meer opgenomen en financieel doorvertaald in het meerjarenplan 2026-2031, en de geconsolideerde conclusies over de verzelfstandiging. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van de evaluatieverslagen van de gemeentelijke extern verzelfstandigde agentschappen. 
+
+## **BIJLAGEN** 
+
+1. Afweging verzelfstandiging_VZW 30CC Finaal.pdf 2. Evaluatie_SWO_verzelfstandiging_VZW 30CC Finaal.pdf 3. Evaluatie_SWO_verzelfstandiging_VZWTofsport.pdf 
+
+4. Afweging verzelfstandiging_VZW Tofsport.pdf 
+
+5. Evaluatie_SWO_verzelfstandiging_VZW Leuvenement.pdf 
+
+6. Afweging verzelfstandiging_VZW Leuvenement_finaletekst.pdf 
+
+7. 20251022_Evaluatie_SWO_verzelfstandiging_VZW Kinderopvang Leuven.pdf 
+
+8. 20251022_Afweging_verzelfstandiging_VZW Kinderopvang Leuven.pdf 
+
+9. 20251009_Evaluatie_SWO_verzelfstandiging_VZW Stedelijk Jeugdwerk Leuven.pdf 
+
+10. 20251009_Afweging verzelfstandiging_VZW Stedelijk Jeugdwerk Leuven.pdf 
+
+11. 20251002_Afweging_verzelfstandiging_vzwDiversLeuven.pdf 
+
+12. 20251002_Evaluatie_SWO_verzelfstandiging_vzwDiversLeuven.pdf 
+
+13. Evaluatie_SWO_verzelfstandiging_VZW Centrummanagement Leuven.pdf 
+
+14. Afweging verzelfstandiging_VZW Centrummanagement.pdf 
+
+15. 20251022_Evaluatie_beheersovereenkomst_AGM.pdf 
+
+16. 20251022_Afweging_verzelfstandiging_AGM.pdf 
+
+17. Evaluatie beheersovereenkomst AGSL.pdf 
+
+18. Afweging verzelfstandiging_AGSL.pdf 
+
+## **CULTUUR** 
+
+## **Museum M** 
+
+## **8 AG Museum Leuven - Besluit van de gouverneur tot goedkeuring van de jaarrekening over het financiële boekjaar 2024 - Kennisneming (2025_GR_00580)** 
+
+## **STATUS** 
+
+## **Kennis genomen** 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gouverneur heeft in zijn besluit van 25 september 2024 de jaarrekening over het financiële boekjaar 2024 goedgekeurd. 
+
+Het besluit van de gouverneur tot goedkeuring van de jaarrekening over het financiële boekjaar 2024 van AG Museum Leuven dient vervolgens aan de gemeenteraad ter kennisname te worden voorgelegd. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het decreet over het lokaal bestuur van 22 december 2017 en in het bijzonder artikel 235 §4, 3de lid, artikel 241, artikel 243, artikel 260, eerste lid, artikel 262 en artikel 332, §1, derde lid - het besluit van de Vlaamse regering van 25 juni 2010 betreffende de beleids- en beheerscyclus van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn, en in het bijzonder de artikelen 30 tot en met 45 
+
+- het ministerieel besluit van 1 oktober 2010 tot vaststelling van de modellen en de nadere voorschriften van de beleidsrapporten en de toelichting ervan, en van de rekeningstelsels van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn, en in het bijzonder de artikelen 5 tot en met 8 en 11 tot en met 13 
+
+## **Argumentatie** 
+
+De jaarrekening 2024 van AG Museum Leuven werd vastgesteld door de raad van bestuur van AG Museum Leuven in zitting van 21 mei 2025 en goedgekeurd door de gemeenteraad in zitting van 30 juni 2025. De jaarrekening werd gepubliceerd op de webtoepassing van de stad. Het autonoom gemeentebedrijf bracht de toezichthoudende overheid op de hoogte van deze publicatie. De gouverneur dient zich binnen een termijn van 200 dagen die ingaat op de dag van ontvangst van de rekening uit te spreken over de goedkeuring ervan en de bedragen ervan vast te stellen. De stad ontving op 25 september 2025 het besluit van de gouverneur van 24 september 2025 waarbij hij de jaarrekening van AG Museum Leuven over het financiële boekjaar 2024 goedkeurt. 
+
+Met toepassing van artikel 332, § 1, derde lid van het decreet van 22 december 2017 over het lokaal bestuur moet het besluit van de gouverneur tot goedkeuring van de jaarrekening over het financiële boekjaar 2024 van AG Museum Leuven op de eerstvolgende vergadering van de gemeenteraad ter kennisname worden gebracht. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van het toegevoegd besluit van de gouverneur betreffende de goedkeuring van de jaarrekening 2024 van AG Museum Leuven. 
+
+## **BIJLAGEN** 
+
+1. 20250925_AGB_LEUVEN_Museum_V_zendbrief_JR24_VL2025.2603.pdf 
+
+2. 20250925_AGB_LEUVEN_Museum_V_goedkeuringsbesluit_JR24_VL2025.2603.pdf 
+
+## **9 AG Museum Leuven - Aanpassing prijssubsidiefactor vanaf 18 november 2025 - Goedkeuring (2025_GR_00583)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 33 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; Carl Devlies; Surya Dhakal; Ruben Geleyns; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Om economisch rendabel te zijn, krijgt AG Museum Leuven een toelage van de stad Leuven als vergoeding voor het recht tot toegang tot de infrastructuur. Omwille van de impact van de update van de projectkosten, kosten techniek en gebouwen, personeelsbegroting en actualisatie van de bezoekerscijfers dient de prijssubsidiefactor met ingang van dinsdag 18 november 2025 aangepast te worden. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het decreet lokaal bestuur van 22 december 2017, en latere wijzigingen 
+
+- de goedkeuring van de raad van bestuur van M van 16 juni 2016 in verband met de overschakeling van werkingssubsidies van de stad Leuven naar prijssubsidies 
+
+- de gemeenteraadsbeslissing van 25 juni 2007 waarin de oprichting en de statuten van het AG Museum Leuven, 
+
+- de gemeenteraadsbeslissing van 25 juni 2007 door de Vlaamse minister van Bestuurszaken, Binnenlands Bestuur, Inburgering, Toerisme en Vlaamse Rand op 26 oktober 2007 en de publicatie van deze beslissing in het Belgisch Staatsblad van 22 november 2007 
+
+- de gemeenteraadsbeslissing van 27 juni 2016 in verband met de overschakeling van werkingssubsidies van de stad Leuven naar prijssubsidies 
+
+- de gemeenteraadsbeslissing van 23 oktober 2023 in verband met de prijssubsidiefactor 2024 
+
+## **Argumentatie** 
+
+Om economisch rendabel te zijn, heeft AG Museum Leuven nood aan een toelage van de stad Leuven die dient als vergoeding voor het recht tot toegang tot de infrastructuur. Deze toelage wordt gebaseerd op een prijssubsidiefactor. Het betreft de factor waarmee de inkomsten uit de verkoop van een recht op toegang (tickets, enzovoort) tot de door het AGB geëxploiteerde infrastructuur moet vermenigvuldigd worden om economisch rendabel te zijn. 
+
+Met ingang van dinsdag 18 november 2025 zou deze prijssubsidiefactor dienen te wijzigen naar 11,54. De prijssubsidiefactor voor 2025 komt daardoor gemiddeld op 8,57 voor het ganse jaar 2025. 
+
+De totale toelage voor 2025 aan AG Museum Leuven door middel van prijssubsidies bedraagt maximaal 6.111.673 euro, waarvan  5.936.673  euro, exclusief btw vanuit stad Leuven en 175.000 euro, exclusief btw vanuit vzw Kunst Leuven. In totaal bedraagt de prijssubsidie inclusief 6% btw 6.478.873 euro. 
+
+Deze gewijzigde prijssubsidiefactor 2025 werd goedgekeurd door de raad van bestuur van AG Museum Leuven op 22 oktober 2025. De berekeningen werden toegevoegd als bijlage. 
+
+De gemeenteraad wordt gevraagd de nieuwe prijssubsidiefactoren goed te keuren. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De prijssubsidiefactor 11,54 voor de toelage aan AG Museum Leuven goed te keuren met ingang van dinsdag 18 november 2025. 
+
+## **Artikel 2** 
+
+De totale toelage via prijssubsidies aan AG Museum Leuven zal maximaal 6.111.673 euro, exclusief 6% btw bedragen voor 2025, waarvan 5.936.673 euro vanuit stad Leuven en 175.000 euro vanuit vzw Kunst Leuven. In totaal zal de prijssubsidie aan AG Museum Leuven maximaal 6.478.873 euro, inclusief 6% btw bedragen. 
+
+## **BIJLAGEN** 
+
+1. 20251022_AGM_2025_herziening_PS2025.pdf 
+
+20:46 - Sarah Mohamed Khalif, raadslid betreedt de zitting. 
+
+## **10 AG Museum Leuven - Aanpassing prijssubsidiereglement vanaf 18 november 2025 - Goedkeuring (2025_GR_00584)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 34 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; Carl Devlies; Surya Dhakal; Ruben Geleyns; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Om economisch rendabel te zijn, heeft AG Museum Leuven nood aan een toelage van de stad Leuven die dient als vergoeding voor het recht tot toegang tot de infrastructuur. Het reglement is toe aan een actualisering. Met ingang van dinsdag 18 november 2025 zal deze prijssubsidiefactor worden aangepast op basis van het nieuw prijssubsidiereglement. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het decreet lokaal bestuur van 22 december 2017, en latere wijzigingen 
+
+- de goedkeuring van de raad van bestuur van M van 16 juni 2016 in verband met de overschakeling van werkingssubsidies van de stad Leuven naar prijssubsidies 
+
+- de gemeenteraadsbeslissing van 25 juni 2007 waarin de oprichting en de statuten van het AG Museum Leuven, 
+
+- de gemeenteraadsbeslissing van 25 juni 2007 door de Vlaamse minister van Bestuurszaken, Binnenlands Bestuur, Inburgering, Toerisme en Vlaamse Rand op 26 oktober 2007 en de publicatie van deze beslissing in het Belgisch Staatsblad van 22 november 2007 
+
+- de gemeenteraadsbeslissing van 27 juni 2016 in verband met de overschakeling van 
+
+werkingssubsidies van de stad Leuven naar prijssubsidies 
+
+- de gemeenteraadsbeslissing van 23 oktober 2023 in verband met de prijssubsidiefactor 2024 
+
+## **Argumentatie** 
+
+Om economisch rendabel en winstgevend te zijn, wordt AG Museum Leuven een toelage toegekend door de stad Leuven. Deze toelage dient als vergoeding voor het recht tot toegang tot de infrastructuur door de bezoekers. De toelage wordt gebaseerd op een prijssubsidiefactor, de factor waarmee de inkomsten uit de verkoop van een recht op toegang (tickets, lidmaatschappen, enzovoort) tot de door AG Museum Leuven geëxploiteerde infrastructuur moet vermenigvuldigd worden. 
+
+Dit gewijzigd prijssubsidiereglement werd goedgekeurd door de raad van bestuur van AG Museum Leuven op 22 oktober 2025. 
+
+De gemeenteraad wordt gevraagd het nieuwe prijssubsidiereglement goed te keuren. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het nieuwe prijssubsidiereglement voor de toelage aan AG Museum Leuven goed te keuren met ingang van dinsdag 18 november 2025. 
+
+## **BIJLAGEN** 
+
+1. 20251022_AGM_2025_Tarieventabel_PS_2025_MODEL_aanpassing_GR_nov.pdf 
+
+2. 20251117_AGM_2025_Model_prijssubsidiereglement_AGB_2025_aanpassingGRnovember.pdf 
+
+## **AGM - Goedkeuren prijssubsidiereglement 2025 AGB** 
+
+## Voorgeschiedenis: 
+
+- Het Decreet over het lokaal bestuur; 
+
+- De Circulaire 2022/C/100 van 13 oktober 2022 betreffende de btw-regeling die van toepassing is op autonome gemeentebedrijven; 
+
+- Het directiecomité van het AGB heeft voor 2025 een raming van opbrengsten en kosten gemaakt teneinde een rendabele exploitatie mogelijk te maken (bijlage 1); Uit recente analyse van midden oktober 2025 blijkt dat de huidige prijssubsidie dient aangepast te worden. 
+
+- Het AGB wenst haar tarieven zodanig te bepalen opdat haar opbrengsten de kosten zouden overtreffen en de winst die hiermee wordt beoogd, minstens gedeeltelijk aan de Stad uit te keren (bijlage 2); 
+
+- Het Stadsbestuur kan evenwel beslissen om prijssubsidies toe te kennen en aldus de prijs voor de eindgebruiker te verlagen. De prijssubsidies worden integraal in mindering gebracht van de tarieven opgenomen in bijlage 2; 
+
+- Het college van burgemeester en schepenen is van oordeel dat de door het directiecomité van het AGB voorgestelde tarieven moeten worden verminderd met prijssubsidies, die door de Stad ten laste worden genomen. 
+
+Op voorstel van het college van burgemeester en schepenen, 
+
+## **BESLIST met […] stemmen voor en […] onthoudingen :** 
+
+**Artikel 1.** 
+
+De gemeenteraad keurt het prijssubsidiereglement 2025, vermeld in artikel 2 van huidige beslissing, ten voordele van het AGB goed. 
+
+## **Artikel 2.** 
+
+## **PRIJSSUBSIDIEREGLEMENT 2025 AGB** 
+
+Het AGB heeft haar inkomsten en uitgaven geraamd voor het kalenderjaar 2025 (zie bijlage 1). Op basis van deze ramingen heeft het AGB vastgesteld dat voor het kalenderjaar 2025 de inkomsten uit toegangsgelden museum minstens € 6.526.362,64 excl BTW dienen te bedragen om economisch rendabel te zijn. 
+
+De berekende prijssubsidie is € 6.092.612,64 excl BTW waarvan € 5.917.612,64 gedragen door Stad Leuven en € 175.000,00 door KunstLeuven. De aanpassing van de prijssubsidie ten laste van Stad Leuven (€ 6.272.669,40 incl BTW) past binnen de reeds ingeschreven budgetten binnen Stad Leuven (€ 6.292.873,38 incl BTW, MJP002432). 
+
+Om economisch rendabel te zijn heeft het AGB vanaf 1 januari 2025 de voorziene toegangsprijzen (inclusief 6 % btw) voor de toegang museale infrastructuur te vermenigvuldigen met een factor 9,14. Dit blijft momenteel ongewijzigd. Deze lopen af op 17/11/2025 door deze beslissing. 
+
+De gemeenteraad erkent dat het AGB, op basis van bijgestuurde ramingen, de voorziene toegangsprijzen (inclusief 6 % btw) voor de toegang museale infrastructuur te vermenigvuldigen met een factor 12,54 om economisch rendabel te zijn, van 18/11/2025 tot en met 31/12/2025. 
+
+Het Stadsbestuur verbindt er zich toe om voor de periode vanaf 1 januari 2025 tot en met 31 december 2025 deze beperkte toegangsgelden te subsidiëren middels de toekenning van prijssubsidies. 
+
+De waarde van de prijssubsidie toegekend door het Stadsbestuur voor toegangsgelden voor de museale werking bedraagt de prijs (inclusief 6% btw) die de bezoeker voor recht op toegang betaalt, vermenigvuldigd met een factor 11,54, vanaf 18/11/2025 tot en met 31/12/2025. 
+
+De bedragen van de prijssubsidies uitgedrukt in euro zijn opgenomen in bijlage 3, welke integrerend deel uitmaakt van deze beslissing. 
+
+De gesubsidieerde toegangsgelden (inclusief 6% btw) kunnen steeds geherevalueerd worden in het kader van een periodieke evaluatie van de totale exploitatieresultaten van het AGB. In de mate er een prijssubsidieaanpassing noodzakelijk is zal het Stadsbestuur deze steeds documenteren. De bedragen van de prijssubsidies kunnen slechts tweemaal per jaar worden herzien en kunnen uitsluitend van toepassing zijn voor toekomstige diensten. 
+
+Het AGB moet op de 15[de] werkdag van elk kwartaal aan het Stadsbestuur een overzicht bezorgen van de werkelijk gefactureerde bedragen tijdens het voorbije kwartaal tot de vrijetijdsinfrastructuur welke het bedrag aan te betalen prijssubsidies dient te bevatten. De afrekening van deze prijssubsidies zal gebeuren middels de uitreiking van een debet nota die het AGB uitreikt aan het Stadsbestuur. Het Stadsbestuur dient deze debet nota te betalen aan het AGB binnen de 30 werkdagen na ontvangst. 
+
+Het Stadsbestuur vestigt de aandacht erop dat de prijssubsidies deel uitmaken van de maatstaf van heffing en derhalve op de factuur dienen te worden vermeld wanneer de uitreiking van een btw-factuur verplicht is. 
+
+Een nieuw prijssubsidiereglement geldig vanaf 2026 zal worden onderhandeld tussen het Stadsbestuur en het AGB vóór 31 december 2025. 
+
+Bijlage 1: raming opbrengsten en kosten boekjaar 2025 
+
+Bijlage 2: beslissing directiecomité met voorstel rendabele tarieven 2025 
+
+Bijlage 3: bedragen prijssubsidies 2025 
+
+**Bijlage 1: raming opbrengsten en kosten boekjaar 2025** 
+
+**==> picture [455 x 108] intentionally omitted <==**
+
+**==> picture [455 x 109] intentionally omitted <==**
+
+Nota : er wordt aangeraden om de berekende dividenduitkering (€ 1.000) ook effectief in budgetwijziging 2025 in te schrijven 
+
+## **Bijlage 2: beslissing directiecomité met voorstel rendabele tarieven 2025** 
+
+Het directiecomité, 
+
+Het directiecomité neemt kennis van de geraamde opbrengsten en kosten voor het boekjaar 2025; 
+
+Het directiecomité heeft een raming gemaakt van de diverse te verwachten prestaties per tarief teneinde de vooropgestelde minimale omzet (zie bijlage 1) te realiseren; 
+
+Het directiecomité stelt voor om vanaf 18 november 2025 volgende tarieven te hanteren, doch geeft voordien de gemeenteraad de mogelijkheid om een prijssubsidie toe te kennen. Het zal deze prijssubsidies in mindering brengen van de hieronder voorgestelde rendabele tarieven zodat enkel het saldo ten laste blijft van de eindgebruiker. 
+
+**==> picture [71 x 525] intentionally omitted <==**
+
+**==> picture [72 x 525] intentionally omitted <==**
+
+**==> picture [71 x 525] intentionally omitted <==**
+
+**==> picture [71 x 525] intentionally omitted <==**
+
+**==> picture [71 x 525] intentionally omitted <==**
+
+## **DIGITAAL** 
+
+## **IT** 
+
+20:46 - Christophe Stockman, schepen verlaat de zitting. 
+
+**11 Gunningswijze en -voorwaarden  - Toetreding raamovereenkomst - Stad Brugge - ICT raamcontract 2025-2031 - 05 Systeeminfrastructuur 'BRUGGE-2025-002-SVC' - Goedkeuring (2025_GR_00522)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Besluit voor de toetreding tot deelraamovereenkomst 05 Systeeminfrastructuur (percelen 3 en 4) van de raamovereenkomst 'ICT Raamcontract 2025-2031' met aankoopcentrale stad Brugge. Raamovereenkomst voor 3 jaar met de mogelijkheid om 3 maal met 1 jaar te verlengen. Raming over de maximale looptijd van 6.000.000,00 euro, inclusief btw voor de 5 percelen samengenomen. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen - het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende plaatsing overheidsopdrachten klassieke sectoren, en latere wijzigingen 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van het college en gemeenteraad 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+De raamovereenkomst ‘Stad Brugge - ICT Raamcontract 2025-2031 – 05 Systeeminfrastructuur’ met besteknummer 'BRUGGE-2025-002-SVC' opgedeeld in vier percelen, werd uitgeschreven met een looptijd van 3 jaar, te rekenen vanaf de sluitingsdatum van het perceel. Aansluitend op de bovenvermelde looptijd kan de opdracht 3 maal worden verlengd met een periode van 1 jaar tot een maximum van 6 jaar door de stad Brugge via de mededingingsprocedure met onderhandeling, volgens de wet betreffende overheidsopdrachten van 17 juni 2016. 
+
+Hierbij treedt de stad Brugge op als aankoopcentrale voor de lokale overheden die zijn gesitueerd in het Vlaams Gewest, waardoor de stad Leuven krachtens artikel 47, § 2, van de wet van 17 juni 2017 is vrijgesteld van de verplichting om zelf een gunningsprocedure te organiseren. Het is aangewezen dat de stad gebruik maakt van de opdrachtencentrale om volgende redenen: 
+
+- de in de opdrachtencentrale voorziene ICT-infrastructuur voldoet aan de behoefte van het bestuur; - het bestuur moet zelf geen gunningsprocedure voeren wat een besparing van tijd en geld betekent; 
+
+- de stad Brugge beschikt over knowhow of technische expertise betreffende de aankoop van ICTinfrastructuur door aanbestedende overheden. De stad is niet verplicht tot enige afname van de raamovereenkomst (geen afnameverplichting). 
+
+Deze opdracht wordt in zes raamovereenkomsten als volgt gegund door de stad Brugge, Dienst Informatica, Binnenweg 2 Entrepot (Ruddershove 4, vanaf 1 januari 2025), 8000 Brugge: 
+
+- 01 'Desktopapparatuur' (in vorige communicatie onder de naam 'Werkplekapparatuur): bestek 2024-HFB-MPMO-122524, 21 maart 2025 tot en met maandag 20 maart 2028 (mogelijk verlengbaar tot en met donderdag 20 maart 2031); 
+
+- 02 'Licenties': bestek BRUGGE-2024-017-SVC, 6 december 2024 tot en met zondag 5 december 2027 (mogelijk verlengbaar tot en met donderdag 5 december 2030); 
+
+- 03 'Glasvezel': procedure stopgezet in vroege fase; 
+
+- 04 'Consultancy': bestek BRUGGE-2024-024-SVC, vanaf 15 juli 2025 tot en met vrijdag 14 juli 2028 (mogelijk verlengbaar tot maandag 14 juli 2031); 
+
+- 05 'ICT infrastructuur': bestek BRUGGE-2025-002-SVC, Perceel 3 - ICT-Servers-Storage en Perceel 4 Securityinfrastructuur, vrijdag 3 oktober 2025 tot en met maandag 2 oktober 2028 (mogelijk verlengbaar tot en met donderdag 2 oktober 2031); 
+
+- 06 'Multimedia' (in vorige communicatie onder de naam 'Multimedia Uitrusting'): bestek 'BRUGGE2024-029-SVC', vanaf 1 augustus 2025 tot en met maandag 31 juli 2028 (mogelijk verlengbaar tot en met donderdag 31 juli 2031). 
+
+De inhoud van de raamovereenkomst‘Stad Brugge - ICT Raamcontract 2025-2031 – 05 Systeeminfrastructuur’ met besteknummer 'BRUGGE-2025-002-SVC' wordt in het bestek (punt I.3. VOORWERP EN CLASSIFICATIE OPDRACHT) beschreven als volgt: 
+
+Deze opdracht betreft het leveren en installeren van servers, storage, back-up infrastructuur, netwerkcomponenten wired en wireless, firewalls en andere infrastructuur componenten . In een aantal gevallen betreft het ook de totaalinrichting van een serverroom (onder andere het voorzien van de kasten, stroomvoorzieningen, patchsystemen, bekabeling, verhoogde vloer, enzovoort). 
+
+De opdracht wordt opgesplitst in vier percelen: 
+
+## Perceel 1 - Netwerkinfrastructuur 
+
+In dit perceel betreft het leveren, installeren en ondersteunen van lan infrastructuur zoals switchen alsook het aanbod van bijbehorende monitoring- of managementsoftware. Hierbij wordt ook de bijbehorende embedded tools en de nodige consultancy aangeboden in functie van implementatie en support. Er wordt verwacht dat de aanbieder meerdere enterprise merken in het gamma heeft. 
+
+## Perceel 2 -Draadloze infrastructuur 
+
+In dit perceel betreft het leveren en/of installeren van draadloze netwerken en/of access points (alsook controllers en toebehoren) en waar nodig bijbehorend studiewerk. Daarnaast ook het aanbieden van wifi as a service op privaat domein (wifi oplossingen incl. internettoegang) alsook tijdelijk op publiek domein (vb. evenementen). Tenslotte (eerder beperkt) het aanbieden van punt tot punt draadloze verbindingen tussen vestigingen. 
+
+## Perceel 3 - ICT-Servers-Storage 
+
+Dit perceel betreft het leveren, installeren en ondersteunen van meerdere (enterprise) merken servers, storage, backup en toebehoren (san switchen / embedded tools /datacentercomponenten). Contracten voor clouddiensten zoals Azure of AWS zijn buiten scope. 
+
+## Perceel 4 – Securityinfrastructuur 
+
+In dit perceel betreft het leveren, installeren en ondersteunen van securityinfrastructuur zoals fysische en/of virtuele security oplossingen (o.a. firewalls) en netwerk access control oplossingen alsook het aanbod van bijbehorende monitoring- of managementsoftware. Hierbij worden ook de bijbehorende embedded tools en de nodige consultancy aangeboden in functie van implementatie en support. Er wordt verwacht dat de aanbieder meerdere enterprise merken in het gamma heeft. 
+
+Op basis van het verslag van nazicht wordt het perceel 3 - ICT-Servers-Storage voor het leveren, installeren en ondersteunen van meerdere (enterprise) merken servers, storage, backup en toebehoren, gegund aan Inetum Belgium, Bedrijvenlaan 4, 800 Mechelen, BE0429037235, dit voor een looptijd van 3 jaar met 3 maal 1 jaar verlengbaar via stilzwijgende verlenging. 
+
+Op basis van het verslag van nazicht wordt het perceel 4 – Securityinfrastructuur voor leveren, installeren en ondersteunen van securityinfrastructuur zoals fysische en/of virtuele security oplossingen (onder andere firewalls) en netwerk access control oplossingen alsook het aanbod van bijbehorende monitoring- of managementsoftware, gegund aan NTT Belgium, Telecomlaan 5/7, 1831 Diegem, BE0425907303, dit voor een looptijd van 3 jaar met 3 maal 1 jaar verlengbaar via stilzwijgende verlenging. 
+
+De nodige budgetten voor de kosten verbonden aan de gehele raamovereenkomst voor systeeminfrastructuur tot een jaarlijks bedrag van 6.000.000 euro, inclusief btw, worden per jaar beschikbaar gemaakt op: 
+
+MJP004720 - Datacommunicatie, glasvezelnetwerk, internet - DIG- 
+
+IT/2025/6142000000/2/0119/0500 en volgende jaren; 
+
+MJP005041 - investeringen in Netwerk en IT infrastructuur - DIG-IT/2025/2430000000/2/0119/0500 en volgende jaren; 
+
+MJP005048 - Communicatiekosten - DIG-IT/2025/6141005000/2/0119/0500 en volgende jaren; MJP005049 - Aankoop en implementatie software voor Netwerk en centrale IT applicaties - DIGIT/2025/2100000000/2/0119/0500 en volgende jaren; MJP006194 - Aankoop en implementatie licenties voor Netwerk en centrale IT applicaties - DIGIT/2025/2110000000/2/0119/0500 en volgende jaren. 
+
+Bepaalde specifieke aanvragen van stadsdiensten kunnen aangerekend worden op specifieke MJP's van de Digitaal binnen eigen meerjarenplanning. De nodige budgetten kunnen verschoven worden binnen de directie Digitaal, afdeling IT of van de vragende diensten in functie van de concrete vraag naar Digitaal. 
+
+Elke effectieve aankoop zal via de geijkte beslissingsprocessen (proces 1, 2 of 4) telkens voorgelegd worden en voorzien binnen de huidige budgetten. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De toetreding, gunningswijze, via de aankoopcentrale in de zin van artikel 2, 6° en artikel 47, § 2 - wet 17 juni 2016, conform de opdracht ‘Stad Brugge - ICT Raamcontract 2025-2031 – 05 'ICT infrastructuur': bestek BRUGGE-2025-002-SVC, Perceel 3 - ICT-Servers-Storage en Perceel 4 Securityinfrastructuur die de stad Brugge via de mededingingsprocedure met onderhandeling heeft afgesloten (conform artikel 38 - wet 17 juni 2016), en de gunningsvoorwaarden (zie contractuele documenten met betrekking tot desbetreffende raamovereenkomst als bijlage) goed te keuren: - 05 'ICT infrastructuur': bestek BRUGGE-2025-002-SVC, Perceel 3 - ICT-Servers-Storage en Perceel 4 Securityinfrastructuur, vrijdag 3 oktober 2025 tot en met maandag 2 oktober 2028 (mogelijk verlengbaar tot en met donderdag 2 oktober 2031). 
+
+## **Artikel 2** 
+
+De nodige budgetten voor de kosten verbonden aan de gehele raamovereenkomst voor systeeminfrastructuur tot een jaarlijks bedrag van 6.000.000 euro, inclusief btw, worden per jaar beschikbaar gemaakt op: 
+
+MJP004720 - Datacommunicatie, glasvezelnetwerk, internet - DIGIT/2025/6142000000/2/0119/0500 en volgende jaren; MJP005041 - investeringen in Netwerk en IT infrastructuur - DIG-IT/2025/2430000000/2/0119/0500 en volgende jaren; MJP005048 - Communicatiekosten - DIG-IT/2025/6141005000/2/0119/0500 en volgende jaren; MJP005049 - Aankoop en implementatie software voor Netwerk en centrale IT applicaties - DIGIT/2025/2100000000/2/0119/0500 en volgende jaren; 
+
+MJP006194 - Aankoop en implementatie licenties voor Netwerk en centrale IT applicaties - DIGIT/2025/2110000000/2/0119/0500 en volgende jaren. 
+
+Bepaalde specifieke aanvragen van stadsdiensten kunnen aangerekend worden op specifieke MJP's van de Digitaal binnen eigen meerjarenplanning. De nodige budgetten kunnen verschoven worden binnen de directie Digitaal, afdeling IT of van de vragende diensten in functie van de concrete vraag naar Digitaal. 
+
+Elke effectieve aankoop zal via de geijkte beslissingsprocessen (proces 1, 2 of 4) telkens voorgelegd worden en voorzien binnen de huidige budgetten. 
+
+## **BIJLAGEN** 
+
+1. BRUGGE-2025-002-SVC - 2025_CBS_04040 - Dossier gunning.pdf 2. BRUGGE-2025-002-SVC - Overzicht deelnemers - Nominatief.xlsx 
+
+3. BRUGGE-2025-002-SVC - Perceel 3 - Brief gunning - Inetum - Email.pdf 
+
+4. BRUGGE-2025-002-SVC - Perceel 3 - Brief gunning - Inetum.pdf 
+
+5. BRUGGE-2025-002-SVC - Perceel 3 - Gunningsverslag.pdf 
+
+6. BRUGGE-2025-002-SVC - Perceel 4 - Brief gunning - NTT - Email.pdf 
+
+7. BRUGGE-2025-002-SVC - Perceel 4 - Brief gunning - NTT.pdf 
+
+8. BRUGGE-2025-002-SVC - Perceel 4 - Gunningsverslag.pdf 
+
+9. BRUGGE-2025-002-SVC - 05 Systeeminfrastructuur - Selectieleidraad.pdf 
+
+10. BRUGGE-2025-002-SVC - 2025_GR_00052 - Dossier wijze van gunning.pdf 
+
+11. BRUGGE-2025-002-SVC - 05 Systeeminfrastructuur - Selectieverslag.pdf 
+
+12. BRUGGE-2025-002-SVC - 2025_CBS_02431 - Dossier selectie kandidaten.pdf 
+
+13. BRUGGE-2025-002-SVC - 05 Systeeminfrastructuur - Bestek.pdf 
+
+14. BRUGGE-2025-002-SVC - 2025_GR_00185 - Dossier bestek.pdf 
+
+15. BRUGGE-2025-002-SVC - Perceel 3 - Inventaris.xlsx 
+
+16. BRUGGE-2025-002-SVC - Perceel 3 - Technische Specificatiecatalogus.pdf 
+
+17. BRUGGE-2025-002-SVC - Perceel 4 - Inventaris.xlsx 
+
+18. BRUGGE-2025-002-SVC - Perceel 4 - Technische Specificatiecatalogus.pdf 
+
+19. Inetum_01_Offerteformulier_BAFO.pdf 
+
+20. Inetum_02_Inventaris-V2_BAFO.xlsx 
+
+21. Inetum_04-A_ Gunningscriterium_kwaliteit.pdf 
+
+22. Inetum_04-B_Gunningscriterium_bestel_en_levering.pdf 
+
+23. Inetum_04-C_gunningscriterium_service_sla.pdf 
+
+24. Inetum_04-D_Gunningscriterium_Prijstransparantie_update_na_onderhandeling.pdf 
+
+25. NTT_01_Offerteformulier-P4_BAFO.pdf 
+
+26. NTT_02_Inventaris-P4_BAFO.pdf 
+
+27. NTT_04A_Gunningscriterium_Kwaliteit-P4_BAFO.pdf 
+
+28. NTT_04B_Gunningscriterium_bestel_en_levering-P4_BAFO.pdf 
+
+29. NTT_04C_Gunningscriterium_Service_SLA-P4_BAFO.pdf 
+
+30. NTT_04D_Gunningscriterium_Prijstransparantie-P4_BAFO.pdf 
+
+31. BRUGGE-2025-002-SVC - Perceel 4 - Brief sluiting - NTT - Email.pdf 
+
+32. BRUGGE-2025-002-SVC - Perceel 4 - Brief sluiting - NTT.pdf 33. BRUGGE-2025-002-SVC - Perceel 3 - Brief sluiting - Inetum - Email.pdf 34. BRUGGE-2025-002-SVC - Perceel 3 - Brief sluiting - Inetum.pdf 
+
+## **FINANCIËN** 
+
+## **Aankoop en Overheidsopdrachten** 
+
+20:47 - Anton Nilis, raadslid betreedt de zitting. 
+
+- 20:47 - David Dessers, raadslid betreedt de zitting. 
+
+20:48 - Mauro Michielsen, raadslid verlaat de zitting. 
+
+- 20:50 - Christophe Stockman, schepen betreedt de zitting. 
+
+- 20:55 - Debby Appermans, raadslid verlaat de zitting. 
+
+## **12 Gunningswijze en -voorwaarden - Raamovereenkomst voor de levering en plaatsing van fietsleunhekken en toebehoren op het grondgebied van de stad Leuven (AKD-2025/075) - Goedkeuring (2025_GR_00524)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Goedkeuring van de gunningswijze (via vereenvoudigde onderhandelingsprocedure met voorafgaande bekendmaking, wet van 17 juni 2016, artikel 41, § 1, 1°) en de gunningsvoorwaarden (bestek) aangaande de raamovereenkomst voor de levering en plaatsing van fietsleunhekken en toebehoren op het grondgebied van de stad Leuven. De indicatieve raming voor de stad Leuven bedraagt 210.000 euro, inclusief btw. De looptijd wordt vastgelegd op 4 jaar. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen - het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende plaatsing overheidsopdrachten klassieke sectoren, en latere wijzigingen 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van het college en gemeenteraad 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+De stad Leuven wenst haar aanbod aan fietsparkeerplekken versneld uit te breiden. Er werden reeds meer dan 50 locaties op leuvens grondgebied goedgekeurd voor de plaatsing van nieuwe fietsleunhekken. Om de uitbreiding van het aantal fietsparkeerplekken te versnellen is het 
+
+aangewezen een procedure te starten voor het afsluiten van een raamovereenkomst voor de levering 
+
+en plaatsing van fietsleunhekken en toebehoren. 
+
+De gunningswijze is via vereenvoudigde onderhandelingsprocedure met voorafgaande 
+
+bekendmaking (wet van 17 juni 2016, artikel 41, § 1, 1°). 
+
+De looptijd van deze nieuwe raamovereenkomst wordt vastgelegd op 48 maanden, met een vermoedelijke startdatum op donderdag 1 januari 2026. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De gunningswijze via vereenvoudigde onderhandelingsprocedure met voorafgaande bekendmaking (wet van 17 juni 2016, artikel 41, § 1, 1°), de gunningsvoorwaarden (bestek) betreffende de raamovereenkomst voor de levering en plaatsing van fietsleunhekken en toebehoren op het grondgebied van de stad Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+De looptijd van de raamovereenkomst vast te stellen op 48 maanden met een vermoedelijke startdatum op donderdag 1 januari 2026. 
+
+## **Artikel 3** 
+
+De totale uitgaven voor de stad Leuven te ramen op 210.000 euro, inclusief btw en deze aan te rekenen op MJP003062 - SWW/2026/2240000007/4/0200/0200 en latere jaren als volgt: 80.000 euro, inclusief btw, in 2026; 80.000 euro, inclusief btw, in 2027; 
+
+50.000 euro, inclusief btw, in 2028; 
+
+De uitgaven voor 2029 apart goed te keuren op basis van de behoeften (aantal nog te plaatsen fietsleunhekken, aantal goedgekeurde locaties). 
+
+## **BIJLAGEN** 
+
+1. bijlage_F_voorbeeldopdracht.xlsx 
+
+2. Bijlage_G_locaties_fietsnietjes.pdf 
+
+3. Raming_ok.xlsx 
+
+4. 2025_10_06_Bestek - plaatsing_fietsleunhekken.docx 
+
+## 20:58 - Debby Appermans, raadslid betreedt de zitting. 
+
+21:00 - Mauro Michielsen, raadslid betreedt de zitting. 
+
+## **13 Gunningswijze en -voorwaarden - Raamovereenkomst voor de coördinatie en verdere uitbouw van de Circulaire Hub Leuven (AKD-2025/106) - Goedkeuring (2025_GR_00535)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Goedkeuring van de gunningswijze (via vereenvoudigde onderhandelingsprocedure met voorafgaande bekendmaking, wet 17 juni 2016, artikel 41, §1, 1°) en de gunningsvoorwaarden voor de raamovereenkomst voor de coördinatie en verdere uitbouw van de Circulaire Hub Leuven. De looptijd wordt vastgelegd op 48 maanden, met de mogelijkheid om 1 keer te verlengen met een periode van 12 maanden. De indicatieve raming voor de stad Leuven bedraagt 205.700 euro, inclusief btw, voor de initiële looptijd van 48 maanden en 48.400 euro, inclusief btw, voor de mogelijke verlenging van 12 maanden. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende plaatsing overheidsopdrachten klassieke sectoren, en latere wijzigingen 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan - het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van het college en gemeenteraad 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan - de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+Een meer circulaire economie is een instrument om onze klimaatambities te realiseren en Leuvense ondernemers en organisaties te ondersteunen op weg naar een innovatieve en duurzame economische toekomst. De impact van een meer circulaire economie in onze stad is één van de pijlers om de uitdaging van de 100 Climate Cities aan te gaan en is opgenomen als prioritair domein in het Leuvens Klimaatcontract. In de strategie Leuven Circulair en de bestuursnota 2025-2030 worden prioriteiten vastgelegd binnen de transitie naar een meer circulaire economie: Er wordt focust op de sectoren bouw, kunststoffen en gezondheidszorg. 
+
+De opstart van de Circulaire Hub werd gefaciliteerd door een projectwerking vanuit ESF-Vlaanderen Circulair. 
+
+De voorbije jaren werden projecten in de steigers gezet rond textiel, plastics, bouwmaterialen en de gezondheidszorg. Elk van die projecten heeft geleid tot nieuwe partnerschappen en tot projecten met (Leuvense en niet-Leuvense) sleutelbedrijven in die sectoren. In concrete initiatieven wordt op deze manier de industriële haalbaarheid getest van nieuwe circulaire strategieën die producten en materialen op grote schaal en met het hoogst mogelijke waardebehoud in Leuven moeten houden. 
+
+Met de doorstart van de Circulaire Hub wordt voluit ingezet op opschaling en impact van de activiteiten van de Circulaire Hub en dus de Leuvense circulaire economie. 
+
+De stad Leuven wenst met deze overheidsopdracht een raamovereenkomst af te sluiten voor de coördinatie en verdere uitbouw van de Circulaire Hub Leuven, voortbouwend op de resultaten en de samenwerkingen binnen het lokale ecosysteem van de voorbije jaren. Hierdoor kan de Circulaire Hub verder uitgroeien tot een echte incubator en accelerator van circulaire praktijken in het circulaire ecosysteem, op basis van systematische capaciteitsopbouw. Die capaciteit omvat de nodige financiële middelen, de kennis en vaardigheden van mensen en sterke organisaties. De Circulaire Hub zet tal van nieuwe projecten in de steigers zodat randvoorwaarden voor hun opschaling en duurzame implementatie in kaart kunnen worden gebracht en nieuwe duurzame 
+
+ketensamenwerkingen worden geïnitieerd, met speciale aandacht voor het betrekken van de sociale economie. Hierdoor kunnen dan betere maatregelen voor systeemverandering worden genomen. De uit te voeren deelopdrachten tijdens de raamovereenkomst zullen in samenspraak en co-creatie met de stad worden bepaald. Prestaties worden besteld op afroep, naargelang de noden die worden gedetecteerd tijdens het traject. 
+
+De looptijd van de raamovereenkomst wordt vastgelegd op 48 maanden (vermoedelijke startdatum: zondag 1 maart 2026), met de mogelijkheid om 1 keer te verlengen met een periode van 12 maanden. Gelet op de aard en het voorwerp van de raamovereenkomst – de coördinatie en verdere uitbouw van de Circulaire Hub Leuven – is een langere looptijd dan 48 maanden noodzakelijk om de continuïteit, voortgang en duurzame verankering van de werking te waarborgen. Het opzetten en uitbouwen van circulaire ketensamenwerkingen in de prioritaire sectoren bouw, kunststoffen en gezondheidszorg door de opdrachtnemer, vergt meerjarige trajecten die niet binnen een korte termijn tot structurele resultaten kunnen leiden. Dit leidt tot aanzienlijke investeringen voor de stad in personeelsinzet (zowel intern als extern), kennisopbouw, netwerkontwikkeling en de uitbouw van ondersteunende structuren. 
+
+De verlenging zal enkel worden toegepast indien dit noodzakelijk blijkt voor afronding of borging van cruciale processen en (Europese of andere) projecten. Een wissel van opdrachtnemer tijdens het vijfde jaar, in trajecten die al werden opgestart tijdens de initiële looptijd van de raamovereenkomst, zou een groot verlies betekenen aan opgebouwde kennis, expertise, netwerken en partnerschappen, en bovendien disproportionele kosten en discontinuïteit veroorzaken, met een directe negatieve impact op de voortgang van de circulaire transitie. 
+
+De gunningswijze is via de vereenvoudigde onderhandelingsprocedure met voorafgaande bekendmaking (wet van 17 juni 2016, artikel 41, §1, 1°). 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De gunningswijze via de vereenvoudigde onderhandelingsprocedure met voorafgaande bekendmaking (wet van 17 juni 2016, artikel 41, §1, 1°) en de gunningsvoorwaarden (bestek) betreffende de raamovereenkomst voor coördinatie en verdere uitbouw van de Circulaire Hub Leuven, goed te keuren. 
+
+## **Artikel 2** 
+
+De looptijd van de raamovereenkomst vast te stellen op 48 maanden (vermoedelijke startdatum: zondag 1 maart 2026) en de mogelijkheid te voorzien om 1 keer te verlengen met een periode van 12 maanden. 
+
+## **Artikel 3** 
+
+De uitgaven tijdens de initiële looptijd te ramen op 205.700 euro, inclusief btw, en aan te rekenen op budgetsleutel MJP005853 - RDB/2026/6130000000/4/0350 en volgende jaren, waarvan: 
+
+- 50.000 euro, inclusief btw, voor 2026 (10/12); 
+
+- 50.000 euro, inclusief btw, voor 2027 (12/12); 
+
+- 50.000 euro, inclusief btw, voor 2028 (12/12); 
+
+- 50.000 euro, inclusief btw, voor 2029 (12/12); 
+
+- 5.700 euro, inclusief btw, voor 2030 (2/12). 
+
+De eventuele verlenging van de raamovereenkomst (1x mogelijk met een periode van 12 maanden)  apart aan het college voor te leggen ter goedkeuring. De uitgaven voor deze verlenging te ramen op 48.400 euro, inclusief btw, en aan te rekenen op MJP005853 - RDB/2030/6130000000/4/0350 en het volgende boekjaar. 
+
+## **BIJLAGEN** 
+
+1. Bijlage B - inventaris.xlsx 
+
+2. Raming.xlsx 
+
+3. 2025_10_13_Bestek - Circulaire hub.docx 
+
+## **Boekhouding, Planning en Rapportering** 
+
+21:25 - Jan Thomas Roefs, raadslid verlaat de zitting. 
+
+21:27 - Bart Meulemans, raadslid verlaat de zitting. 
+
+## **14 Leningen stad 2025 Deel 2 - Contractvoorwaarden  - Goedkeuring** 
+
+## **(2025_GR_00590)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 34 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Ruben Geleyns; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Christophe Stockman; 
+
+Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 stem(men) tegen: Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Voor de financiering van de uitvoering van  investeringen in het meerjarenplan, wordt beroep gedaan op externe financiering via lange termijn leningen en thesauriebewijzen. Afhankelijk van de uiteindelijke uitvoering van investeringsprojecten in de komende maanden en de globale financieringsbehoefte van de thesaurie einde jaar, wordt prijs gevraagd voor bijkomende leningen voor een bedrag van maximum 38.000.000 euro (beschikbaar onder het budget 2025) waarbij het bestuur kan beslissen welke bedragen in welke looptijden (20 en/of 25 en/of 30 jaar) te gunnen en op te nemen. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+In het voorjaar 2025 heeft Leuven een eerdere prijsvraag uitgestuurd naar banken ten belope van in totaal 80.000.000 euro, gegund en opgenomen in 2 leningen van elk 40.000.000 euro op 30 jaar en 25 jaar. Afhankelijk van de uiteindelijke uitvoeringsgraad van investeringen in het meerjarenplan 2020-2025 en de financieringsbehoefte via thesauriebewijzen tegen eind van het jaar 2025 en voorjaar 2026, wenst het bestuur een nieuwe prijsvraag uit te sturen ten belope van maximum 38.000.000 euro om zodoende de opportuniteit en flexibiliteit te voorzien om desgevallend bijkomende lange termijn bankleningen op te nemen. Hierbij behoudt  het bestuur zich het recht voor om het volledige bedrag of minder te gunnen in één perceel (= één looptijd) ofwel gespreid in meerdere percelen (= meerdere looptijden), met een minimum bestelling van in totaal10 miljoen euro waarbij bestellingen mogelijk zijn tot eind  juni 2026 in functie van de noden. 
+
+Er wordt één opdracht voorzien die leningen bevat voor een totaal van maximaal 38 miljoen euro opgesplitst in drie percelen: 
+
+|opgesplitst in drie percelen:|||
+|---|---|---|
+||Geraamd bedrag|Looptijd|
+|Perceel I|max 38.000.000 euro|20 jaar|
+|Perceel II|max 38.000.000 euro|25 jaar|
+|Perceel III|max 38.000.000 euro|30 jaar|
+
+
+
+De belangrijkste kenmerken van de lening(en) van perceel I zijn: 
+
+- bedrag: indicatief max 38.000.000 euro; 
+
+- looptijd: 20 jaar; 
+
+- rentevoet: vast; 
+
+- opname voor dinsdag 30 juni 2026 in functie van de noden en de evolutie van de rentevoeten; 
+
+- aflossingen en intresten: semestrieel, vaste semestrialiteit. 
+
+De belangrijkste kenmerken van de lening(en) van perceel II zijn: 
+
+- bedrag: indicatief max 38.000.000 euro; 
+
+- looptijd: 25 jaar; 
+
+- rentevoet: vast; 
+
+- opname voor dinsdag 30 juni 2026 in functie van de noden en de evolutie van de rentevoeten; 
+
+- aflossingen en intresten: semestrieel, vaste semestrialiteit. 
+
+De belangrijkste kenmerken van de lening(en) van perceel III zijn: 
+
+- bedrag: indicatief max 38.000.000 euro; 
+
+- looptijd: 30 jaar; 
+
+- rentevoet: vast; 
+
+- opname voor dinsdag 30 juni 2025 in functie van de noden en de evolutie van de rentevoeten; 
+
+- aflossingen en intresten: semestrieel, vaste semestrialiteit. 
+
+Het contract wordt gegund en gesloten op basis van de aangeboden marge bovenop de nominale rentevoet en het bestuur baseert zich op de economische meest voordelige offerte. 
+
+Het bestuur verbindt zich ertoe om minstens in totaal voor 10 miljoen te bestellen. 
+
+De bestelling zal indicatief gebeuren tussen de gunningsdatum en eind juni 2026. 
+
+Varianten zijn niet toegestaan. 
+
+Sinds 30 juni 2017 is het voor lokale besturen niet meer verplicht om de wetgeving overheidsopdrachten te volgen voor het aangaan van een lening. Dat neemt niet weg dat besturen bij het aangaan van een lening de beginselen van behoorlijk bestuur moeten blijven toepassen. 
+
+Het is aangewezen om het toegevoegde contract goed te keuren om tot een marktconsultatie over te kunnen gaan. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De toegevoegde contractvoorwaarden voor het aangaan van een pakket van leningen (in drie percelen) voor een indicatief bedrag van in totaal maximum 38 miljoen euro, goed te keuren. 
+
+## **Artikel 2** 
+
+De banken Belfius, BNP Paribas Fortis, ING, Argenta en KBC gelijktijdig uit te nodigen om een offerte in te dienen. 
+
+De voorwaarden waaraan moet voldaan worden, staan opgesomd in toegevoegde contract. Het onderzoek en de vergelijking van de offertes zal gebaseerd worden op de economisch meest voordelige offerte op basis van de laagst aangeboden marge. Na onderzoek en goedkeuring van de gunningsbeslissing door het college zal het contract gesloten worden door betekening. 
+
+- 21:31 - Bart Meulemans, raadslid betreedt de zitting. 
+
+- 21:31 - Jan Thomas Roefs, raadslid betreedt de zitting. 
+
+- 21:31 - Ruben Geleyns, raadslid verlaat de zitting. 
+
+## **16 Kerkfabriek Heilig Hart Blauwput - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00542)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Heilig Hart Blauwput te Kessel-Lo legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Heilig Hart Blauwput te Kessel-Lo werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 6 augustus 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>Renovatie van de elektriciteit in de kerk|€ 42.000<br>€ 103.492<br>€ 5.000|
+
+
+
+||•<br>Restauratie van de kapel, dringende dak<br>verstevigings werken deel 1<br>•<br>vervangen loden waterleidingen in het<br>parochiesecretariaat||
+|---|---|---|
+|2027|•<br>Restauratie van de kapel, dringende dak<br>verstevigings werken deel 2<br>•<br>Vernieuwen van de geluidsinstallatie in de<br>kerk|€ 150.000<br>€ 2.500|
+|2028|•<br>Restauratie van de kapel onder andere<br>verwijderen oude raditoren, plaatsen<br>nieuwe voordeur, enzovoort<br>•<br>plaatsen schermen in de kerk|€ 50.000<br>€ 5.000|
+|2029|•<br>Restauratie van de kerk en<br>vochtbestrijding op aanbeveling van<br>Monumentenwacht|€ 50.000|
+|2030|///||
+|2031|///||
+
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek Heilig Hart Blauwput te Kessel-Lo voor onderstaande bedragen: 
+
+|Kessel-Lo voor onderstaande bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 46.855,75|
+|2027|€ 15.255|
+|2028|€ 16.205|
+|2029|€ 16.705|
+|2030|€ 17.155|
+|2031|€ 17.855|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Heilig Hart Blauwput te Kessel-Lo ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Heilig Hart Blauwput te Kessel-Lo goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatietoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Heilig Hart Blauwput te Kessel-Lo worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+Exploitatietoelagen Investeringstoelagen 
+
+|2026|€ 46.855,75|€ 150.492|
+|---|---|---|
+|2027|€ 15.255|€ 152.500|
+|2028|€ 16.205|€ 55.000|
+|2029|€ 16.705|€ 50.000|
+|2030|€ 17.155|€ 0|
+|2031|€ 17.855|€ 0|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026-2031.pdf 
+
+## **17 Kerkfabriek Heilige Familie Boven-Lo - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00543)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Heilige Familie Boven-Lo legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Heilige Familie Boven-Lo werd door het Centraal Kerkbestuur ingediend op 26 juli 2025 en werd door de kerkraad goedgekeurd op 23 juni 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>Restaureren van glas in loodramen<br>•<br>Modernisering van het interieur, vooral de keuken, de<br>badkamer en het sanitair in de pastorij<br>•<br>Diverse herstellingen aan de ruwbouw en het dak van de<br>pastorij|€ 56.800<br>€ 30.000<br>€ 10.000|
+|2027|•<br>Restaureren van glas in loodramen<br>•<br>Herstellingen van dak- en torenbekleding van de kerk<br>•<br>Modernisering van het interieur, vooral de keuken, de<br>badkamer en het sanitair in de pastorij|€ 29.252<br>€ 10.000<br>€ 35.000|
+|2028|•<br>Restaureren van glas in loodramen<br>•<br>Schilderen van het buitenschrijnwerk en het ijzerwerk van de<br>kerk<br>•<br>Schilderen van het buitenschrijnwerk en het ijzerwerk van de<br>pastorij|€ 30.130<br>€ 28.763<br>€ 31.534|
+|2029|•<br>Herstellingen van dak- en torenbekleding van de kerk<br>•<br>Restaureren van glas in loodramen|€ 10.000<br>€ 31.034|
+|2030|•<br>Restaureren van glas in loodramen|€ 31.965|
+|2031|•<br>Restaureren van glas in loodramen<br>•<br>Herstellingen van dak- en torenbekleding van de kerk<br>•<br>Herstellen van de binnenmuren van de kerk<br>•<br>Diverse herstellingen aan de ruwbouw en het dak van de<br>pastorij|€ 32.350<br>€ 10.000<br>€ 15.000<br>€ 5.000|
+
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 16 700,27|
+|2027|€ 29 444,29|
+|2028|€ 29 989,24|
+|2029|€ 30 597,28|
+|2030|€ 31 168,29|
+|2031|€ 31 852,31|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Heilige Familie Boven-Lo ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 Heilige Familie Boven-Lo goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande  exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Heilige Familie Boven-Lo worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+|Leuven.|||
+|---|---|---|
+||Exploitatietoelagen|Investeringstoelagen|
+|2026|€ 16 700,27|€ 96.800|
+|2027|€ 29 444,29|€ 74.252|
+|2028|€ 29 989,24|€ 90.427|
+|2029|€ 30 597,28|€ 41.034|
+|2030|€ 31 168,29|€ 31.965|
+|2031|€ 31 852,31|€ 62.350|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **18 Kerkfabriek Onbevlekt Hart van Maria - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00545)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Onbevlekt Hart van Maria te Heverlee legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Onbevlekt Hart van Maria te Heverlee werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 26 juni 2025. Het bidsom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+Gedurende het vorige meerjarenplan 2020-2025 werd op basis van een studie van Monumentenzorg een grondige modernisering van het kerkgebouw gedaan. Bijgevolg worden in het huidige meerjarenplan geen verdere structurele investeringen maar slechts beperkte vervangingsinvesteringen ten belope van 12 500 euro per jaar voorzien. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>Beperkte vervangings- en onderhoudswerken in de kerk|€ 12.500|
+|2027|•<br>Beperkte vervangings- en onderhoudswerken in de kerk|€ 12.500|
+|2028|•<br>Beperkte vervangings- en onderhoudswerken in de kerk|€ 12.500|
+|2029|•<br>Beperkte vervangings- en onderhoudswerken in de kerk|€ 12.500|
+|2030|•<br>Beperkte vervangings- en onderhoudswerken in de kerk|€ 12.500|
+|2031|•<br>Beperkte vervangings- en onderhoudswerken in de kerk|€ 12.500|
+
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 54 087,40|
+|2027|€ 86 769,03|
+|2028|€ 86 413,34|
+|2029|€ 86 896,98|
+|2030|€ 87 390,93|
+|2031|€ 87 889,64|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van Onbevlekt Hart van Maria te Heverlee ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Onbevlekt Hart van Maria te Heverlee goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande  exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek  Onbevlekt Hart van Maria te Heverlee worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+|van de stad Leuven.|||
+|---|---|---|
+||Exploitatietoelagen|Investeringstoelagen|
+|2026|€ 54 087,40|€ 12.500|
+|2027|€ 86 769,03|€ 12.500|
+|2028|€ 86 413,34|€ 12.500|
+|2029|€ 86 896,98|€ 12.500|
+|2030|€ 87 390,93|€ 12.500|
+|2031|€ 87 889,64|€ 12.500|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **19 Kerkfabriek Onze Lieve Vrouw van Troost - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00546)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Onze Lieve Vrouw van Troost te Heverlee legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Onze Lieve Vrouw van Troost te Heverlee werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 24 juni 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+Er zijn geen investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031. 
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 39 371,41|
+|2027|€ 69 466|
+|2028|€ 74 318|
+|2029|€ 77 318|
+|2030|€ 78 124|
+|2031|€ 80 384|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van Onze Lieve Vrouw van Troost te Heverlee ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Onbevlekt Hart van Maria te Heverlee goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Onze Lieve Vrouw van Troost te Heverlee worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+|van de stad Leuven.||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 39 371,41|
+|2027|€ 69 466|
+|2028|€ 74 318|
+|2029|€ 77 318|
+|2030|€ 78 124|
+|2031|€ 80 384|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **20 Kerkfabriek Onze Lieve Vrouw van Vlierbeek - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00544)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek O.L.Vrouw Vlierbeek te Kessel-Lo legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Onze Lieve Vrouw van Vlierbeek te Kessel-Lo werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 25 juni 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>Inrichting nieuw abtskwartier (meubilair, installaties, enzovoort}|€ 90.000|
+|2027|/ / /|€ 0|
+|2028|/ / /|€ 0|
+|2029|•<br>Restauratie van ambtswoningen, genaamd de huizenrij<br>Westvleugel|€ 750.000|
+|2030|•<br>Restauratie van ambtswoningen, genaamd de huizenrij<br>Westvleugel|€ 1.500.000|
+|2031|•<br>Restauratie van ambtswoningen, genaamd de huizenrij<br>Westvleugel|€ 750.000|
+
+
+
+De restauratie van de ambtswoningen zal gespreid worden over de drie laatste jaren van het meerjarenpkan. De geraamde kostprijs bedraagt 4.243.000 euro, inclusief erelonen. De stad financiert hiervan 3.000.000 via een investeringstoelage. Het saldo van 1.243.000 euro wordt gefinancierd door Onroerend Erfgoed. 
+
+Het exploitatiebudget is sluitend zonder tussenkomst van de stad gedurende de looptijd van het meerjarenplan 2026-2031. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Onze Lieve Vrouw van  Vlierbeek te Kessel-Lo ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van O.L.Vrouw Vlierbeek te Kessel-Lo goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Onze Lieve Vrouw van Vlierbeek te Kessel-Lo worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+||Investeringstoelagen|
+|---|---|
+|2026|€ 90.000|
+|2027|€ 0|
+|2028|€ 0|
+|2029|€ 750.000|
+|2030|€ 1.500.000|
+
+
+
+2031 € 750.000 
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **21 Kerkfabriek Sint-Agatha - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00547)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Agatha te Wilsele legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 
+
+- het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Agatha te Wilsele werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 27 juni 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|/ / /|€ 0|
+|2027|•<br>Vernieuwen van goten en afvoeren, plaatsen van<br>toegangsluiken volgens aanbevelingen van Monumentenwacht|€ 250.000|
+|2028|•<br>Herstellings- en schilderwerken ten gevolge van<br>vochtinsijpeling en reeds uitgevoerde elektriciteitswerken.|€ 25.000|
+|2029|/ / /|€ 0|
+|2030|/ / /|€ 0|
+|2031|/ / /|€ 0|
+
+
+
+Het exploitatiebudget is sluitend zonder tussenkomst van de stad gedurende de looptijd van het meerjarenplan 2026-2031. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Agatha te Wilsele ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Sint-Agatha te Wilsele goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Agatha te Wilsele worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+|Leuven.||
+|---|---|
+||Investeringstoelagen|
+|2026|€ 0|
+|2027|€ 250.000|
+|2028|€ 25.000|
+|2029|€ 0|
+|2030|€ 0|
+|2031|€ 0|
+|||
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **22 Kerkfabriek Sint-Antonius - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00565)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Antonius te Leuven legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 
+
+- het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Antonius te Leuven werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 30 april 2025. Her bisdom verleende gunstig visum op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 0|
+|2027|€ 16 755|
+|2028|€ 15 879|
+|2029|€ 14 588|
+|2030|€ 15 184|
+|2031|€ 15 581|
+
+
+
+Het investeringsproject voor de vernieuwing van het dak van de kerk wordt overgenomen uit het vorige meerjarenplan en ingeschreven in het jaar 2026 van het meerjarenplan 2026-2031. Hiervoor wordt een investeringstoelage van de stad ingeschreven voor 243.593,87 euro. In de loop van 2026 wordt het saldo van de niet in 2025 gebruikte investeringstoelage van 121.059 euro overgedragen. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Antonius te Leuven ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Sint-Antonius te Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatietoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Antonius te Leuven worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+||Exploitatietoelagen|Investeringstoelagen|
+|---|---|---|
+|2026|€ 0|€ 243.593,87|
+|2027|€ 16 755|€ 0|
+|2028|€ 15 879|€ 0|
+|2029|€ 14 588|€ 0|
+|2030|€ 15 184|€ 0|
+|2031|€ 15 581|€ 0|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **23 Kerkfabriek Sint-Franciscus - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00551)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Franciscus te Leuven legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Franciscus te Leuven werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 26 juni 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 34 035,06|
+|2027|€ 46 179,10|
+|2028|€ 37 667,36|
+|2029|€ 18 670,96|
+|2030|€ 18 992,78|
+|2031|€ 19 382,24|
+
+
+
+Er zijn geen investeringen voorzien in het meerjarenplan 2026-2031. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Franciscus te Leuven ter goedkeuring voor te leggen aan  de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Sint-Franciscus te Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatietoelagen ingeschreven in het meerjarenplan 2026-20231van kerkfabriek Sint-Franciscus te Leuven worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+||Exploitatietoelagen|
+|---|---|
+|2026|€ 34 035,06|
+|2027|€ 46 179,10|
+|2028|€ 37 667,36|
+|2029|€ 18 670,96|
+|2030|€ 18 992,78|
+|2031|€ 19 382,24|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **24 Kerkfabriek Sint-Gertrudis - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00553)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Gertrudis te Leuven legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Gertrudis te Leuven werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 2 juli 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>Vernieuwen van de verwarming in de kerk, zolderisolatie en<br>stabiliteitsinjectie|€ 128.906|
+|2027|•<br>Vernieuwen van de verwarming in de kerk, zolderisolatie en<br>stabiliteitsinjectie|€ 330.000|
+|2028|•<br>Restauratie kerktoren|€ 450.000|
+|2029|•<br>Restauratie kerktoren|€ 400.000|
+|2030|•<br>Restauratie kerktoren|€ 450.000|
+|2031|///|€ 0|
+
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 83 118,60|
+|2027|€ 87 119,20|
+|2028|€ 88 736,18|
+|2029|€ 89 257,91|
+|2030|€ 90.777,33|
+|2031|€ 91.973,39|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Gertrudis te Leuven ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Sint-Gertrudis te Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Gertrudis te Leuven worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+|Leuven.|||
+|---|---|---|
+||Exploitatietoelagen|Investeringstoelagen|
+|2026|€ 83 118,60|€ 128.906|
+|2027|€ 87 119,20|€ 330.000|
+|2028|€ 88 736,18|€ 450.000|
+|2029|€ 89 257,91|€ 400.000|
+|2030|€ 90.777,33|€ 450.000|
+
+
+
+2031 € 91.973,39 € 0 
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **25 Kerkfabriek Sint-Hadrianus - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00548)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Hadrianus te Wijgmaal legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 
+
+- het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Hadrianus te Wijgmaal werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 23 juni 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+Er zijn geen investeringsprojecten opgenomen in het meerjarenplan 2026-2031: 
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 38 764,65|
+|2027|€ 47 479,40|
+|2028|€ 39 442,51|
+|2029|€ 30 963,30|
+|2030|€ 30 200,47|
+|2031|€ 29 464,72|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Hadrianus te Wijgmaal ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 Sint-Hadrianus te Wijgmaal goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatietoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Hadrianus te Wijgmaal worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+||Exploitatietoelagen|
+|---|---|
+|2026|€ 38 764,65|
+|2027|€ 47 479,40|
+|2028|€ 39 442,51|
+|2029|€ 30 963,30|
+|2030|€ 30 200,47|
+|2031|€ 29 464,72|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **26 Kerkfabriek Sint-Jacob - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00549)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Jacob te Leuven legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Jacob te Leuven werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 22 april 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+In het kader van het kerkenbeleidsplan Leuven werd in het meerjarenplan 2020-2025 het kerkgebouw in de Goudsbloemstraat herbestemd, zodat het gebouw ook als feestzaal kan gebruikt worden 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>Aanpassing elektriciteit en verlichting in de ruimte die als kerk<br>gebruikt word + verven van muren|€ 30.000|
+|2027|•<br>Aanpassing elektriciteit en verlichting, schilderen van de ruimte<br>boven de kerk die als vergaderruimte gebruikt wordt|€ 30.000|
+|2028|/ / /|€ 0|
+|2029|/ / /|€ 0|
+|2030|/ / /|€ 0|
+|2031|/ / /|€ 0|
+
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 0|
+|2027|€ 25 643,87|
+|2028|€ 25 999,23|
+|2029|€ 26 361,07|
+|2030|€ 26 730,07|
+|2031|€ 27 104,96|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Jacob te Leuven ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 Sint-Jacob te Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Jacob te Leuven worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+||Exploitatietoelagen|Investeringstoelagen|
+|---|---|---|
+|2026|€ 0|€ 30.000|
+
+
+
+|2027|€ 25 643,87|€ 30.000|
+|---|---|---|
+|2028|€ 25 999,23|€ 0|
+|2029|€ 26 361,07|€ 0|
+|2030|€ 26 730,07|€ 0|
+|2031|€ 27 104,96|€ 0|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **27 Kerkfabriek Sint-Jan Evangelist - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00539)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Jan Evangelist te Heverlee legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op 
+
+de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Jan Evangelist te Heverlee werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 7 augustus 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>Restauratiewerken aan de kerktoren, voorkomen van<br>waterinsijpeling<br>•<br>Grote herstellingswerken aan de Mariakapel<br>•<br>Kleinere herstellingswerken|€ 914.340,70<br>€ 100.000<br>€ 12.102|
+|2027|•<br>Restauratiewerken aan de kerktoren, voorkomen van<br>waterinsijpeling|€ 914.340,70|
+|2028|///|€ 0|
+|2029|///|€ 0|
+|2030|///|€ 0|
+|2031|///|€ 0|
+
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 0|
+|2027|€ 16 348,81|
+|2028|€ 16 931,58|
+|2029|€ 15 970|
+|2030|€ 14 575,62|
+|2031|€ 13 867,54|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Jan Evangelist te Heverlee ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Jan Evangelist te Heverlee goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande  exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Jan Evangelist te Heverlee worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+||Exploitatietoelagen|Investeringstoelagen|
+|---|---|---|
+|2026|€ 0|€ 1.026.446,70|
+|2027|€ 16 348,81|€ 914.340,70|
+|2028|€ 16 931,58|€ 0|
+|2029|€ 15 970|€ 0|
+|2030|€ 14 575,62|€ 0|
+|2031|€ 13 867,54|€ 0|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **28 Kerkfabriek Sint-Joannes Bosco - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00555)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Joannes Bosco te Kessel-Lo legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Joannes Bosco te Kessel-Lo werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 3 juli 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>Verwijderen asbest in kelder<br>•<br>dringend herstel daken<br>•<br>Laadpalen elektrische wagens, indien geen mogelijkheid tot<br>financiering door ECOOB<br>•<br>Afkitten van de ramen<br>•<br>Vervangen linoleumvloer pastorijgedeelte|€ 35.170<br>€ 23.800<br>€ 21.500<br>€ 25.317<br>€ 31.062|
+
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 51 866,18|
+|2027|€ 78 802|
+|2028|€ 77 565|
+|2029|€ 71 974|
+
+
+
+|2030|€ 69 883|
+|---|---|
+|2031|€ 71 087|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Joannes Bosco te Kessel-Lo ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Joannes Bosco te Kessel-Lo goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Joannes Bosco te Kessel-Lo worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+||Exploitatietoelagen|Investeringstoelagen|
+|---|---|---|
+|2026|€ 51 866,18|€ 136.849|
+|2027|€ 78 802|€ 0|
+|2028|€ 77 565|€ 0|
+|2029|€ 71 974|€ 0|
+|2030|€ 69 883|€ 0|
+|2031|€ 71 087|€ 0|
+||||
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en kerkfabriek Sint-Joannes Bosco. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **29 Kerkfabriek Sint-Jozef - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00558)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: - 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; 
+
+Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Jozef te Leuven legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Jozef te Leuven werd door het Centraal Kerkbestuur ingediend op 17 oktober 2025 en werd door de kerkraad goedgekeurd op 15 oktober 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+Het exploitatiebudget is in het jaar 2026 een exploitatietoelage van 17.669,52 euro, de volgende jaren zijn sluitend zonder tussenkomst van de stad. 
+
+Er worden geen investeringstoelagen van de stad gevraagd tijdens de periode van het meerjarenplan 2026-2031. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Jozef te Leuven ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031en het bijhorende budget 2026 Sint-Jozef te Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatietoelage is ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Jozef te Leuven worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+||Exploitatietoelage|
+|---|---|
+|2026|€ 17.669,52|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **30 Kerkfabriek Sint-Kwinten - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00537)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Kwinten te Leuven legt meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+> - het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op 
+
+de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Kwinten te Leuven werd door het Centraal Kerkbestuur ingediend op 21 augustus 2025 en werd door de kerkraad goedgekeurd op 26 juni 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>controle van de stabiliteit van de scheidingsmuur in de<br>Schapenstraat en de kerkmuren<br>•<br>schilderwerken in het kapelletje<br>•<br>werken in het Sint-Kwintenshuis|€ 5.000<br>€ 10.000<br>€ 20.000|
+|2027|•<br>controle van de stabiliteit van de scheidingsmuur in de<br>Schapenstraat en de kerkmuren<br>•<br>Het uitvoeren van de nog niet gebeurde herstelling van de<br>afsluiting kant Naamsestraat (en Sint-Quitensberg)|€ 5.000<br>€ 75.000|
+|2028|•<br>controle van de stabiliteit van de scheidingsmuur in de<br>Schapenstraat en de kerkmuren|€ 5.000|
+|2029|•<br>controle van de stabiliteit van de scheidingsmuur in de<br>Schapenstraat en de kerkmuren<br>•<br>Het opmaken van een restauratiedossier (dossier<br>interieurrestauratie, opmaken opmetingsplannen, dossier<br>meubilair en kunstvoorwerpen, aanbesteding en opvolging) met<br>het oog op de uitvoering van de werken vanaf 2032|<br>€ 5.000<br>€ 172.500|
+|2030|•<br>controle van de stabiliteit van de scheidingsmuur in de<br>Schapenstraat en de kerkmuren|€ 5.100|
+|2031|•<br>controle van de stabiliteit van de scheidingsmuur in de<br>Schapenstraat en de kerkmuren|€ 5.100|
+
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 21 713,47|
+|2027|€ 52 091|
+|2028|€ 53 550|
+|2029|€ 53 611|
+
+
+
+|2030|€ 55 358|
+|---|---|
+|2031|€ 50 430|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van Sint-Kwinten te Leuven ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Sint-Kwinten te Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande  exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek  Sint-Kwinten te Leuven worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+|Leuven.|||
+|---|---|---|
+||Exploitatietoelagen|Investeringstoelagen|
+|2026|€ 21 713,47|€ 35.000,00|
+|2027|€ 52 091,00|€ 80.000,00|
+|2028|€ 53 550,00|€ 5.000,00|
+|2029|€ 53 611,00|€ 177.500,00|
+|2030|€ 55 358,00|€ 5.100,00|
+|2031|€ 50 430,00|€ 5.100,00|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **31 Kerkfabriek Sint-Lambertus - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00556)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; 
+
+Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Lambertus te Heverlee legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 
+
+- het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Lambertus te Heverlee werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 7 augustus 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten zijn opgenomen in het meerjarenplan 2026-2031: 
+
+||Investeringsprojecten|Investeringstoelagen|
+|---|---|---|
+|2026|•<br>Dringende herstellingswerken aan de kerktoren|€ 540.140|
+|2027|•<br>Metsel- en voegwerken aan de buitengevels van de kerk<br>•<br>Herstellen van voorzetglas aan de ramen van de kerk<br>•<br>Erelonen architect|€ 37.000<br>€ 35.000<br>€ 10.000|
+|2028|•<br>Vervanging van de tweede toegangsdeur aan de<br>hoofdingang van de kerk|€ 10.000|
+|2029|/ / /|€ 0|
+|2030|/ / /|€ 0|
+|2031|/ / /|€ 0|
+
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 44 604|
+|2027|€ 85 432,20|
+|2028|€ 77 654,53|
+|2029|€ 58 905,80|
+|2030|€ 59 161,51|
+|2031|€ 60 032,75|
+
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Lambertus te Heverlee ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Lambertus te Heverlee goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Lambertus te Heverlee worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+|Leuven.|||
+|---|---|---|
+||Exploitatietoelagen|Investeringstoelagen|
+|2026|€ 44 604,00|€ 540.140|
+|2027|€ 85 432,20|€ 82.000|
+|2028|€ 77 654,53|€ 10.000|
+|2029|€ 58 905,80|€ 0|
+|2030|€ 59 161,51|€ 0|
+|2031|€ 60 032,75|€ 0|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **32 Kerkfabriek Sint-Martinus - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00559)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Martinus te Leuven legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Martinus te Leuven werd door het Centraal Kerkbestuur ingediend op 20 oktober 2025 en werd door de kerkraad goedgekeurd op 17 oktober 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De volgende investeringsprojecten waarvoor een investeringstoelage van de stad gevraagd wordt, zijn opgenomen in het meerjarenplan 2026-2031 conform de afspraken via email van 16 oktober 2025. 
+
+Investeringsprojecten 
+
+Investeringstoelagen 
+
+**==> picture [454 x 418] intentionally omitted <==**
+
+**----- Start of picture text -----**<br>
+2026 • Renovatie van de pastorij € 81.540<br>€ 51.291<br>• Restauratie van het orgel<br>2027 • Renovatie van de pastorij € 218.333<br>€ 15.000<br>• Plaatsen van een houten afsluitwand in de ex-sacristie<br>€ 11.667<br>• Onderhoudswerken aan de kerk volgens aanbevelingen van<br>Monumentenwacht<br>2028 • Renovatie van de pastorij € 41.000<br>€ 10.000<br>• Kleine onderhoudswerken aan de kerk<br>2029 • Onderhoudswerken aan de kerk volgens aanbevelingen van  € 21.667<br>Monumentenwacht € 10.833<br>€ 10.000<br>• Onderhoudswerken aan de pastorij volgens aanbevelingen  € 15.000<br>van Monumentenwacht<br>• Projectbegeleiding voor de her- of nevenbestemming van<br>de kerk<br>• Aankoop van een beveiligde vitrinekast voor de bewaring<br>van de kunstschatten<br>2030 • Renovatie van het bijgebouw van de pastorij € 5.000<br>€ 10.000<br>• Onderhoudswerken aan de kerk volgens aanbevelingen van  € 20.000<br>Monumentenwacht<br>• Haalbaarheidsstudie voor de her- of nevenbestemming van<br>de kerk<br>2031 • Onderhoudswerken aan de pastorij volgens aanbevelingen  € 8.333<br>van Monumentenwacht € 21.667<br>• Onderhoudswerken aan de kerk volgens aanbevelingen van<br>Monumentenwacht<br>**----- End of picture text -----**<br>
+
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+**==> picture [454 x 132] intentionally omitted <==**
+
+**----- Start of picture text -----**<br>
+Exploitatietoelagen<br>2026 € 26 053,92<br>2027 € 41 196<br>2028 € 42 023,91<br>2029 € 42 868,99<br>2030 € 43 730,48<br>2031 € 44 608,59<br>**----- End of picture text -----**<br>
+
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Martinus te Leuven ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Sint-Martinus te Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatie- en investeringstoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Martinus te Leuven worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+|Leuven.|||
+|---|---|---|
+||Exploitatietoelagen|Investeringstoelagen|
+|2026|€ 26 053,92|€ 132.831|
+|2027|€ 41 196|€ 245.000|
+|2028|€ 42 023,91|€ 51.000|
+|2029|€ 42 868,99|€ 57.500|
+|2030|€ 43 730,48|€ 35.000|
+|2031|€ 44 608,59|€ 30.000|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en kerkfabriek Sint-Martinus. 
+
+## **BIJLAGEN** 
+
+1. MJP2026-2031.pdf 
+
+## **33 Kerkfabriek Sint-Michiel - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00538)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Michiel te Leuven legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Michiel te Leuven werd door het Centraal Kerkbestuur ingediend op 21 augustus 2025 en werd door de kerkraad goedgekeurd op 5 april 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+In het meerjarenplan 2026-2031 wordt 100.000 euro eigen middelen voorzien om een aantal investeringsprojecten te financieren: 
+
+Deze projecten zijn soms gerelateerd aan de uitbouw van de Sint-Michielskerk als Vredes- en Orgelkerk, met de daaraan verbonden intensivering van de activiteiten, die in de kerk plaatshebben. Anderzijds wordt een beperkt budget voorzien voor onverwachte kosten aan het kerkgebouw die soms dringend moeten aangepakt worden om de veiligheid van de bezoekers te garanderen. 
+
+Er komt een einde op woensdag 1 april 2026 aan de handelshuur van het gebouw de Pastorij uitgebaat als B&B. Zo worden onder meer renovatiekosten aan de oude pastorij gepland. 
+
+Het exploitatiebudget is sluitend zonder tussenkomst van de stad gedurende de looptijd van het meerjarenplan 2026-2031. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek ter goedkeuring voor te leggen aan Sint-Michiel te Leuven de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van  goed te keuren. Sint-Michiel te Leuven 
+
+## **Artikel 2** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **34 Kerkfabriek Sint-Michiel en Reneldis - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00550)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Michiel en Sint Reneldis te Egenhoven  legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Michiel en Sint Reneldis te Egenhoven werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 19 maart 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven of aan de afspraken gemaakt tussen de kerkraad en de stad Leuven. 
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 1 440,04|
+|2027|€ 22 324,21|
+|2028|€ 22 987,83|
+|2029|€ 23 642,32|
+|2030|€ 24 318,32|
+|2031|€ 20 513,70|
+
+
+
+Er zijn geen investeringen voorzien in het meerjarenplan 2026-2031. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Michiel en Sint Reneldis te Egenhoven ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Sint-Michiel en Sint Reneldis te Egenhoven goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatietoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Michiel en Sint Reneldis te Egenhoven worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+|Leuven.||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 1 440,04|
+|2027|€ 22 324,21|
+|2028|€ 22 987,83|
+|2029|€ 23 642,32|
+|2030|€ 24 318,32|
+|2031|€ 20 513,70|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **35 Kerkfabriek Sint-Pieter - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00552)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Kerkfabriek Sint-Pieter te Leuven legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 - het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van kerkfabriek Sint-Pieter te Leuven werd door het Centraal Kerkbestuur ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 7 augustus 2025. Het bisdom verleende gunstig advies op 26 augustus 2025. 
+
+De gemeenteraad dient het meerjarenplan 2026-2031 goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen het Centraal Kerkbestuur en de stad Leuven. 
+
+De stad dient tussen te komen in het exploitatietekort van de kerkfabriek voor onderstaande bedragen: 
+
+|bedragen:||
+|---|---|
+||Exploitatietoelagen|
+|2026|€ 19 971,73|
+|2027|€ 81 718,30|
+|2028|€ 82 341,84|
+|2029|€ 82 962,89|
+|2030|€ 83 580,96|
+|2031|€ 84 195,77|
+
+
+
+Er worden geen investeringstoelagen van de stad gevraagd gedurende de ganse looptijd van het meerjarenplan 2026-2031. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorende budget 2026 van kerkfabriek Sint-Pieter te Leuven ter goedkeuring voor te leggen aan de gemeenteraad. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het meerjarenplan 2026-2031 en het bijhorende budget 2026 van Sint-Pieter te Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+Onderstaande exploitatietoelagen ingeschreven in het meerjarenplan 2026-2031 van kerkfabriek Sint-Pieter te Leuven worden ingeschreven in het meerjarenplan van de stad Leuven. 
+
+||Exploitatietoelagen|
+|---|---|
+|2026|€ 19 971,73|
+|2027|€ 81 718,30|
+|2028|€ 82 341,84|
+|2029|€ 82 962,89|
+|2030|€ 83 580,96|
+|2031|€ 84 195,77|
+
+
+
+## **Artikel 3** 
+
+Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. 
+
+## **BIJLAGEN** 
+
+1. MJP2026_2031.pdf 
+
+## **36 Anglicaanse Kerk Leuven, Saint Martha and Mary’s Anglican Church - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00536)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De Anglicaanse Kerk Leuven legt haar meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 
+
+- het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+Het meerjarenplan van de Anglicaanse Kerk Leuven ingediend op 21 juli 2025 en werd door de kerkraad goedgekeurd op 24 juli 2025. Het centraal comitte van de Anglicaanse Eredienst verleende gunstig advies op 24 juli 2025. 
+
+Het meerjarenplan 2026-2031 geeft een overzicht van de toekomstige exploitatie- en investeringsbudgetten en de exploitatie- en investeringstoelagen die de stad zal moeten bijpassen tijdens deze periode van zes jaar. Uit dit meerjarenplan wordt het jaarlijks budget afgeleid. 
+
+Ingevolge artikels 33 en 52/1, § 3, van het eredienstendecreet werden de gemeenten Bertem, Huldenberg en Oud-Heverlee uitgenodigd voor een gezamenlijk overleg over de erkende geloofsgemeenschap, meer bepaald over het nieuwe MJP 2026-2031 op 11 september 2025. Er waren geen aanwezigen. In het erkenningsbesluit van 24 juni 2010 werd de verdeelsleutel als volgt opgenomen: 
+
+|Leuven|69,08%|
+|---|---|
+|Bertem|2,25%|
+|Huldenberg|16,52%|
+|Oud-Heverlee|12,15%|
+
+
+
+De gemeenteraad dient het meerjarenplan goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen kerkraad en de stad Leuven. Goedkeuring van dit meerjarenplan verbindt de stad Leuven tot de financiering van de exploitatie – en investeringstoelagen die uit dit meerjarenplan voortvloeien. 
+
+Hierbij legt de Anglicaanse Kerk Leuven haar meerjarenplan 2026-2031 en het bijhorende budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+Hieronder vindt u een overzicht van de gevraagde exploitatietoelagen : 
+
+In de tweede kolom staan de bedragen die de stad Leuven dient te betalen. Deze bedragen zijn berekend op basis van de verdeelsleutel (69,08%). 
+
+|Jaar|Exploitatietoelage|Deel Leuven|
+|---|---|---|
+|2026|€ 0|€ 0|
+|2027|€ 6.079,10|€ 4.200,05|
+|2028|€ 6.139,35|€ 4.241,68|
+|2029|€ 6.200,76|€ 4.284,11|
+|2030|€ 6.263,37|€ 4.327,36|
+|2031|€ 6.327,20|€ 4.371,46|
+|Totaal|€ 31.009,78|€ 21.424,66|
+
+
+
+De Anglicaanse Kerk Leuven heeft geen investeringen voorzien gedurende de periode 2026-2031. 
+
+Uit de toegevoegde nota maatschappelijke relevantie opgemaakt ingevolge artikel 2, § 2, 8° van het besluit van de Vlaamse regering blijkt hun betrokkenheid bij de lokale geloofsgemeenschappen. Er zijn geen opmerkingen te formuleren. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en bijhorend budget 2026 van de Anglicaanse Kerk te Leuven ter goedkeuring aan de gemeenteraad voor te leggen. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het voorgelegde meerjarenplan 2026-2031 Anglicaanse Kerk Leuven en het bijhorende budget 2026 goed te keuren voor de volgende bedragen: 
+
+|Jaar|Exploitatietoelage|Deel Leuven|
+|---|---|---|
+|2026|€ 0|€ 0|
+|2027|€ 6.079,10|€ 4.200,05|
+|2028|€ 6.139,35|€ 4.241,68|
+|2029|€ 6.200,76|€ 4.284,11|
+
+
+
+|2030|€ 6.263,37|€ 4.327,36|
+|---|---|---|
+|2031|€ 6.327,20|€ 4.371,46|
+|Totaal|€ 31.009,78|€ 21.424,66|
+||||
+
+
+
+## **Artikel 2** 
+
+Afschriften van deze goedkeuring over te maken aan de provinciegouverneur, het Centraal Comité, de Anglicaanse Kerk Leuven en de gemeenten die dienen bij te dragen in de tekorten. 
+
+## **BIJLAGEN** 
+
+1. Budget2026.pdf 
+
+2. MJP2026-2031.pdf 
+
+3. 
+
+- Verslag Maatschappelijke Relevantie MM 2025.pdf 
+
+## **37 Protestantse kerk Leuven - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00557)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De Protestantse Kerk Leuven legt het meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+- het besluit van de Vlaamse regering van 13 oktober 2006 betreffende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten, gewijzigd bij besluit van de Vlaamse regering van 14 december 2012 
+
+- het ministerieel besluit van 27 november 2006 betreffende de vaststelling van de modellen van de boekhouding van de eredienst, gewijzigd bij ministerieel besluit van 12 februari 2013 
+
+## **Argumentatie** 
+
+In toepassing van de regels van het decreet van 07 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten, gewijzigd bij het decreet van 06 juli 2012, dienen de kerkfabrieken een meerjarenplan op te maken dat de financiële afspraken tussen de gemeente en de kerkfabriek vastlegt voor een periode van zes jaar. 
+
+Het meerjarenplan 2026-2031 geeft een overzicht van de toekomstige exploitatie- en 
+
+investeringsbudgetten en de exploitatie- en investeringstoelagen die de stad zal moeten bijpassen tijdens deze periode van zes jaar. Uit dit meerjarenplan wordt het jaarlijks budget afgeleid. 
+
+Het meerjarenplan 2026-2031 en het hierbij horend budget 2026 werd ingediend op 6 oktober 2025 en werd door de bestuursraad goedgekeurd op 6 oktober 2025. Het bisdom verleende gunstig advies op 14 oktober 2025. 
+
+Op 11 september 2025 vond het gezamenlijk overleg over het meerjarenplan 2026-2031 met de gemeenten die dienen bij te dragen in het tekort van de VPKB plaats. 
+
+De gemeenteraad dient het meerjarenplan goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen kerkraad en de stad Leuven. Goedkeuring van dit meerjarenplan verbindt de stad Leuven tot de financiering van de exploitatie- en investeringstoelagen die uit dit meerjarenplan voortvloeien. 
+
+Hierbij legt de Protestantse Kerk Leuven haar meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+Hieronder vindt u een overzicht van de gevraagde exploitatietoelagen : 
+
+In de tweede kolom staan de bedragen die de stad Leuven dient te betalen. Deze bedragen zijn berekend op basis van de verdeelsleutel (56,30%). 
+
+|Jaar|Exploitatietoelage|Deel Leuven|
+|---|---|---|
+|2026|€ 94.435,19|€ 53.167,01|
+|2027|€ 110.150|€ 62.014,45|
+|2028|€ 111.600|€ 62.830,80|
+|2029|€ 112.885|€ 63.554,59|
+|2030|€ 113.795|€ 64.066,59|
+|2031|€ 115.040|€ 64.767,52|
+|Totaal|€ 657.905,19|€ 370.400,62|
+
+
+
+De Protestantse Kerk Leuven heeft geen investeringen voorzien gedurende de periode 2026-2031. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorend budget 2026 ter goedkeuring aan de gemeenteraad voor te leggen. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het voorgelegde meerjarenplan 2026-2031 en het bijhorend budget 2026 van de Protestantse Kerk Leuven goed te keuren voor de volgende bedragen: 
+
+|Jaar|Exploitatietoelage|Deel Leuven|
+|---|---|---|
+|2026|€ 94.435,19|€ 53.167,01|
+|2027|€ 110.150|€ 62.014,45|
+|2028|€ 111.600|€ 62.830,80|
+|2029|€ 112.885|€ 63.554,59|
+|2030|€ 113.795|€ 64.066,59|
+|2031|€ 115.040|€ 64.767,52|
+|Totaal|€ 657.905,19|€ 370.400,62|
+
+
+
+## **Artikel 2** 
+
+Afschriften van deze goedkeuring over te maken aan de provinciegouverneur, het ARPEE, de Protestantse Kerk Leuven en de gemeenten die dienen bij te dragen in de tekorten. 
+
+## **BIJLAGEN** 
+
+1. Meerjarenplan_2026_2031.pdf 2. 20250911_verslag.pdf 
+
+3. MJP2026_2031_Protestantse_cbs.docx 
+
+4. Budget2026.pdf 
+
+## **38 Evangelische Kerk Leuven - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring (2025_GR_00561)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De Evangelische kerk te Leuven legt het meerjarenplan 2026-2031 en het hierbij horende budget 2026 ter goedkeuring voor aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 52/1 van het wijzigingsdecreet van 06 juli 2012 betreffende de materiële organisatie en werking van de erkende erediensten 
+
+## **Argumentatie** 
+
+In toepassing van de regels van het decreet van 07 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten, gewijzigd bij het decreet van 06 juli 2012, dienen de kerkfabrieken een meerjarenplan op te maken dat de financiële afspraken tussen de gemeente en de kerkfabriek vastlegt voor een periode van zes jaar. 
+
+Het meerjarenplan 2026-2031 geeft een overzicht van de toekomstige exploitatie- en investeringsbudgetten die de stad zal moeten bijpassen tijdens deze periode van zes jaar. Uit dit meerjarenplan wordt het jaarlijks budget afgeleid. 
+
+De gemeenteraad dient het meerjarenplan goed of af te keuren of aan te passen aan de afspraken die gemaakt zijn tussen de bestuursraad en de stad Leuven. Goedkeuring van dit meerjarenplan verbindt de stad Leuven tot de financiering van de exploitatie – en investeringstoelagen die uit dit meerjarenplan voortvloeien. Ingevolge artikels 33 en 52/1, § 3, van het eredienstendecreet werden de gemeenten Lubbeek, Rotselaar, Herent en stad Tienen uitgenodigd voor een gezamenlijk overleg over de erkende geloofsgemeenschap, meer bepaald over het nieuwe MJP 2026-2031 op 11 september 2025. Er waren geen aanwezigen. 
+
+Hierbij legt de Evangelische Kerk te Leuven haar meerjarenplan 2026-2031 en het hierbij horende budget 2026 ter goedkeuring voor aan de gemeenteraad. Dit werd goedgekeurd door de bestuursraad op 7 juli 2025. 
+
+De Evanglische Kerk Leuven is zelfbedruipend gedurende de volledige looptijd van het meerjarenplan. 
+
+Er zijn geen investeringen voorzien gedurende de periode 2026-2031. 
+
+Uit de toegevoegde nota maatschappelijke relevantie opgemaakt ingevolge artikel 2, § 2, 8°, van het besluit van de Vlaamse regering blijkt hun betrokkenheid bij de lokale geloofsgemeenschap. Er zijn geen opmerkingen te formuleren. 
+
+Het is aangewezen het voorliggende meerjarenplan 2026-2031 en het bijhorend budget 2026 van Evangelische Kerk te  Leuven ter goedkeuring aan de gemeenteraad voor te leggen. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het voorgelegde meerjarenplan 2026–2031 en het hierbij horende budget 2026 van de Evangelische Kerk Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+Afschriften van deze goedkeuring over te maken aan de provinciegouverneur, het ARPEE, de Evangelische kerk Leuven en de gemeenten die dienen bij te dragen in de tekorten. 
+
+## **BIJLAGEN** 
+
+1. EKL Budget 2026.pdf 
+
+2. EKL nota maatschappelijke relevantie 2026 Final.docx 
+
+3. Meerjarenplan 2026 - 2031 Evangelische Kerk Leuven.pdf 
+
+21:33 - Bart Meulemans, raadslid verlaat de zitting. 
+
+## **15 Stad Leuven - Toekennen subsidies - Nominatieve toelagen - Goedkeuring** 
+
+- **(2025_GR_00573)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 33 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Mauro Michielsen; Sarah Mohamed Khalif; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 12 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Anton Nilis; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De lijst van de gewijzigde nominatieve toelagen wordt tussentijds ter goedkeuring aan de gemeenteraad voorgelegd. De budgetten werden allemaal voorzien door interne verschuivingen binnen het meerjarenplan en zijn dus budgetneutraal. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- de wet van 14 november 1983 betreffende de controle op de toekenning en op de aanwending van sommige toelagen - het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip 'dagelijks bestuur' moet worden verstaan 
+
+- het artikel 41,23° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat het vaststellen van subsidiereglementen en het toekennen van nominatieve subsidies bevoegdheden zijn die niet aan het college kunnen worden toevertrouwd 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 17 december 2019 betreffende de goedkeuring van het 
+
+meerjarenplan 2020-2025 
+
+- de gemeenteraadsbeslissing van 24 februari 2020 betreffende de controle op de toekenning en op de aanwending van sommige toelagen 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+- de gemeenteraadsbeslissing van 18 november 2024 betreffende de achtste aanpassing van het meerjarenplan 2020-2025 en het vaststellen van de kredieten 2025 
+
+## **Argumentatie** 
+
+Conform artikel 41,23° van het decreet van 22 december 2017 over het lokaal bestuur is het toekennen van nominatieve subsidies de exclusieve bevoegdheid van de gemeenteraad. 
+
+Aangezien er een aantal wijzigingen inzake de nominatieve toelagen noodzakelijk zijn, wordt de lijst van de gewijzigde nominatieve toelagen ter goedkeuring aan de gemeenteraad voorgelegd. De budgetten werden allemaal voorzien door interne verschuivingen binnen het meerjarenplan en zijn dus budgetneutraal. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De toekenning van de nominatieve toelagen aan de begunstigden zoals opgenomen in de lijst in bijlage, goed te keuren. 
+
+## **BIJLAGEN** 
+
+1. GR_20251117_VerschuivingenNominatieveToelagen_Lijst.pdf 
+
+## **GEBOUWEN** 
+
+## **Staf & Projecten** 
+
+- 21:34 - Bart Meulemans, raadslid betreedt de zitting. 
+
+- 21:34 - Ruben Geleyns, raadslid betreedt de zitting. 
+
+- 21:34 - Bruno Tobback, raadslid verlaat de zitting. 
+
+- 21:35 - Katrien Vermijlen, raadslid verlaat de zitting. 
+
+**39 Uitvoering samenwerkingsovereenkomst - Kosteloze overdracht - Aanvaarding - Boot Vriendenkring van de oudgedienden van de Zeemacht van Leuven en omstreken voor de boot MPS JOSEE - Goedkeuring (2025_GR_00566)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gemeenteraad aanvaardt, op basis van een clausule in de samenwerkingsovereenkomst met de Vriendenkring van de oudgedienden van de Zeemacht in Leuven en Omstreken, de kosteloze overdracht van de boot MPS Josee en gaat vervolgens akkoord met verkoop. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van het college en gemeenteraad 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+Het college in zitting van 18 maart 2018 keurde een investeringstoelage goed voor de renovatie van de boot MPS Josée, eigendom van de vzw Vriendenkring van de Oudgedienden van de Zeemacht van Leuven en omstreken. 
+
+Aangezien de vereniging aangeeft op te houden met bestaan, wil ze, conform de samenwerkingsoverkomst, de boot kosteloos aan de stad Leuven overdragen. In artikel 2 §3 van de samenwerkingsovereenkomst staat letterlijk: "Vzw V.O.-Z.M.-L.O. verbindt er zich toe om haar werking te continueren voor een periode van minimum 5 jaar en de boot MPS JOSEE in eigendom te houden voor een periode van minimum 15 jaar. Wanneer vzw V.O.-Z.M.-L.O. haar werking stopt in deze periode van 15 jaar, wordt de boot MPS JOSEE kosteloos overgedragen aan stad Leuven." 
+
+Aangezien er dringend onderhoud nodig is aan het vaartuig, is het aangewezen om de boot vervolgens via de online veiling te verkopen om volgende redenen: 
+
+- de hoge onderhoudskosten; 
+
+- het gebrek aan expertise van het specifieke wetgevende kader en technische onderhoud van een boot; 
+
+- het beperkte comfort en geen vraag naar deze locatie (stad Leuven heeft al sinds 2018 een gratis gebruiksrecht waarvan weinig of geen gebruik van gemaakt werd); 
+
+- de kosten van de concessie van de ligplaats; 
+
+- de keuringskosten; 
+
+- de hoge te verwachten investeringskosten in de toekomst; geraamd op 150.000 euro; 
+
+- het heel eigen karakter van de boot die een multifunctioneel gebruik niet toelaat; 
+
+- de beperkte toegankelijkheid van de boot, die deze niet geschikt maakt voor gevarieerd gebruik. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De kosteloze overdracht te aanvaarden van de boot MPS Josee van de vzw Vriendenkring van de oudgedienden van de Zeemacht van Leuven en omstreken, aangezien de werking van de vzw stopt. 
+
+## **Artikel 2** 
+
+Vervolgens akkoord te geven voor de verkoop van de boot MPS Josee, via online veiling in november-december 2025, via de raamovereenkomst voor verkoop van goederen via een online veilinghuis, afgesloten met Belga Veilingen, Molemstraat 29/2 te 3560 Lummen, BE0548.748.794, zonder instelprijs. 
+
+## **Studiedienst Gebouwen** 
+
+## **40 Gunningswijze en -voorwaarden - Raamovereenkomst inrichtingswerken 2026-2030 - 25.053 - Goedkeuring (2025_GR_00579)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Goedkeuring van de gunningswijze (openbare procedure) en gunningsvoorwaarden (bestek en plannen) evenals de indicatieve raming, is een bevoegdheid van de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen - het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende plaatsing overheidsopdrachten klassieke sectoren, en latere wijzigingen - het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan - het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van het college en gemeenteraad 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+De raamovereenkomst betreft inrichtingswerken voor diverse gebouwen, waaronder diverse stadsgebouwen. De inrichtingswerken omvatten binnenpleisterwerken, binnenplaatafwerkingen (lichte binnenwanden, verlaagde plafonds, enzovoort), binnenvloerafwerkingen, binnendeuren en - ramen, en binnenschilderwerken. 
+
+Per deelopdracht zal de gegunde inschrijver verplicht een plaatsbezoek uitvoeren, een meetstaat en een gedetailleerde prijsofferte (op basis van de meetstaat) opmaken, aan de hand van de eenheidsprijzen van zijn inschrijving, die ter goedkeuring aan de leidend ambtenaar wordt voorgelegd. 
+
+Na gunning van de raamovereenkomst zal meteen ook deelopdracht 1 - uitbreiding stadskantoor gegund worden. Deze opdracht zal ook gescoord worden (zie gunningscriteria). Het project is beschreven onder verschillende hoofdstukken in dit bestek (onder andere uitvoeringstermijn) en in het technisch bestek onder hoofdstuk 110. Zie ook meetstaat, vooraleer bestelling en na plaatsbezoek worden de hoeveelheden nog aangepast naar de reële te bestellen hoeveelheden. 
+
+Na gunning van de raamovereenkomst zal meteen ook deelopdracht 2 - Adbij Van Park (Zuidvleugel, Provisorenhuis en Pandgang) gegund worden door EAP. Het project is beschreven in het technisch bestek onder hoofdstuk 120. 
+
+Na gunning van de raamovereenkomst zal ook de gunning van deelproject 3 - Scheutsite gebouw zusters fase 0 worden opgestart. Het project is beschreven in het technisch bestek onder hoofdstuk 130. 
+
+In het technisch bestek onder hoofdstuk 140 worden de overige te verwachten projecten beschreven. Daarnaast wordt verwacht dat er nog bijkomende (tot nog toe onbekende) projecten zullen worden uitgevoerd binnen de raamovereenkomst. 
+
+De in de meetstaat opgenomen posten en hoeveelheden zijn in het kader van dit bestek deels oppervlakkig bepaald of verondersteld en deels verhoogd, vooral om een betere vergelijking van de eenheidsprijzen toe te laten. Deze posten of hoeveelheden mogen dus niet zonder meer overgenomen worden voor de definitieve offertes, maar moeten steeds ter plaatse nagegaan worden. 
+
+De looptijd van de opdracht is 4 jaar (jaarlijks opzegbaar). De prijs zal het eerste jaar vast zijn. 
+
+Het is aangewezen om de opdracht te gunnen via openbare procedure: artikel 36 van de wet van 17 juni 2016. 
+
+De indicatieve raming (maximale omvang van de raamovereenkomst) werd als bijlage toegevoegd. Deze raming is slechts indicatief, er kan onmogelijk exact ingeschat worden welke inrichtingswerken de komende 4 jaar zullen uitgevoerd worden. 
+
+De maximale omvang van de raamovereenkomst komt op 2.964.500 euro, inclusief btw. De maximale waarde van de raamovereenkomst vormt geen indicatie voor het offertebedrag waarmee kan worden ingeschreven. Het betreft daarentegen de maximale waarde van de raamovereenkomst, vastgesteld op basis van de maximaal te bestellen hoeveelheden over alle opdrachten die binnen de raamovereenkomst kunnen worden geplaatst. 
+
+De stad Leuven zal als aankoopcentrale optreden (in toepassing van artikel 2, 6°a en 7°b van de wet van 17 juni 2016) voor volgende entiteiten: 
+
+- AG Stadsontwikkeling Leuven, Professor Van Overstraetenplein 1, 3000 Leuven 
+
+- AG Museum, Professor Van Overstraetenplein 1, 3000 Leuven 
+
+- Politie Leuven, Philipssite 4, 3001 Leuven 
+
+- OCMW Leuven, Andreas Vesaliusstraat 47, 3000 Leuven 
+
+- Zorgbedrijf Leuven, OCMW-vereniging van publiek recht, Andreas Vesaliusstraat 47, 3000 Leuven 
+
+- Brandweerzone Oost-Vlaams-Brabant, Terbankstraat 20, 3001 Leuven 
+
+- Leuven Connected BV, Professor Van Overstraetenplein 1, 3000 Leuven 
+
+- EAP, Professor Van Overstraetenplein 1, 3000 Leuven 
+
+- alle kerkfabrieken van grondgebied stad Leuven en deelgemeenten 
+
+- eventueel andere aan de stad gelinkte entiteiten 
+
+Er wordt aan elk van de entiteiten apart gefactureerd en door elke rechtspersoon apart betaald. 
+
+Bovenstaande entiteiten werd gevraagd om een inschatting te maken van hun gebruik van de raamovereenkomst de komende 4 jaren (zie raming). 
+
+Budget is voorzien op budgetsleutels MJP006791 - GEB-STUD/2026/2210000007/2/0119/9999 en de volgende jaren voor het project uitbreiding stadskantoor. En de budgetsleutels van de desbetreffende gebouwen. 
+
+Het bestek en de planning kunnen als bijlage geconsulteerd worden. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De gunningswijze (openbare procedure, artikel 36 van de wet van 17 juni 2016) en de gunningsvoorwaarden (bestek en plannen) aangaande raamovereenkomst inrichtingswerken 20262030 goed te keuren. De looptijd bedraagt 4 jaren (jaarlijks opzegbaar). 
+
+## **Artikel 2** 
+
+De nodige budgetten zijn voorzien in de meerjarenbegroting  op de budgetsleutels van de desbetreffende gebouwen. Voor het project uitbreiding stadskantoor is er budget voorzien op budgetsleutel MJP006791 - GEB-STUD/2026/2210000007/2/0119/9999 en de volgende jaren. 
+
+## **Artikel 3** 
+
+De stad Leuven zal bij toepassing van artikel 2, 6°a en 7°b van de wet van 17 juni 2016 optreden als aankoopcentrale voor bovenstaande organisaties. 
+
+## **BIJLAGEN** 
+
+1. 20251031_UitbreidingSK_planning.pdf 
+
+2. 25_053_Indicatieve_raming_maximale_omvang.pdf 
+
+3. Inrichtingswerken_meetstaat_ingevulde_eenheidsprijzen.pdf 
+
+4. BijlageD_meetstaat_prijzen_in_te_vullen.xlsx 
+
+## **OPENBAAR DOMEIN** 
+
+## **Studiedienst Openbare Werken** 
+
+21:37 - Bruno Tobback, raadslid betreedt de zitting. 
+
+- 21:37 - Katrien Vermijlen, raadslid betreedt de zitting. 
+
+- 21:38 - Pieterjan Vangerven, raadslid verlaat de zitting. 
+
+## 21:38 - Frouke Wouters, raadslid verlaat de zitting. 
+
+21:40 - Lies Corneillie, schepen verlaat de zitting. 
+
+21:41 - Anton Nilis, raadslid verlaat de zitting. 
+
+## **41 Gunningswijze en -voorwaarden - Raamovereenkomst onthardingsprojecten (OD_SOW-25.4/865.11) - Goedkeuring (2025_GR_00534)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 33 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Ruben Geleyns; Natalie Haine; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen 
+
+- 9 stem(men) tegen: Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Karine Op de Beeck; Karen Van Herck; Lies Verlinden - 1 onthouding(en): Britt Huybrechts 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Goedkeuring van de gunningswijze (openbare procedure - artikel 36 van de wet van 17 juni 2016)) en de gunningsvoorwaarden (bestek, plannen en meetstaat) voor de raamovereenkomst voor het uitvoeren van onthardingsprojecten te Leuven. De totale uitgave wordt geraamd op 2.551.186,35 euro, inclusief btw. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende plaatsing overheidsopdrachten klassieke sectoren, en latere wijzigingen 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van het college en gemeenteraad 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+De gevolgen van klimaatverandering worden de laatste jaren meer en meer voelbaar. Daarom werkt de stad Leuven, in samenwerking met Leuven 2030, sterk mee aan de implementatie van klimaatadaptieve maatregelen. Dit zijn acties die ertoe bijdragen de kwetsbaarheid voor klimaatverandering te verminderen en de schade hierdoor te beperken. 
+
+De sterke verhardingsgraad in de stad belet dat regenwater in de bodem kan doordringen. Regenwater spoelt bijgevolg af naar lager gelegen delen en overbelast de riolering. Met de opwarming van het klimaat verwacht men intensere regenbuien, met meer wateroverlast als gevolg. Ontharding zorgt ervoor dat meer regenwater kan infiltreren in de bodem en de grondwatertafel kan aanvullen. Hierdoor wordt de stad ook weerbaarder tegen droogte en watertekort in lange droge periodes. 
+
+De grote hoeveelheid asfalt en beton houdt bovendien warmte vast en veroorzaakt zo het hitteeilandeffect. Daardoor is de temperatuur in de stad aanzienlijk hoger dan in het omliggende landschap. Door de klimaatverandering verwacht men een sterke toename in aantal en duur van hittegolven. Om de stad leefbaar te houden en hittestress bij inwoners te beperken is ontharding en de bijhorende vergroening essentieel. 
+
+Ontharding laat toe groene ruimtes te creëren waar zowel de biodiversiteit als de mens baat bij hebben. De ecologische veerkracht van de stad wordt verhoogd en de leefomgeving voor de inwoners wordt verbeterd.  Groen en natuur hebben een wetenschappelijk bewezen positieve invloed op het fysiek en mentaal welzijn van mensen. Het vermindert stress, verbetert de luchtkwaliteit en tempert geluidsoverlast. Tenslotte bieden groene ruimtes kansen voor sociale interactie en gemeenschapsvorming. 
+
+Met de opmaak van het Leuvens Klimaatcontract toont Leuven een sterk engagement om klimaatneutraal te worden tegen 2030. In het actieplan met 86 doorbraakprojecten is een belangrijk luik 'Nature Based Solutions & Green Infrastructure' voorzien dat focust op klimaatadaptatie. Om uitvoering te geven aan dit klimaatcontract moeten acties rond ontharding en vergroening opgeschaald worden. 
+
+Voorlopig zijn reeds op de volgende locaties onthardingswerken voorzien: - Burchtstraat te 3000 Leuven: Kruispunt Burchtstraat x Mechelsestraat wordt heraangelegd in functie van de fietsveiligheid, waarbij ontharding en vergroening sterk worden meegenomen. Flankerende maatregelen worden voorzien om de fietsveiligheid te verhogen. 
+
+- Krakauplein te 3010 Kessel-lo: Het Krakauplein wordt onthard en beide pleindelen worden verbonden. Ook de doorgang richting speeltuin Casablanca (Tarweschoof) wordt mee aangepakt in het ontwerp. Dit kadert in het Europese gesubsidieerd project URBreath. 
+
+- Vlaio Rustpunten te 3000 Leuven: Maakt deel uit van het Wayfinding project waar stad Leuven via Vlaio subsidies voor krijgt. Grotere locaties zijn Jan Stasstraat, Stadsschouwburg en Diestsestraat. - Fonteinstraat te 3000 Leuven: de brede voetgangerszone is in slechte staat. Deze zone zal zo veel mogelijk onthard worden en ingericht worden als een groene rust- en wandelzone voor de buurtbewoners (Interreg project Uitbreek-Doorbraak). Er wordt bekeken of een visualisatie van de waterloop, die onder de voetgangerszone ligt, kan opgenomen worden in het ontwerp. 
+
+- een aantal kleinere ingrepen aan het openbaar domein: 
+
+- wegnemen of verlagen boordsteen ter hoogte van een plantvak; 
+
+- parkeerplaats omvormen naar waterdoorlatende verharding of grasbetontegels; 
+
+- vergroten boomspiegel waar wortels de verharding opdrukken; 
+
+- enzovoort. 
+
+De gunningsvoorwaarden (bestek, meetstaat en plannen) en -wijze (openbare procedure) worden ter goedkeuring voorgelegd. 
+
+De raamovereenkomst heeft een looptijd van 4 jaar. 
+
+De uitgaven voor de 4 grote en de kleine reeds voorziene werken worden geraamd op het totaal bedrag van 2.551.186,35 euro, inclusief btw, waarvan 2.143.380 euro aan werken en 407.806,35 euro aan btw. 
+
+De uitvoeringstermijn van de werken wordt per deelopdracht vastgelegd. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De gunningswijze (openbare procedure - artikel 36 wet 17 juni 2016), de gunningsvoorwaarden (bestek, meetstaat en plannen) en de indicatieve raming, voor een bedrag van 2.551.186,35 euro, inclusief btw,  aangaande de raamovereenkomst voor het uitvoeren van onthardingsprojecten te Leuven goed te keuren. 
+
+## **Artikel 2** 
+
+De geraamde uitgaven voor deze werken van 1.941.935 euro, exclusief btw (407.806,35 euro btw), aan te rekenen op budgetsleutel MJP003057 - SWW/2026/2240000007/4/0200/0200 en volgende jaren voor wegeniswerk. 
+
+De geraamde uitgaven voor deze werken van 201.445 euro, exclusief btw (btw verlegd), aan te rekenen op budgetsleutel MJP003056 - SWW/2026/2240000007/4/0200/0200 en volgende jaren voor rioleringswerk. 
+
+## **Artikel 3** 
+
+De looptijd van de raamovereenkomst vast te stellen op 48 maanden met een vermoedelijke startdatum op woensdag 1 april 2026. 
+
+## **BIJLAGEN** 
+
+   1. 250909_Krakauplein_NT_LN.pdf 
+
+   2. 20250311_Diestsestraat_OT-DEEL 1.pdf 
+
+   3. 20250311_Diestsestraat_OT-DEEL2.pdf 
+
+   4. 20250926_Bestek_Ontharding_def.docx 
+
+- 21:47 - Anna Roos Brimco Melotte, raadslid verlaat de zitting. 
+
+- 21:48 - Lies Corneillie, schepen betreedt de zitting. 
+
+- 21:48 - Frouke Wouters, raadslid betreedt de zitting. 
+
+- 21:50 - Pieterjan Vangerven, raadslid betreedt de zitting. 
+
+- 21:51 - Lies Verlinden, raadslid verlaat de zitting. 
+
+- 21:52 - Els Van Hoof, raadslid verlaat de zitting. 
+
+## **42 Gunningswijze en -voorwaarden - Opmaak ontwerp en uitvoering skateterrein Philipssite - Goedkeuring (2025_GR_00554)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gunningswijze, de gunningsvoorwaarden en de raming aangaande de heraanleg van skatepark Philipssite. 
+
+## **Regelgeving: bevoegdheid** 
+
+- het college is bevoegd op basis van artikel 56 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende plaatsing overheidsopdrachten klassieke sectoren, en latere wijzigingen 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van het college en gemeenteraad 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+Skateterrein Philipssite werd gerealiseerd in 2006, het goed gebruikte skateterrein is echter aan vernieuwing toe. Het is versleten, op vele plaatsen is de beton erg beschadigd wat het gevaarlijk maakt om te vallen. Daarnaast geven de skaters aan dat het skaten is geëvolueerd en het huidige ontwerp niet aansluit bij het huidige skaten. Ook is er op dit park geen beginnerszone en het is wenselijk om dit toe te voegen. 
+
+Dit is een vernieuwd bestek naar eerder stopzetting van de vorige procedure. In dit voorgaande bestek was ook het skatepark in Stelplaats opgenomen, de heraanleg van dit skatepark gaat voorlopig niet door en bijgevolg diende die opdracht stopgezet te worden. De heraanleg voor Philipssite dient dus opnieuw opgestart te worden. 
+
+Het bijzonder bestek voor deze werken werd toegevoegd in bijlage. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De gunningswijze (vereenvoudigde onderhandelingsprocedure met voorafgaande bekendmaking, artikel 41, §1, 2° - wet van 17 juni 2016), de gunningsvoorwaarden (bestek en plannen) en de raming, voor een bedrag van 665.500 euro, inclusief btw, aangaande de heraanleg van skatepark Philipssite, goed te keuren. 
+
+## **Artikel 2** 
+
+De uitgave, geraamd op 665.500 euro, inclusief btw, aan te rekenen op de budgetsleutel MJP006893 - GRO/2025/2200000007/4/068. 
+
+## **BIJLAGEN** 
+
+1. 2025_09_18_Bestek_Philipssite.docx 
+
+## **PZ LEUVEN** 
+
+## **Evenementen** 
+
+## **43 Politieverordening betreffende de openbare orde, rust en veiligheid - Countdown 2025 op 31 december 2025 - Goedkeuring (2025_GR_00533)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Naar aanleiding van het evenement Countdown 2025 is het noodzakelijk om maatregelen te nemen ter vrijwaring van de openbare orde, rust en veiligheid. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Regelgeving: bevoegdheid (bijzonder)** 
+
+- de artikelen 119, 133, 134, § 1 en 135, § 2, van de nieuwe gemeentewet 
+
+## **Juridische grond** 
+
+- de besluitwet van 14 november 1939 betreffende de beteugeling van dronkenschap, in het bijzonder artikel 4 
+
+- de wetsbepalingen betreffende de slijterijen van gegiste dranken, samengeordend op 3 april 1953 - het artikel 6, § 6, van de wet van 24 januari 1977 betreffende de bescherming van de gezondheid van de gebruikers op het stuk van de voedingsmiddelen en andere producten 
+
+- de wet van 28 december 1983 betreffende de vergunning voor het verstrekken van sterke drank 
+
+- de artikelen 14, 22, 28, 29, 30, 31, 33 en 34 van de wet van 5 augustus 1992 op het politieambt 
+
+- het artikel 16 van de wet van 7 januari 1998 betreffende de structuur en de accijnstarieven op alcohol en alcoholhoudende dranken 
+
+- de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties 
+
+- de artikelen 40§3, 286 tot en met 288 van het decreet lokaal bestuur 
+
+- het gecoördineerd politiereglement van de stad Leuven 
+
+## **Argumentatie** 
+
+In de nacht van woensdag 31 december 2025 op donderdag 01 januari 2026 wordt in Leuven op de Oude Markt en in de aanpalende straten het begin van het nieuwe jaar gevierd met onder andere optredens en een aantal afterparty’s in de plaatselijke horecazaken. 
+
+Dit evenement wordt Countdown 2025 genoemd. 
+
+Door de locatie en aard brengt dit evenement een aantal specifieke risico’s met zich mee. Uit de vorige edities bleek dat er tienduizenden mensen afzakken naar de Oude Markt en het uitgaanscentrum van de stad Leuven en dit vanuit de ganse provincie en zelfs ver daarbuiten. 
+
+Het is dan ook noodzakelijk om bijkomende maatregelen te nemen ter vrijwaring van de openbare orde, rust en veiligheid. Het geringste uitstel zou gevaar of schade voor de burgers kunnen veroorzaken. 
+
+Overeenkomstig artikel 63 van het gecoördineerd politiereglement is het sowieso verboden vuurwerk af te steken, voetzoekers te laten ontploffen, carbuurkanonnen af te vuren en wens- of heliumballonnen op te laten. Het is tevens verboden vuurwerk te tonen, uit te stallen of voorbereidende handelingen te treffen. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het evenement Countdown 2025 te laten plaatsvinden op de Oude Markt en de aanpalende straten van woensdag 31 december 2025 om 22.00 uur tot en met donderdag 01 januari 2026 om 00.30 uur, gevolgd door tal van dans- en feestactiviteiten in de diverse horecazaken en dansgelegenheden in het centrum van de stad Leuven. 
+
+## **Artikel 2** 
+
+Dat het aan de tapeilanden op de Oude Markt is verboden om voor, tijdens en na het evenement Countdown 2025, met name van woensdag 31 december 2025 om 20.00 uur tot en met donderdag 01 januari 2026 om 08.00 uur, gedistilleerde dranken, samenstellingen van dranken die gedistilleerde dranken bevatten, te verkopen en/of te schenken. 
+
+## **Artikel 3** 
+
+Dat het is verboden om drank in glas voor, tijdens en na het evenement Countdown 2025, met name van woensdag 31 december 2025 om 20.00 uur tot en met donderdag 01 januari 2026 om 08.00 uur, binnen de ring van de stad Leuven, de ring inbegrepen, te schenken, op te dienen of te verbruiken. Dit verbod geldt niet binnen horecazaken en vergunde terrassen. 
+
+## **Artikel 4** 
+
+Dat het is verboden om tussen woensdag 31 december 2025 om 20.00 uur en donderdag 01 januari 2026 om 08.00 uur op het openbaar domein binnen de ring van de stad Leuven, de ring inbegrepen, rond te lopen met glazen recipiënten en recipiënten met daarin gedistilleerde dranken of samenstellingen van dranken die gedistilleerde dranken bevatten. 
+
+## **Artikel 5** 
+
+Dat voor, tijdens en na het evenement Countdown 2025, met name van woensdag 31 december 2025 om 20.00 uur tot en met donderdag 01 januari 2026 om 08.00 uur, het verboden is om in de nachtwinkels, zoals bedoeld in artikel 2, 9º, van de wet van 10 november 2006, binnen de ring van de stad Leuven, de ring inbegrepen, gedistilleerde dranken en samenstellingen van dranken die gedistilleerde dranken bevatten, te verkopen, te schenken of te laten consumeren. 
+
+## **Artikel 6** 
+
+Dat de luifels van alle inrichtingen op de Oude Markt voor, tijdens en na het evenement Countdown 2025, met name van woensdag 31 december 2025 om 20.00 uur tot en met donderdag 01 januari 2026 om 08.00 uur, dienen te worden ingetrokken. 
+
+## **Artikel 7** 
+
+Dat voor, tijdens en na het evenement Countdown 2025, met name van woensdag 31 december 2025 om 20.00 uur tot en met donderdag 01 januari 2026 om 08.00 uur, het verboden is parasols te plaatsen op de Oude Markt. 
+
+## **Artikel 8** 
+
+Dat de inbreuken op de artikelen 2 tot en met 8 kunnen worden gesanctioneerd met een gemeentelijke administratieve sanctie overeenkomstig artikel 4 van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties. De leden van de politie zijn belast met het toezicht op de naleving van deze verordening. 
+
+## **Artikel 9** 
+
+Dat deze politieverordening overeenkomstig de artikelen 119, derde en vierde lid van de nieuwe gemeentewet en de artikelen 286 tot en met 288 van het Decreet Lokaal Bestuur wordt bekendgemaakt. 
+
+## **Financiën en Logistiek** 
+
+21:53 - Thomas Van Oppens, schepen verlaat de zitting. 
+
+## **44 Gunningswijze en -voorwaarden - Toetreding raamovereenkomst politiezone Gent voor de levering van politievoertuigen - Goedkeuring (2025_GR_00531)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Aankoop van 2 voertuigen ten behoeve van het personeel van de lokale politiezone Leuven, met name voor de terreinverantwoordelijken en de hondengeleiders. 
+
+## **Regelgeving: bevoegdheid** 
+
+- het college is bevoegd op basis van de delegatie door de gemeenteraad conform artikel 33 van de wet op de geïntegreerde politie 
+
+## **Juridische grond** 
+
+- de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen 
+
+- het artikel 33 van de wet tot organisatie van een geïntegreerde politiedienst 
+
+- het koninklijk besluit van 5 september 2001 houdende het algemeen reglement op de boekhouding van de lokale politie, en latere wijzigingen 
+
+- het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende de plaatsing van overheidsopdrachten in klassieke sectoren, en latere wijzigingen 
+
+- de gemeenteraadsbeslissing van 24 juni 2019 betreffende het vastleggen van de gunningswijze en - voorwaarden overheidsopdrachten met delegatie aan het college 
+
+## **Argumentatie** 
+
+Om tot een optimaal gebruik van de voertuigen binnen het wagenpark te komen, werd beslist om twee voertuigen aan te kopen, allen vervangingen. 
+
+Concreet gaat dit dossier over de aankoop van de volgende voertuigen: 
+
+- 1 VW Tayron, voertuig voor de terreinverantwoordelijken (geraamde maximale kostprijs, inclusief ombouw 107.000 euro, inclusief btw) - via raamcontract politiezone Gent 2022/5349; 
+
+- 1 VW Tayron, voertuig voor de hondengeleiders (geraamde maximale kostprijs inclusief ombouw 98.000 euro, inclusief btw) - via raamcontract politiezone Gent 2022/5349. 
+
+Deze voertuigen zullen de volgende voertuigen vervangen, die buiten dienst worden gesteld bij de levering van bovenstaande: 
+
+- 1 Opel Zafira met nummerplaat 1KXH504 (in dienst sinds oktober 2015); 
+
+- 1 Audi A4 Avant met nummerplaat 1KPZ676 (in dienst sinds juni 2015). 
+
+Na interne verschuivingen zullen deze 2 voertuigen buiten dienst gesteld worden die op dat moment (of voorafgaandelijk) niet meer hersteld werden ten gevolge van hoge herstellingskosten of een ongeval, of weggedaan worden wegens slijtage en/of een zeer hoge kilometerstand. 
+
+Het raamcontract van de politiezone Gent werd via hun bestek rechtstreeks opengesteld voor alle Vlaamse politiezones, een afzonderlijke toetreding tot deze raamovereenkomst is dus niet noodzakelijk. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De twee voertuigen ten behoeve van het personeel van de lokale politiezone Leuven te verwerven via aankoop. 
+
+## **Artikel 2** 
+
+De toetreding, gunningswijze en -voorwaarden voor de aankoop van 2 voertuigen ten behoeve van het personeel van de lokale politie Leuven goed te keuren, door beroep te doen op de raamovereenkomst, gevoerd via openbare procedure (conform artikel 36 - van de Wet van 17 juni 2016), van de PZ Gent Procurement 2022/5349 - open meerjarige overeenkomst voor de aankoop van First Respond Intervention Cars. De PZ Gent treedt in het kader van dit dossier op als aankoopcentrale op basis van het artikel 2, 6°, 7°, b) en 47 van de Wet 17 juni 2016. 
+
+## **Artikel 3** 
+
+De totale kostprijs voor de aankoop van twee voertuigen inclusief de noodzakelijke ombouw, op basis van de prijzen van de raamovereenkomst, te ramen op 205.000 euro, inclusief btw, en aan te rekenen op budgetsleutel MJP000285 - POL/2025/33000/743-52/91 van de buitengewone begroting 2025. 
+
+## **BIJLAGEN** 
+
+1. 2025_09_30_VW Tayron Hondengeleider via PZ Gent.pdf 2. 2025_09_11_VW Tayron via PZ Gent.pdf 
+
+3. 2022_05_25_Bestek - Model 3P 1.pdf 
+
+4. Politiezone Gent (5415) DFM 2025 - GENT RO 2022-5349 - FRIC - Mededeling 
+
+   - Herzieningsclausule DIeteren Autom 1.pdf 
+
+5. Raming aankoop voertuigen 2025.xlsx 
+
+## **45 Huurovereenkomst - Vernieuwing huurovereenkomst inclusief service en onderhoud voor communicatie-apparatuur voor de dispatching voor de jaren 2025 tot en met 2028  GC111 - Goedkeuring (2025_GR_00588)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Vernieuwing huurovereenkomst inclusief service en onderhoud voor communicatie-apparatuur voor de dispatching voor de jaren 2025 tot en met 2028. 
+
+## **Regelgeving: bevoegdheid (bijzonder)** 
+
+- de wet van 7 december 1998 houdende de organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus, en latere wijzigingen 
+
+## **Juridische grond** 
+
+- de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 5 september 2001 houdende het algemeen reglement op de boekhouding van de lokale politie, en latere wijzigingen - het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende de plaatsing van overheidsopdrachten in klassieke sectoren, en latere wijzigingen 
+
+- het artikel 33 van de wet tot organisatie van een geïntegreerde politiedienst en de gemeenteraadsbeslissing van 24 juni 2019 betreffende het vastleggen van de gunningswijze en - voorwaarden overheidsopdrachten met delegatie aan het college 
+
+## **Argumentatie** 
+
+De politiezone Leuven beschikt over een eigen dispatching (de 'wachtleiding'). De oproepen voor dringende politiehulp komen er toe en de verschillende ploegen op het terrein worden er aangestuurd. 
+
+De calltaking en dispatching gebeuren aan de hand van Dispatch-werkstations van de nv Astrid. Dat is de beheerder van het communicatienetwerk voor de hulpdiensten. De dispatching dient te gebeuren volgens het wettelijk kader (verschillende wetten, koninklijke besluiten, ministeriële besluiten en ministeriële omzendbrieven) en de politiezone Leuven is dus verplicht om deze dienst af te nemen van de nv Astrid. 
+
+Sluitstuk van de dispatchingprocedure is de radiocommunicatie met de ploegen op het terrein. Als autonome dispatching dient de politiezone Leuven gebruik te maken van een 'bekabelde' Astridradio waarmee ook bepaalde beheerstaken kunnen worden uitgevoerd (noodoproepen ontvangen via radio, radioberichten onderbreken, broadcasts uitvoeren, gespreksgroepen combineren, enzovoort). 
+
+De vorige overeenkomst voor de huur inclusief onderhoud van deze communicatieapparatuur van de dispatching van de lokale politie Leuven liep van 2022 tot en met 2023. Voor het jaar 2024 werd een apart dossier ingediend, omdat er op dat moment nog geen zicht was op de vernieuwing van deze installaties in de toekomst. 
+
+Dit dossier betreft geen overheidsopdracht, maar een afname van onmisbare radiocommunicatieapparatuur en de ondersteuning hiervoor door de hiervoor speciaal opgerichte NV van Publiek Recht Astrid.  ASTRID is een operator die politie, brandweer en andere hulpdiensten in staat stelt om efficiënt te communiceren, om zo het goede verloop van de operaties op het terrein en de veiligheid van de burger te verzekeren. ASTRID staat voor All-round Semi-cellular Trunking Radio communication system with Integrated Dispatchings. De naamloze vennootschap van publiek recht A.S.T.R.I.D. werd opgericht in 1998 op initiatief van de federale en lokale overheden om een gezamenlijk communicatienetwerk voor alle hulp- en veiligheidsdiensten uit te bouwen. 
+
+Sinds 1998 staat ASTRID in voor de uitbouw, het beheer en het onderhoud van een radio- en pagingnetwerk en meldkamers ten behoeve van alle hulp- en veiligheidsdiensten. ASTRID is een initiatief van de Belgische overheid. ASTRID is een naamloze vennootschap van publiek recht die werd opgericht in uitvoering van de wet van 8 juni 1998 (Belgisch Staatsblad van 13 juni 1998) betreffende de radiocommunicatie van de hulp- en veiligheidsdiensten. De statuten van de vennootschap zijn opgenomen in het in de Ministerraad overlegd koninklijk besluit van 27 juni 1998 (Belgisch Staatsblad van 31 juli 1998). 
+
+De kosten voor deze huurovereenkomst inclusief service en onderhoud van deze communicatieapparatuur bedragen voor het jaar 2025, 32.848,13 euro, inclusief btw, en is aan te rekenen op de gewone begroting van 2025 van de politiezone Leuven, MJP000216 - POL/2025/33000/123-13/71. 
+
+De kosten voor deze apparatuur voor 2026 bedragen 60.225,72 euro, inclusief btw, voor 2027 54.971,02 euro, inclusief btw, en voor 2028 56.003,03 euro, inclusief btw. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het voorstel voor de huurovereenkomst inclusief service en onderhoud voor de vernieuwde communicatie-apparatuur voor de dispatching van de lokale politie Leuven voor de periode van 1 januari 2025 tot en met 31 december 2028 goed te keuren. De prijzen zijn indexeerbaar zoals voorzien in de offerte. 
+
+## **Artikel 2** 
+
+De huurovereenkomst goed te keuren (inclusief service en onderhoud) van de communicatieapparatuur, omvattende de vernieuwing van de bestaande apparatuur, voor de jaren 2025 tot en met 2028) te gunnen aan ASTRID, NV van Publiek Recht, die werd opgericht op initiatief van de Belgische overheid. ASTRID is een naamloze vennootschap van publiek recht die werd opgericht in uitvoering van de wet van 8 juni 1998 (Belgisch Staatsblad van 13 juni 1998) betreffende de radiocommunicatie van de hulp- en veiligheidsdiensten. De statuten van de vennootschap zijn opgenomen in het in de Ministerraad overlegd koninklijk besluit van 27 juni 1998 (Belgisch Staatsblad van 31 juli 1998). 
+
+## **Artikel 3** 
+
+De totale kostprijs voor de huurovereenkomst inclusief service en onderhoud van de communicatieapparatuur van de wachtleiding voor het jaar 2025 te ramen op 32.848,13 euro, inclusief btw, en aan te rekenen op budgetsleutel MJP000216 - POL/2025/33000/123-13/71 van de gewone politiebegroting 2025. 
+
+## **Artikel 4** 
+
+De totale kostprijs voor de huurovereenkomst inclusief service en onderhoud van de communicatieapparatuur van de wachtleiding voor het jaar 2026 te ramen op 60.225,72 euro, inclusief btw, en aan te rekenen op budgetsleutel MJP000216 - POL/2026/33000/123-13/71 van de gewone politiebegroting 2026. 
+
+## **Artikel 5** 
+
+De totale kostprijs voor de huurovereenkomst inclusief service en onderhoud van de communicatieapparatuur van de wachtleiding voor het jaar 2027 te ramen op 54.971,02 euro, inclusief btw, en aan te rekenen op budgetsleutel MJP000216 - POL/2027/33000/123-13/71 van de gewone politiebegroting 2027. 
+
+## **Artikel 6** 
+
+De totale kostprijs voor de huurovereenkomst inclusief service en onderhoud van de communicatieapparatuur van de wachtleiding voor het jaar 2028 te ramen op 56.0030.3 euro, inclusief btw, en aan te rekenen op budgetsleutel MJP000216 - POL/2027/33000/123-13/71 van de gewone politiebegroting 2027. 
+
+## **BIJLAGEN** 
+
+1. 20251031101110.pdf 
+
+2. 20251031092731.pdf 
+
+## **HRM** 
+
+**46 Mobiliteit 2025-05 - Vacantverklaring - Goedkeuring (2025_GR_00570)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De mobiliteitsrondes worden tweemaandelijks gepubliceerd. De behoeftebepaling voor de mobiliteitsronde 2025-05 wordt ingezameld bij de algemene directie van het middelenbeheer en de informatie, directie van het personeel, beheer van de loopbaan. 
+
+De gemeenteraad beslist wat de lokale politie betreft, of een betrekking vacant wordt verklaard. Het voorstel van de korpschef met betrekking tot de vacantverklaring van de betrekkingen van de mobiliteit 2025-05 wordt dan ook ter goedkeuring aan de gemeenteraad voorgelegd. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Regelgeving: bevoegdheid (bijzonder)** 
+
+- de gemeenteraad is bevoegd op basis van het koninklijk besluit van 30 maart 2001 tot regeling van de rechtspositie van het personeel van de politiediensten, in het bijzonder de artikelen VI.II.15, §1 en VI.II.16 
+
+## **Juridische grond** 
+
+- de wet van 7 december 1998 tot de organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus (WGP), in het bijzonder de artikelen 38 en 47 
+
+- de wet van 26 april 2002 houdende de essentiële elementen van het statuut van de 
+
+personeelsleden van de politiediensten en houdende diverse andere bepalingen met betrekking tot de politiediensten 
+
+- het koninklijk besluit van 30 maart 2001 tot de regeling van de rechtspositie van het personeel van de politiediensten 
+
+- het koninklijk besluit van 20 november 2001 tot vaststelling van de nadere regels betreffende de mobiliteit van het personeel van de politiediensten 
+
+- de gemeenteraadsbeslissing van 30 juni 2025 betreffende de personeelsformatie van de lokale politiezone Leuven 
+
+## **Argumentatie** 
+
+Gelet op de huidige invulling van de personeelsformatie van de politiezone Leuven is het aangewezen om voor het operationeel kader het ambt van 4 inspecteurs Interventie, 2 inspecteurs 
+
+Nabijheidspolitie - Wijkwerking, 2 inspecteurs Onthaal en Operationele Steun - Planton en 2 inspecteurs Verkeer - Verkeerspolitie - Motorrijder vacant te verklaren. 
+
+Het is aangewezen om voor het administratief en logistiek kader het ambt van 1 consulent Informatiebeheer, 1 assistent Financiën en Logistiek  en 1 assistent Lokale Recherche vacant te verklaren. 
+
+Indien voor de functies van inspecteur Interventie, inspecteur Nabijheidspolitie - Wijkwerking en inpecteur Onthaal en Operationele Steun via mobiliteit geen geschikte kandidaten in het raam van deze mobiliteitsronde worden aangewezen en benoemd, kunnen deze vacatures worden gepubliceerd aan de laureaten die opgenomen zijn in de wervingsreserve van kandidaat-inspecteurs nadat ze geslaagd zijn voor de selectieproeven bij de dienst Rekrutering en Selectie van de federale politie. 
+
+Er wordt rekening gehouden met het personeelsverloop in de politiezone Leuven en het grote tijdsverloop tussen het vacant stellen van functies en de eigenlijke ambtsopneming en met de regelgeving die voorziet in de mogelijkheid om voor de vacant gestelde functies een wervingsreserve aan te leggen tot de datum van de tweede mobiliteitscyclus volgend op de huidige cyclus. 
+
+Op het ogenblik dat het raadsdossier vacantverklaring mobiliteit 2025-05 ingediend wordt, zijn de mobiliteitsrondes 2025-03 en 2025-04 nog lopende en kunnen de personen die benoemd zullen worden alsnog beslissen het ambt niet op te nemen. Hetzelfde geldt voor de personeelsleden van de politiezone Leuven die zich in een eerdere mobiliteitsronde kandidaat gesteld hebben voor een andere zone of de federale politie. Toch kan de gemeenteraad beslissen over het al dan niet vacant stellen van ambten voor de volgende ronde, want de ambten staan 'onder voorbehoud' vacant. Dit betekent dat deze functies enkel worden gepubliceerd in de mobiliteitsronde 2025-05 als ze nog niet ingevuld werden in de mobiliteit 2025-03 en 2025-04 **.** De functies van solliciterende personeelsleden zullen eveneens 'onder voorbehoud' vacant worden gesteld. Deze ambten worden enkel gepubliceerd of ingevuld als het personeelslid benoemd wordt in de functie waarvoor hij postuleert in de huidige of vorige mobiliteit. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+In het raam van de mobiliteitsronde 2025-05 voor het operationeel kader het ambt van 4 inspecteurs Interventie, 2 inspecteurs Nabijheidspolitie - Wijkwerking, 2 inspecteurs Onthaal en Operationele Steun - Planton en 2 inspecteurs Verkeer - Verkeerspolitie - Motorrijder vacant te verklaren. 
+
+## **Artikel 2** 
+
+In het raam van de mobiliteitsronde 2025-05 voor het administratief en logistiek kader het ambt van 1 consulent Informatiebeheer, 1 assistent Financiën en Logistiek en 1 assistent Lokale Recherche vacant te verklaren. 
+
+## **Artikel 3** 
+
+De selectie van kandidaten te laten geschieden door middel van advies van een selectiecommissie en/of het organiseren van één of meerdere testen of geschiktheidsproeven. De resultaten van de testen zijn niet bindend. 
+
+## **Artikel 4** 
+
+Als blijkt dat er minder afvloeiingen zijn dan die waarmee rekening gehouden werd in het dossier, zal bij de toewijzing de maximale personeelsbezetting in overeenstemming met het personeelsbehoefteplan, niet overschreden worden. De totale loonmassa personeelskosten in overeenstemming met de begroting zal niet overschreden worden door de aanwerving van de nieuwe personeelsleden. 
+
+## **Artikel 5** 
+
+Voor alle opengestelde betrekkingen in de mobiliteitsronde 2025-05 wordt er in een wervingsreserve voorzien die geldt voor een gelijkwaardige functionaliteit tot de datum van de verschijning van de oproep tot kandidaatstelling van de tweede navolgende mobiliteitscyclus. 
+
+## **Artikel 6** 
+
+Een afschrift van dit beslissing te zenden aan de hoofdcommissaris-korpschef van de lokale politiezone Leuven, de algemene directie van het middelenbeheer en de informatie van de federale politie - directie van het personeel - beheer van de loopbaan (DGR/DRP/DPP), het secretariaat GPI en de heer gouverneur van de provincie Vlaams-Brabant. 
+
+## **Verkeer** 
+
+## **47 Tijdelijke politieverordening - Doorstromingsmaatregelen in de Havenkant te Leuven - Bekrachtiging (2025_GR_00589)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gemeenteraad bekrachtigt de politieverordening betreffende doorstromingsproblemen op de kruispunten van de Aarschotsesteenweg met de Redersstraat en de Zoutstraat te Leuven van donderdag 6 november tot en met woensdag 24 december 2025. 
+
+## **Regelgeving: bevoegdheid (bijzonder)** 
+
+- de nieuwe gemeentewet, inzonderheid de artikelen 119, 130bis en 135, § 2 
+
+## **Juridische grond** 
+
+- de wet van 16 maart 1968 betreffende de politie over het wegverkeer 
+
+- het decreet lokaal bestuur van 22 december 2017, en latere wijzigingen 
+
+- het koninklijk besluit van 1 december 1975 houdende het algemeen reglement op de politie en van het wegverkeer en van het gebruik van de openbare weg, inzonderheid de artikelen 5 en 70.2.1.§ 1 
+
+- het gecoördineerd politiereglement van de stad Leuven 
+
+## **Argumentatie** 
+
+Het was noodzakelijk om naar aanleiding van doorstromingsproblemen in de Havenkant op de kruispunten van de Aarschotsesteenweg met de Redersstraat en de Zoutstraat te Leuven van donderdag 6 november tot en met woensdag 24 december 2025 over te gaan tot een tijdelijke verkeersregeling teneinde een veilig en vlot verkeer op de openbare weg te garanderen. 
+
+De voornoemde gebeurtenis vereiste een hoogdringende verkeersregeling en het geringste uitstel zou een gevaar of schade kunnen opleveren voor de burger. 
+
+Omdat deze werken plaats hebben van donderdag 6 november tot en met woensdag 24 december 2025, was het onmogelijk om deze verordening nog tijdig aan het college voor te leggen, waardoor de burgemeester bij hoogdringendheid de nodige maatregelen diende te nemen met betrekking tot de openbare veiligheid. 
+
+Deze tijdelijke politieverordening moet in de eerstvolgende vergadering van de gemeenteraad ter bekrachtiging worden voorgelegd. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De tijdelijke politieverordening betreffende doorstromingsproblemen in de Havenkant te Leuven van donderdag 6 november tot en met woensdag 24 december 2025, met kenmerk 2025_BURG_01139, te bekrachtigen. 
+
+## **BIJLAGEN** 
+
+1. 2025_BURG_01139.pdf 
+
+## **HD 1 Tijdelijke politieverordening - Uitvoeren heraanleg van de Korenstraat en Boulevardstraat te Kessel-Lo - Wijziging - Bekrachtiging (2025_GR_00594)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gemeenteraad bekrachtigt de politieverordening betreffende het uitvoeren van een heraanleg van de Korenstraat en de Boulevardstraat te Kessel-Lo van woensdag 12 november tot en met het einde der werken voorzien op vrijdag 12 december 2025. 
+
+## **Regelgeving: bevoegdheid (bijzonder)** 
+
+- de burgemeester is bevoegd op basis van artikel 134 van de nieuwe gemeentewet - de nieuwe gemeentewet, inzonderheid de artikelen 119, 130bis, 134, § 1 en 135, § 2 
+
+## **Juridische grond** 
+
+> - de wet van 16 maart 1968 betreffende de politie over het wegverkeer 
+
+- het decreet lokaal bestuur van 22 december 2017, en latere wijzigingen 
+
+- het koninklijk besluit van 1 december 1975 houdende het algemeen reglement op de politie en van het wegverkeer en van het gebruik van de openbare weg, inzonderheid de artikelen 5 en 70.2.1.§ 1 - het gecoördineerd politiereglement van de stad Leuven 
+
+## **Argumentatie** 
+
+Het college in zitting van vrijdag 29 augustus 2025 keurde reeds eerder een tijdelijke politieverordening goed (2025_CBS_05621) naar aanleiding van het uitvoeren van heraanleg van de Boulevardstraat te Kessel-Lo van zaterdag 6 september tot en met vrijdag 28 november 2025. 
+
+Naar aanleiding van een nieuwe vergunningsaanvraag bleek dat het aangewezen was een beperkte aanpassing door te voeren aan de eerder goedgekeurde verkeersmaatregelen, teneinde een veilig en vlot verkeer op de openbare weg te kunnen garanderen, waardoor voormeld besluit dient gewijzigd te worden. 
+
+De voornoemde gebeurtenis vereiste een hoogdringende verkeersregeling en het geringste uitstel zou een gevaar of schade kunnen opleveren voor de burger. 
+
+Doordat de aangepaste verkeersmaatregelen ingaan op woensdag 12 november 2025, was het onmogelijk om deze verordening nog tijdig aan het college voor te leggen, waardoor de burgemeester bij hoogdringendheid de nodige maatregelen diende te nemen met betrekking tot de openbare veiligheid. 
+
+Deze tijdelijke gewijzigde politieverordening moet in de eerstvolgende vergadering van de gemeenteraad ter bekrachtiging worden voorgelegd. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De tijdelijke politieverordening betreffende het uitvoeren van de heraanleg van de Korenstraat en de Boulevardstraat te Kessel-Lo van woensdag 12 november tot en met vrijdag 12 december 2025, met kenmerk 2025_BURG_01143, te bekrachtigen. 
+
+## **BIJLAGEN** 
+
+1. 2025_BURG_01143.pdf 
+
+- **HD 2 Tijdelijke politieverordening - Uitvoeren aansluiting verbinding fietssnelweg met de tunnel onder de Celestijnenlaan op de Remisebosweg te Heverlee - Verlenging - Bekrachtiging (2025_CBS_07463)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gemeenteraad bekrachtigt de politieverordening betreffende de verlenging voor het uitvoeren aansluiting verbinding fietssnelweg met de tunnel onder de Celestijnenlaan op de Remisebosweg te Heverlee van vrijdag 14 november tot en met het einde der werken voorzien op vrijdag 28 november 2025 . 
+
+## **Regelgeving: bevoegdheid (bijzonder)** 
+
+- de burgemeester is bevoegd op basis van artikel 134 van de nieuwe gemeentewet - de nieuwe gemeentewet, inzonderheid de artikelen 119, 134, § 1 en 135, § 2 
+
+## **Juridische grond** 
+
+- de wet van 16 maart 1968 betreffende de politie over het wegverkeer 
+
+- het decreet lokaal bestuur van 22 december 2017, en latere wijzigingen 
+
+- het koninklijk besluit van 1 december 1975 houdende het algemeen reglement op de politie en van het wegverkeer en van het gebruik van de openbare weg, inzonderheid de artikelen 5 en 70.2.1.§ 1 
+
+- het gecoördineerd politiereglement van de stad Leuven 
+
+## **Argumentatie** 
+
+Het was noodzakelijk om naar aanleiding van de verlenging van het uitvoeren aansluiting verbinding fietssnelweg met de tunnel onder de Celestijnenlaan op de Remisebosweg te Heverlee van vrijdag 14 november tot en met het einde der werken voorzien op vrijdag 28 november 2025 over te gaan tot een tijdelijke verkeersregeling teneinde een veilig en vlot verkeer op de openbare weg te garanderen. 
+
+Voor de uitvoering van de aansluiting verbinding fietssnelweg met de tunnel onder de Celestijnenlaan op de Remisebosweg te Heverlee werden eerder tijdelijke verkeersmaatregelen ingevoerd tot en met het einde der werken, destijds voorzien op vrijdag 14 november 2025 (2025_CBS_06036). Omwille van achterstand op de planning, konden de werken niet afgerond worden binnen de voorziene termijn. Het huidige einde der werken is voorzien op vrijdag 28 november 2025. Overeenkomstig artikel 27, 4[e] lid van het gecoördineerd politiereglement van de stad Leuven kan de verlenging van een vergunning aangevraagd worden tot uiterlijk 2 werkdagen voor het verstrijken van de einddatum van de oorspronkelijke vergunning. 
+
+De verlenging van de vergunning werd echter buiten de reglementaire termijn aangevraagd, namelijk op donderdag 13 november 2025. De verlenging van de vergunning werd desondanks goedgekeurd, op expliciete vraag van de Studiedienst Openbare Werken. Hierdoor was het evenwel onmogelijk om deze verordening tijdig aan het college voor te leggen, waardoor de burgemeester bij hoogdringendheid de nodige maatregelen diende te nemen met betrekking tot de openbare veiligheid. 
+
+Deze tijdelijke politieverordening moet in de eerstvolgende vergadering van de gemeenteraad ter bekrachtiging worden voorgelegd. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De tijdelijke politieverordening betreffende de verlenging van het uitvoeren aansluiting verbinding fietssnelweg met de tunnel onder de Celestijnenlaan op de Remisebosweg te Heverlee van vrijdag 14 november tot en met het einde der werken voorzien op vrijdag 28 november 2025, met kenmerk 2025_BURG_01160, te bekrachtigen. 
+
+## **RUIMTELIJKE ONTWIKKELING** 
+
+## **Bouwen en Milieu** 
+
+21:54 - Karin Brouwers, raadslid verlaat de zitting. 
+
+21:54 - Sarah Mohamed Khalif, raadslid verlaat de zitting. 
+
+## **48 Straatnamen - Definitieve vaststelling en inwerkingtreding nieuwe straat/pleinnamen - 'Hertogenpark', 'Plein aan de Aa', 'Gasthuissteeg' en het 'SintElisabethplein' - Goedkeuring (2025_GR_00523)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gemeenteraad in zitting van 26 mei 2025 besliste principieel akkoord te gaan met het toekennen van de volgende straat-/pleinnamen 'Hertogenpark', 'Plein aan de Aa', 'Gasthuissteeg' en het 'SintElisabethplein' en hiervoor de procedure op te starten. 
+
+Zoals voorzien in het decreet van 28 januari 1977 (en wijzigingen) tot bescherming van de namen van de openbare wegen en pleinen, werd het openbaar onderzoek tot toekenning van bovenvermelde straatnaam opgestart. Het openbaar onderzoek werd gehouden van 2 september tot en met 2 oktober 2025. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het decreet lokaal bestuur van 22 december 2017, en latere wijzigingen 
+
+- het decreet van 28 januari 1977 tot bescherming van de namen van de openbare wegen en pleinen, gewijzigd bij besluit van 01 juli 1987 van de Vlaamse regering, bij decreet van 04 februari 1997 van de Vlaamse regering en bij decreet van 29 november 2002 van de Vlaamse regering 
+
+## **Argumentatie** 
+
+De gemeenteraad in zitting van 26 mei 2025 besliste principieel akkoord te gaan met het toekennen van de volgende straatnamen: 
+
+- het in 2019 goedgekeurde 'Sint-Elisabethplein' (nummer 10 op het oude plan) op te splitsen en enkel te behouden voor het binnenplein (zie A gele zone op plan), zone C te wijzigen naar 'Plein aan de Aa' (paarse zone op plan) en zone E te wijzigen naar 'Gasthuissteeg' (rode zone op plan) gelegen in de Hertogensite te Leuven; 
+
+- het in 2019 goedgekeurde Aapark (nummer 11 op het oude plan) te wijzigen naar 'Hertogenpark' (blauwe zone op plan). De vraag voor een bijkomende naam voor het Sint-Elisabethplein volgt uit de ruimtelijke opdeling van het plein in twee delen; 
+
+- enkel het binnenplein zal nog de naam 'Sint-Elisabethplein' krijgen, verwijzend naar het eerste SintElisabethgasthuis op deze plek; 
+
+- 'Plein aan de Aa' zou dan voor het plein tussen het Wagenhuys en Kloosterhotel gebruikt worden; 
+
+- Gasthuissteeg zal dan voor het straatje tussen het Oud Gasthuis en het nieuwe Podiumkunstengebouw gebruikt kunnen worden. Het centrale park zal de belangrijkste publieke ruimte worden van de site waar omwille van herkenbaarheid beter verwezen wordt naar de ondertussen breed gedragen naam van de Hertogensite. De verwijzing naar de benaming van de specifieke Dijle-arm, de Aa wordt behouden in het plein aan de Aa. Er wordt dan ook voorgesteld om het ‘Aapark’ te herbenoemen naar 'Hertogenpark' 
+
+Zoals voorzien in het decreet van 28 januari 1977 (en wijzigingen) tot bescherming van de namen van de openbare wegen en pleinen, werd het openbaar onderzoek tot toekenning van bovenvermelde straatnaam opgestart. Het openbaar onderzoek werd gehouden van 2 september tot en met 2 oktober 2025. De principiële beslissing van de gemeenteraad werd aan de Leuvense bevolking bekendgemaakt, door openbare aanplakking en door een bericht op de website van de stad Leuven. 
+
+De eigenaars van de gronden gelegen aan de betrokken straten/pleinen werden aangetekend van het openbaar onderzoek op de hoogte gebracht. Er werden naar aanleiding van het openbaar onderzoek geen enkel bezwaarschrift ingediend. 
+
+De adviesraad cultuur werd om advies gevraagd en heeft een gunstig advies afgeleverd, waarbij een aantal aanbevelingen werden toegevoegd voor toekomstige straatnamen. 
+
+Het dossier wordt voorgelegd aan de gemeenteraad voor definitieve goedkeuring. Het plan en de adviezen werden toegevoegd als bijlage. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van het gunstig advies van de adviesraad cultuur over de nieuwe straatnamen. 
+
+## **Artikel 2** 
+
+Het openbaar onderzoek gehouden van 2 september tot en met 2 oktober 2025 af te sluiten en vast te stellen dat er geen bezwaarschriften zijn ingediend. 
+
+## **Artikel 3** 
+
+De volgende straatnamen definitief vast te stellen: 
+
+- 'Hertogenpark'; 
+
+- 'Plein aan de Aa'; 
+
+- 'Gasthuissteeg'; 
+
+- 'Sint-Elisabethplein'. 
+
+## **Artikel 4** 
+
+Voor de straat-/pleinnamen de inwerkingtreding door te voeren vanaf donderdag 1 januari 2026. 
+
+## **BIJLAGEN** 
+
+   1. FW_ straatnaamwijzigingen Hertogensite adviesvraag .msg 2. Nieuwe Naamgeving pleinen en park Podiumkunstensite en Hertogensite.pdf 
+
+- 21:57 - Anton Nilis, raadslid betreedt de zitting. 
+
+21:59 - Lies Verlinden, raadslid betreedt de zitting. 
+
+22:03 - Natalie Haine, raadslid verlaat de zitting. 
+
+## **49 Omgevingsvergunning met wegenis - Bouwen van een kantoorgebouw (Campus Parkpoort II), te Philipssite 5, 3001 Leuven – OMV_2025059307 - Goedkeuring (2025_GR_00586)** 
+
+## **STATUS** 
+
+## **Goedgekeurd** bij elektronische stemming met: 
+
+- 30 stem(men) voor: Jasmien Beckers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Ruben Geleyns; Katja Hermans; Britt Huybrechts; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Anton Nilis; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De stad ontving een aanvraag tot omgevingsvergunning voor het bouwen van een kantoorgebouw op een perceel in eigendom van de stad gelegen te Philipssite 5, waarvoor een erfpachtovereenkomst bestaat. 
+
+Het project voorziet aanpassingen aan bestaande dienstwegen rond het kantoorgebouw. Door de wijzigingen aan deze dienstwegen op eigendom van de stad, is in dit dossier een beslissing nodig van de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+**Regelgeving: bevoegdheid (bijzonder)** 
+
+- het college is bevoegd op basis van het decreet betreffende de omgevingsvergunning, de Vlaamse Codex Ruimtelijke Ordening (VCRO) en bijhorende uitvoerende besluiten en bijkomende wijzigingen 
+
+## **Juridische grond** 
+
+- het decreet betreffende de omgevingsvergunning (25 april 2014 en latere wijzigingen): - het artikel 31: Als de vergunningsaanvraag wegenwerken omvat waarover de gemeenteraadbeslissingsbevoegdheid heeft en de bevoegde overheid, vermeld in artikel 15, oordeelt dat de omgevingsvergunning kan worden verleend, neemt de gemeenteraad een beslissing over de zaak van de wegen voor de bevoegde overheid een beslissing neemt over de aanvraag 
+
+- artikel 32: 
+
+§ 1. De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van: 
+
+1° honderd en vijf dagen als geen advies van een omgevingsvergunningscommissie vereist is § 2. De termijnen, vermeld in paragraaf 1, worden van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen: 
+
+3° als de vergunningsaanvraag wegenwerken omvat waarover de gemeenteraadbeslissingsbevoegdheid heeft 
+
+## **Argumentatie** 
+
+De stad ontving op 15 mei 2025 een aanvraag tot omgevingsvergunning voor het bouwen van een kantoorgebouw. 
+
+Het bouwproject situeert zich op de Philipssite, op een vrij liggend terrein aan de zuidelijke zijde. Er wordt gebruik gemaakt van de bestaande infrastructuur voor de ontsluiting en verkeersafwikkeling. 
+
+De betrokken zone is omsloten door dienstwegen aan de oost-, zuid- en westzijde. Naar aanleiding van de gevraagde ontwikkeling op het terrein, is de heraanleg van deze dienstwegen noodzakelijk, wat ten laste wordt gelegd van de ontwikkelaar. 
+
+Rond de heraanleg van de dienstwegen worden de nodige technische voorwaarden en borgstelling geformuleerd in het voorwaardelijk gunstige advies van de directie Openbaar Domein, afdeling Studiedienst Openbare Werken van 14 augustus 2025 (zie bijlage). 
+
+Op het inplantingsplan bestaande toestand CPII, van 15 mei 2025 (zie bijlage), is door middel van een rode streepjeslijn de ‘eigendomsgrens’ aangegeven voor het nieuwe kantoorgebouw. De oppervlakte binnen deze rode streepjeslijn maakt deel uit van een onderhandse erfpachtovereenkomst, afgesloten op 5 mei 2002 tussen de stad Leuven en de nv Campus Parkpoort. 
+
+De vergunningenhouder bezorgt voorafgaand aan de start van de werken een prekadastraal opmetingsplan met voorafgaande perceelsidentificatie en zorgt voor het verlijden van de notariële akte houdende een zakelijk recht volgens de voorwaarden van de vermelde onderhandse overeenkomst. De notariële akte dient te worden verleden binnen de 2 jaar na het bekomen van een uitvoerbare omgevingsvergunning en steeds voorafgaand aan de start van de werken. 
+
+## Openbaar onderzoek en behandeling van de bezwaren 
+
+De aanvraag werd onderworpen aan een openbaar onderzoek. Het openbaar onderzoek vond plaats van 23 juni 2025 tot en met 22 juli 2025. Er werden twee bezwaren ingediend. Deze bezwaren hebben geen betrekking op de bestaande dienstwegen en de voorziene aanpassingen hieraan zodat dit geen onderwerp uitmaakt van deze gemeenteraadsbeslissing. 
+
+## Adviezen: 
+
+Met betrekking tot de aanpassingen aan de dienstwegen op het terrein, werden adviezen ingewonnen bij volgende externe diensten: 
+
+- Vlaamse Milieumaatschappij (VMM): geen advies vereist; uitgebracht op 18 juni 2025; 
+
+- Hulpverleningszone Oost (HVZO): voorwaardelijk gunstig advies: het voorgaande advies uitgebracht op 17 februari 2025 met referentie LEU/08307/003O/LM blijft van toepassing; - De Watergroep – deeladvies Waterbronnen: voorwaardelijk gunstig advies, uitgebracht op 26 augustus 2025 
+
+De externe adviezen werden toegevoegd ter info in bijlage en bevatten geen voorwaarden die een impact hebben op de zaak der wegenis. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van het feit dat een aanvraag tot omgevingsvergunning voor het bouwen en exploiteren van een nieuw kantoorgebouw (Campus Parkpoort II) met lozen huishoudelijk afvalwater en warmtepompen met dossiernummer OMV_2025059307, te Philipssite 5, 3001 Leuven, werd ingediend. 
+
+## **Artikel 2** 
+
+Akkoord te gaan met de voorwaarden voor zover zij betrekking hebben op de zaak der wegen, en deze over te nemen in de omgevingsvergunning met bijlagen. 
+
+## **Artikel 3** 
+
+Akkoord te gaan met het stellen van een onvoorwaardelijke bankwaarborg op eerste verzoek van 736.000 euro, inclusief btw, voor de te ontwerpen en uit te voeren werkzaamheden aan de gemeentewegen. 
+
+## **Artikel 4** 
+
+Akkoord te gaan met het vestigen van een zakelijk recht volgens de voorwaarden uit de onderhandse erfpachtovereenkomst afgesloten op 5 mei 2002 tussen de stad Leuven en de nv Campus Parkpoort.  De afbakening van de zone is weergegeven op het inplantingsplan bestaande toestand CPII, van 15 mei 2025. 
+
+## **Artikel 5** 
+
+Zijn goedkeuring te hechten aan de inrichting, wijziging en uitrusting van de wegenis, zoals voorzien op de ingediende bouwplannen en mits naleving van de gestelde voorwaarden. 
+
+## **Artikel 6** 
+
+De voorzitter van de gemeenteraad en de algemeen directeur van de stad Leuven, of hun aangestelde volmachtdragers, te machtigen de authentieke akte houdende het vestigen van een zakelijk recht namens de stad Leuven te ondertekenen. 
+
+## **BIJLAGEN** 
+
+1. Adviezen_OMV_2025059307.pdf 
+
+2. BA_CPII_I_B_1_inplantingsplan BT.pdf 
+
+3. LEU_08307_003O_LM.pdf 
+
+4. WT 2025 G 0831_1.pdf 
+
+## **50 Omgevingsvergunning met wegenis / wijzigingen van het rooilijnenplan - Gedeeltelijke functiewijziging van Silo 54, vergroten dakkoepel en atrium, te Havenkant 24-28, 3000 Leuven  – OMV_2025082350  - Goedkeuring (2025_GR_00587)** 
+
+## **STATUS** 
+
+## **Goedgekeurd** bij elektronische stemming met: 
+
+- 39 stem(men) voor: Frieda Aerts; Debby Appermans; Jasmien Beckers; Veerle Bovyn; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; Zeger Debyser; Katelijne Dedeurwaerder; David Dessers; Carl Devlies; Surya Dhakal; Daniela El-Kadi; Ruben Geleyns; Katja Hermans; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Karine Op de Beeck; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Karen Van Herck; Liesbeth Vandermeeren; Pieterjan Vangerven; Dirk Vansina; Bieke 
+
+Verlinden; Lies Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 2 onthouding(en): Britt Huybrechts; Anton Nilis 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Het college, in zitting van 28 februari 2025, vergunde de omgevignsvergunningsaanvraag OMV_2024094405 voor het verbouwen en uitbreiden van de bestaande silo’s met mix van functies gelegen Havenkant 24-28, 3000 Leuven. Op het moment van indiening van voorliggende wijzigingsaanvraag was de vergunning OMV_2024094405 definitief en uitvoerbaar. De gemeenteraad nam in dit dossier een beslissing op 18 november 2024 over de aanleg, wijziging, verplaatsing en opheffing van een gemeenteweg. 
+
+Voorliggende ‘wijzigingsaanvraag’ beperkt zich tot enkele wijzigingen aan vergunning OMV_2024094405 en blijft voor de aanleg van de wegen ongewijzigd. Daarom omvat deze wijzigingsaanvraag geen plannen of documenten voor wegenaanleg (er is geen wijziging van het technisch dossier). Enkel het rooilijnplan werd aangepast en is terug te vinden in bijlage. 
+
+Door de  wijzigingen van het rooilijnenplan, is in dit dossier een beslissing nodig van de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Regelgeving: bevoegdheid (bijzonder)** 
+
+- het college is bevoegd op basis van het decreet betreffende de omgevingsvergunning, de Vlaamse Codex Ruimtelijke Ordening (VCRO) en bijhorende uitvoerende besluiten en bijkomende wijzigingen 
+
+## **Juridische grond** 
+
+- het decreet betreffende de omgevingsvergunning (25 april 2014 en latere wijzigingen): - het artikel 31: Als de vergunningsaanvraag wegenwerken omvat waarover de gemeenteraadbeslissingsbevoegdheid heeft en de bevoegde overheid, vermeld in artikel 15, oordeelt dat de omgevingsvergunning kan worden verleend, neemt de gemeenteraad een beslissing over de zaak van de wegen voor de bevoegde overheid een beslissing neemt over de aanvraag 
+
+- artikel 32: 
+
+§ 1. De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van: 
+
+1° honderd en vijf dagen als geen advies van een omgevingsvergunningscommissie vereist is § 2. De termijnen, vermeld in paragraaf 1, worden van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen: 
+
+3° als de vergunningsaanvraag wegenwerken omvat waarover de 
+
+gemeenteraadbeslissingsbevoegdheid heeft 
+
+## **Argumentatie** 
+
+De stad ontving op 15 juli 2025 een aanvraag tot omgevingsvergunning voor een gedeeltelijke functiewijziging van Silo 54 en het vergroten van de dakkoepel en het atrium. Het bouwproject is gelegen aan Havenkant 24-28, aan de zuidkant van de Vaartkom. De omgevingsaanleg en de aanleg van de wegen blijven zoals vergund in de omgevingsvergunning van 28 februari 2025, OMV_2024094405, enkel het rooilijnplan werd aangepast. 
+
+Artikel 2.5.3 van het RUP over de onbebouwde ruimte stelt dat het gedeelte van de zone dat buiten de gekozen bouwlijnen valt, wordt ingericht als publieke ruimte in samenhang met de aangrenzende buitenruimte en permanent en integraal toegankelijk gesteld wordt. Deze onbebouwde ruimte kan niet worden afgesloten. 
+
+Voor het ‘juridisch karakter’ van de onbebouwde ruimte na realisatie van Silo 54 wordt verwezen naar het ongewijzigd plan van overdracht van de vergunning met OMV_2024094405. 
+
+Voor het onderscheid tussen publieke en niet-publieke ruimte wordt verwezen naar een gewijzigd rooilijnplan van de geplande toestand. Het gewijzigd rooilijnplan maakt deel uit van de stukken van voorliggende wijzigingsaanvraag. 
+
+In hoofdzaak worden er geen wijzigingen aangebracht aan de looplijnen, toegangen en doorgangen.  In bijzaak, wijzigt het gebruik van de routes voor zacht verkeer: omwille van de ingrepen die de publieke beleving van de oost-west doorgang verhogen, zal de onderdoorgang enkel gebruikt worden door voetgangers en volgen de fietsers (en voetgangers) de verbindingen/ routes rond de Silo. 
+
+Aangezien het geen wijzigingen aangaande de aanleg van het openbaar domein of de waterhuishouding betreft, blijven de voorwaarden nav de vergunning OMV_2024094405 behouden en worden volgende voorwaarden extra benadrukt: 
+
+- het onderbouwen van toekomstig openbaar domein gebeurt volledig op eigen risico, alle schade die volgt aan het openbaar domein doordat dit onderbouwd is, kan voor de volle 100% verhaald worden op de eigenaar van de onderbouwing, alle schade aan de onderliggende 'private' structuren en leidingen door openbaar gebruik is volledig ten laste van de eigenaar van de onderbouwing. Indien een eventueel herstel van het onderliggende vereist dat de bovenbouw moet opgebroken worden, zal het aan de eigenaar van het onderliggende zijn om die bovenbouw te herstellen tot de op dat moment door de beheerder van het openbaar domein te bepalen grenzen. 
+
+- alle onderliggende 'private' structuren en leidingen dienen minstens een dekking te hebben van 1m; - in het ontwerp gaat men uit van ronde schouwen, hoewel de esthetica ervan begrepen wordt in het algemeen zicht, is het aanwerken van de verharding tegen ronde vormen alles behalve eenvoudig, in aanleg en in onderhoud zeker bij kleinschalige elementen (zoals kleiklinkers of betonstraatstenen) waarvan het kleinste gebruikte deel niet kleiner mag zijn dan 50% van de originele steen: 
+
+- eventuele meerkosten in onderhoud door de specifieke vormen zal verhaald worden op de eigenaars van de schouwen; 
+
+- waar mogelijk wordt naar een beter te onderhouden oplossing/sokkel gezocht; 
+
+- de perceelsgrens zal hierop afgestemd moeten worden na uitvoering; 
+
+- de schouwen ter hoogte van de zuidelijke hoek van het gebouw zullen door 1 rechthoekige sokkel steken, dewelke niet mee wordt overgedragen aan het openbaar domein; 
+
+- de nodige bijsturingen in de beheersafspraken dienen zo snel mogelijk te worden opgenomen met de coördinator. 
+
+Het toekomstig publiek domein kan aan de stad worden overgedragen bij notariële akte, na definitieve oplevering en onder de voorwaarde dat een prekadastraal geregistreerd as-built opmetingsplan wordt afgeleverd. Dit plan, voorzien van het referentienummer AAPD, dient de verschillende vormen van overdracht en/of erfdienstbaarheden duidelijk aan te duiden, opgesplitst per lot. Voor elk lot moet voorafgaand een perceelidentificatie worden aangevraagd. 
+
+De modaliteiten voor de overdracht van het toekomstig publiek domein zijn uitvoerig beschreven en vastgelegd in de Realisatie- en Beheersovereenkomst Toekomstig Publiek Domein, goedgekeurd door de gemeenteraad in zitting van 18 november 2024. 
+
+De overdracht met het oog op inlijving in het openbaar domein kan uitsluitend plaatsvinden via notariële akte, na goedkeuring door de gemeenteraad en na voorafgaand gunstig advies van de bevoegde stadsdiensten. 
+
+Alle kosten verbonden aan de notariële akte van overdracht en de vestiging van erfdienstbaarheden zijn ten laste van de vergunninghouder. 
+
+Ter voorbereiding van de akte van overdracht en vestiging van erfdienstbaarheden neemt de projectontwikkelaar contact op met AG Stadsontwikkeling Leuven via vastgoed@leuven.be. 
+
+Openbaar onderzoek en behandeling van de bezwaren 
+
+De aanvraag werd onderworpen aan een openbaar onderzoek. Het openbaar onderzoek vond plaats van 21 september tot en met 30 oktober 2025. Er werden meerdere bezwaren ingediend. De bezwaren hebben geen betrekking op het gewijzigde rooilijnplan, het onderwerp van deze gemeenteraad. 
+
+Adviezen 
+
+Met betrekking tot het gewijzigde rooilijnplan, werden geen adviezen ingewonnen bij externe diensten. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van het feit dat een aanvraag tot omgevingsvergunning voor de gedeeltelijke functiewijziging van Silo 54, vergroten van de dakkoepel en atrium en wijziging van het rooilijnplan, met dossiernummer OMV_2025082350, te Havenkant 24-28, 3000 Leuven, werd ingediend. 
+
+## **Artikel 2** 
+
+Akkoord te gaan met de voorwaarden inzake aanleg openbaar domein en wegenis uit vergunning OMV_2024094405 + de aanvullende voorwaarden nav de voorliggende aanvraag en deze over te nemen in de omgevingsvergunning met bijlagen. 
+
+## **Artikel 3** 
+
+Akkoord te gaan met de overdracht van het toekomstig publiek domein aan de stad, bij notariële akte, na definitieve oplevering en onder de voorwaarde dat een prekadastraal geregistreerd as-built opmetingsplan wordt afgeleverd. Dit plan, voorzien van het referentienummer AAPD, dient de verschillende vormen van overdracht en/of erfdienstbaarheden duidelijk aan te duiden, opgesplitst per lot. Voor elk lot moet voorafgaand een perceelidentificatie worden aangevraagd. 
+
+## **Artikel 4** 
+
+Akkoord te gaan dat alle kosten verbonden aan de notariële akte van overdracht en de vestiging van erfdienstbaarheden ten laste zijn van de vergunninghouder. 
+
+## **Artikel 5** 
+
+Zijn goedkeuring te hechten aan de wijziging van het rooilijnplan, zoals voorzien op de ingediende bouwplannen en mits naleving van de gestelde voorwaarden. 
+
+## **Artikel 6** 
+
+De voorzitter van de gemeenteraad en de algemeen directeur van de stad Leuven, of hun aangestelde volmachtdragers, te machtigen de authentieke akte houdende het vestigen van een zakelijk recht namens de stad Leuven te ondertekenen. 
+
+## **BIJLAGEN** 
+
+1. BA_Infrastructuur_I_N_02_inplantingsplan Overdracht.OMV_2024094405pdf.pdf 
+
+2. BA_SILO54_I_N_04_GEPLANDE TOESTAND ROOILIJN_final (2).pdf 
+
+3. BA_SILO54_I_V_04_VERGUNDE TOESTAND ROOILIJN_final (2).pdf 
+
+## **Mobiliteit** 
+
+- 22:04 - Ruben Geleyns, raadslid verlaat de zitting. 
+
+- 22:04 - David Dessers, raadslid verlaat de zitting. 
+
+- 22:04 - Bart Meulemans, raadslid verlaat de zitting. 
+
+- 22:05 - Daisy Kaerts, raadslid verlaat de zitting. 
+
+- 22:05 - Aynur Tasdemir, raadslid verlaat de zitting. 
+
+- 22:05 - Karin Brouwers, raadslid betreedt de zitting. 
+
+22:05 - Natalie Haine, raadslid betreedt de zitting. 
+
+## **51 Studentenbuspas academiejaar 2025-2026 (25.001/845) - Overeenkomst studentenbuspas verrekening - Goedkeuring (2025_GR_00563)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 27 stem(men) voor: Jasmien Beckers; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; Carl Devlies; Surya Dhakal; Natalie Haine; Katja Hermans; Lisa Jiroflee; YuChun Liao; Mauro Michielsen; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Bruno Tobback; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters - 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Britt Huybrechts; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De Lijn, de onderwijsinstellingen en de stad Leuven wensen het initiatief van de studentenbuspas volgend academiejaar verder te zetten. Om dit te realiseren dient de overeenkomst voor de verrekening met de onderwijsinstellingen voor het academiejaar 2025-2026 te worden hernieuwd. 
+
+## **Juridische grond** 
+
+- de algemene verordening gegevensbescherming 
+
+> - de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende plaatsing overheidsopdrachten klassieke sectoren, en latere wijzigingen 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van 
+
+het college en gemeenteraad 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+Reeds verscheidene jaren kunnen de studenten, middels het gebruik van een studentenbuspas, tegen nultarief gebruik maken van het openbaar vervoer binnen zone 30 in Leuven (met uitbreiding op Lijn 44 tot Linden en Lijn 3 tot Pellenberg). Om dit verder te zetten dienen De Lijn, de stad Leuven en de onderwijsinstellingen opnieuw een overeenkomst af te sluiten voor het academiejaar 2025-2026. 
+
+De overeenkomst waarin De Lijn het verlies aan inkomsten zal terugvorderen bij de stad Leuven en de onderwijsinstellingen werd reeds goedgekeurd door het college in zitting van 8 augustus 2025 en de gemeenteraad in zitting van 25 augustus 2025. 
+
+De overeenkomst 'verrekening studentenbuspas 2025-2026', die in dit besluit wordt voorgelegd, bevat de vastgelegde afspraken tussen de onderwijsinstellingen en de stad Leuven. Hierin worden de modaliteiten beschreven waaronder de studenten over deze buspas kunnen beschikken. Ook de nodige afspraken omtrent de uitgifte van de pas en de ontvangsten worden op deze manier vastgelegd. Voor de studentenbuspas wordt er een remgeld gevraagd. Dit remgeld werd niet aangepast ten opzichte van vorig academiejaar en bedraagt 25 euro (30 euro voor de studenten van UCLL). Wel werd overeengekomen om stapsgewijs over te gaan naar een evenredigere verdeling van het remgeld onder de ontvangers, waardoor de ontvangst voor stad Leuven voor academiejaar 2025-2026 stijgt naar 11,25 euro per uitgereikte buspas. Vanaf het academiejaar 2026-2027 zal de ontvangst van de stad stijgen naar 12,50 euro per uitgereikte buspas. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van de overeenkomst 'verrekening studentenbuspas Leuven' voor het academiejaar 2025-2026 tussen de stad Leuven en de drie onderwijsinstellingen KU Leuven, UC Leuven, LUCA campus Lemmensinstituut en deze overeenkomst goed te keuren. 
+
+## **Artikel 2** 
+
+Het te verwachten ontvangstbedrag te ramen op 305.000 euro voor de eerste verrekening in 2025 en deze te boeken op budgetsleutel: MJP003262 - RO-MOB/2025/7000000000/4/0210 op het budget 2025. 
+
+Het te verwachten ontvangstbedrag te ramen op 30.000 euro voor de eindafrekening in 2026 en deze te boeken op budgetsleutel: MJP003262 - RO-MOB/2026/7000000000/4/0210 op het budget 2026. 
+
+## **BIJLAGEN** 
+
+1. Evolutie_2019_2025.pdf 
+
+2. 20250620_SWO_Verrekening_25_26_V2.pdf 
+
+## **Ruimte en Onroerend Erfgoed** 
+
+## **52 Gunningswijze en  -voorwaarden - Toetreding - Opmaak van een intergemeentelijke woonstudie met actieplan en instrumentarium - Samenwerkingsovereenkomst voor aanbesteding raamovereenkomst intergemeentelijke studie - Goedkeuring (2025_GR_00578)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De stad Leuven is cofinancierende partner van het strategisch project in uitvoering van het Ruimtelijk Structuurplan Vlaanderen / Beleidsplan Ruimte Vlaanderen ‘Walden’, de 'oostflank' van het Nationaal Park Brabantse Wouden. Er werd onder andere gewerkt aan de opmaak van een geïntegreerde visie en gebiedsprogramma voor het werkingsgebied van Walden. Rond de verhaallijn 'Landschap laat de dorpen floreren' wordt een reeks acties opgelijst rond differentiatie van het wonen, waaronder een intergemeentelijke samenwerking rond instrumenten als woonbehoeftenstudie, masterplannen, RUP's. De afgelopen maanden werkte een werkgroep een selectieleidraad uit voor de aanstelling van een consortium van studiebureaus, waarvan deze instrumenten kunnen afgenomen worden. De aanstelling van het consortium gebeurt via een raamovereenkomst, waarbij de gemeenten de provincie machtigen om namens hen op te treden als aankoopcentrale. De samenwerkingsovereenkomst regelt de afspraken tussen de verschillende partijen. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- de wet van 17 juni 2016 betreffende overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten, en latere wijzigingen 
+
+- het koninklijk besluit van 18 april 2017 betreffende plaatsing overheidsopdrachten klassieke sectoren, en latere wijzigingen 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van het college en gemeenteraad 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan - de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+De stad Leuven is cofinancierende partner van het strategisch project in uitvoering van het Ruimtelijk Structuurplan Vlaanderen / Beleidsplan Ruimte Vlaanderen ‘Walden’, de 'oostflank' van het Nationaal Park Brabantse Wouden. Het strategisch project leverde o.a. een geïntegreerde visie en gebiedsprogramma op voor het werkingsgebied van Walden (Heverlee, Oud-Heverlee, Bertem en Huldenberg). De geïntegreerde visie is opgebouwd uit vijf verhaallijnen: 
+
+- riviervalleien als groene verbindende aders: De identiteit van het landschap centraal plaatsen en bronnen terug beleefbaar maken, vormt de ambitie voor de toekomst; - landschap laat onze dorpen floreren: De dorpen worden gediversifieerd, aangepast aan de noden van het landschap en versterken zo de relatie tussen plateau en vallei; 
+
+- verfijnde recreatie op de geschikte plek: de kleinere belevingsplekken op de rand van de grote recreatieve zones als Meerdaalwoud werken zowel als instapplek van het Nationaal Park als als lokale belevenisplek die identiteit geeft aan een dorp; 
+
+- ruimte voor lokaal en circulair ondernemerschap verbonden met het landschap; - heldere en duurzame mobiliteitsstrategie ontlast het valleilandschap: het ontrafelen van het kluwen aan wegenis biedt kansen. 
+
+De visie en het programma vormen een sterke inhoudelijke basis voor de aanvraag tot verlenging van de erkenning van Walden als strategisch project. Eind 2024 verlengde de Vlaamse overheid deze erkenning voor de periode 2025-2028. 
+
+Het programma bevat naast de visie ook een actieplan. Rond de verhaallijn 'Landschap laat de dorpen floreren' wordt een reeks acties opgelijst rond differentiatie van het wonen, waaronder een intergemeentelijke samenwerking rond instrumenten als woonbehoeftenstudie, masterplannen, RUP's. De afgelopen maanden werkte een werkgroep een selectieleidraad uit voor een consortium van studiebureaus, waarvan deze instrumenten kunnen afgenomen worden (zie bijlage). In deze werkgroep zetelden de ambtelijke en politieke partners van Walden, betrokken Vlaamse actoren en externe experten. Stad Leuven werd hierin vertegenwoordigd door de adviseur Woonbeleid en de schepen van Wonen. Tijdens de stuurgroep Walden van 15 oktober werd het voorstel van raamcontract voorgesteld. De stuurgroep keurde dit goed. Het college van burgemeester en schepenen nam kennis van het ontwerpverslag van de stuurgroep. Elk van de betrokken gemeenten engageerde zich om het raamcontract te agenderen op de gemeenteraad. 
+
+De opdracht omvat de raamovereenkomst voor ‘De opmaak van een intergemeentelijke woonstudie met actieplan en het instrumentarium voor de doorwerking in het kader van het strategisch project Walden'. Met deze opdracht willen de partners van het strategisch project op basis van een intergemeentelijke woonstudie de krijtlijnen uitzetten voor het woon- en ruimtelijk beleid in de regio en zorgen voor een doorvertaling op het terrein. De opdrachtgevers opteren voor een raamovereenkomst met één opdrachthouder om voldoende flexibiliteit, efficiëntie en continuïteit in te bouwen voor de uitwerking van het woon- en ruimtelijk beleid. De raamovereenkomst ontzorgt het provinciebestuur en de gemeenten bij deelopdrachten en levert een tijdswinst. Doordat de deelopdrachten door eenzelfde opdrachthouder worden uitgevoerd, wordt er een sterke kennis opgebouwd, worden de verschillende deelopdrachten maximaal op elkaar afgestemd, boekt men financiële winst en ontstaat een sterke affiniteit in de samenwerking met de opdrachtgevers. 
+
+Deze raamovereenkomst omvat verschillende mogelijke deelopdrachten uit volgende productengroepen: 
+
+- intergemeentelijke woonstudies met actieplan. Aangezien stad Leuven reeds in 2024 een Woonstudie goedkeurde voorziet de stad geen afname van deze productengroep; 
+
+- gemeentelijke Beleidsplannen Ruimte inclusief milieubeoordeling en met minimaal volgende thematische beleidskaders: 
+
+- beleidskader wonen waarin de resultaten van de intergemeentelijke woonstudie opgenomen worden; 
+
+- beleidskader open ruimte; 
+
+Stad Leuven voorziet op dit moment nog geen afname van deze productengroep. Aangezien het bestuursakkoord van stad Leuven echter voorziet om het Ruimtelijk Structuurplan Leuven te 
+
+vervangen door een nieuw Beleidsplan Ruimte Leuven houdt de stad deze optie open om op een later moment alsnog een afname te doen van deze productengroep; 
+
+- interbestuurlijke of gemeentelijke ruimtelijke uitvoeringsplannen (RUP) met mogelijk hieraan gekoppeld de gemeentelijke verordeningen, inclusief plan-MER, die opgenomen werden in het actieplan en/of die verder bouwen op de resultaten van de intergemeentelijke woonstudie. Dergelijke RUP's kunnen interessant zijn voor de stad Leuven, bijvoorbeeld voor planologische compensatie tussen gemeenten naar aanleiding van de bouwshift. Het is belangrijk dat sommige opdrachten bilateraal kunnen opgemaakt worden tussen twee partners, en andere tussen meerdere partners; 
+
+- masterplannen die opgenomen werden in het actieplan en/of die verder bouwen op de resultaten van de intergemeentelijke woonstudie. De stad heeft hier geen concrete masterplannen in gedachten, maar houdt de opties open naar de toekomst toe. 
+
+De aanstelling van het consortium gebeurt via een raamovereenkomst (zie bijlage), waarbij de gemeenten de provincie machtigen om namens hen op te treden als aankoopcentrale. De samenwerkingsovereenkomst regelt de afspraken tussen de verschillende partijen. Deze overeenkomst treedt in werking op de datum van de ondertekening door de Partijen en eindigt bij de oplevering van de laatste deelopdracht. Het consortium wordt aangesteld in twee stappen: eerst worden kandidaten gezocht via een selectieleidraad (zie bijlage). De weerhouden kandidaten ontvangen het bestek (zie bijlage); op basis van ontvankelijke offertes wordt een opdrachthouder geselecteerd. 
+
+Daarnaast sluiten de gemeenten Bertem, Huldenberg en Oud-Heverlee nu reeds een samenwerkingsovereenkomst over de productengroep woonstudies (zie bijlage). Stad Leuven maakt hier geen deel van uit. 
+
+De productengroepen worden momenteel geraamd op een plafond van 2 miljoen euro. Aangezien stad Leuven momenteel nog geen afname voor ogen heeft van concrete producten engageert de stad zich financieel niet. Wanneer ze besluit tot afname zal de stad hiertoe de nodige middelen moeten voorzien. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De samenwerkingsovereenkomst goed te keuren tussen stad Leuven en provincie Vlaams-Brabant, de gemeenten Bertem, Huldenberg en Oud-Heverlee, voor de aanbesteding van de raamovereenkomst voor ‘de opmaak van een intergemeentelijke woonstudie met actieplan en het instrumentarium voor de doorwerking’ in het kader van het strategisch project Walden. 
+
+## **Artikel 2** 
+
+De toetreding, gunningswijze conform de plaatsingsprocedure ‘Mededingingsprocedure met onderhandeling' (conform artikel 38 §1, 1° c) - wet 17 juni 2016) , voor de opdracht voor de opmaak van een intergemeentelijke woonstudie met actieplan en het instrumentarium voor de doorwerking in het kader van het strategisch project WALDEN (raamovereenkomst)’, waarbij de provincie VlaamsBrabant optreedt als aankoopcentrale in de zin van artikel 2, 6°a en 7°b en artikel 47 - wet 17 juni 2016 en de gunningsvoorwaarden (zie contractuele documenten met betrekking tot desbetreffende raamovereenkomst als bijlage), goed te keuren. 
+
+## **Artikel 3** 
+
+De nodige budgetten voor de kosten verbonden aan de consultancyopdrachten worden per jaar beschikbaar gemaakt op: MJP003410 - RDB/2025/6130000000/4/0610 en volgende jaren. 
+
+Elke effectieve aankoop zal via de geijkte beslissingsprocessen telkens voorgelegd worden en voorzien binnen de huidige budgetten. 
+
+## **Artikel 4** 
+
+Kennis te nemen van de samenwerkingsovereenkomst tussen de provincie Vlaams-Brabant, de gemeenten Bertem, Huldenberg en Oud-Heverlee, voor de 'ruimtelijk gedifferentieerde intergemeentelijk woonstudie met actieplan voor de gemeenten Bertem, Huldenberg en OudHeverlee’ in het kader van het strategisch project Walden. 
+
+## **BIJLAGEN** 
+
+1. 251029_Samenwerkingsovereenkomst raamovereenkomst.pdf 2. 251029_Selectieleidraad Walden.pdf 
+
+3. 251029_Bestek Walden.pdf 
+
+4. 251029_Bestek Walden_bijlage 2.pdf 
+
+5. 251029_Samenwerkingsovereenkomst woonstudie.pdf 
+
+## **53 Addendum bij Toelagedossier  -  Samenwerkingsovereenkomst tussen stad Leuven en KU Leuven - Goedkeuring (2025_GR_00585)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De gemeenteraad keurde in zitting van 30 juni 2020 de samenwerkingsovereenkomst tussen stad Leuven en de Katholieke Universiteit Leuven voor toelagedossiers goed. De samenwerkingsovereenkomst werd opgemaakt voor de specifieke investeringstoelage voor de Katholieke Universiteit Leuven om de beleidsdoelstelling 'Leuven, (inter)nationaal en lokaal gekend als excellente, baanbrekende en aantrekkelijke stad' van het Meerjarenplan 2020-2025 van stad Leuven mee te realiseren, meer bepaald door een erfgoedpremie te voorzien voor het goed beheer, het onderhoud en de restauratie van het bouwkundig waardevol maar niet beschermd erfgoed van de KU Leuven (MJP003429). Dit addendum voegt de mogelijkheid toe om in het laatste werkingsjaar van de samenwerkingsovereenkomst het niet gebruikte budget van de vorige jaren toch nog te investeren in bovenvermelde doelstelling. 
+
+## **Juridische grond** 
+
+- de wet van 14 november 1983 betreffende de controle op de toekenning en op de aanwending van sommige toelagen 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 23° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat het vaststellen van subsidiereglementen en het toekennen van nominatieve subsidies bevoegdheden zijn die niet aan het college kunnen worden toevertrouwd 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen 
+
+zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan - de gemeenteraadsbeslissing van 17 december 2019 betreffende de goedkeuring van het meerjarenplan 2020-2025 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur - de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur - de gemeenteraadsbeslissing van 18 november 2024 betreffende de achtste aanpassing van het meerjarenplan 2020-2025 en het vaststellen van de kredieten 2025 
+
+## **Argumentatie** 
+
+De gemeenteraad keurde in zitting van 30 juni 2020 de samenwerkingsovereenkomst tussen stad Leuven en de Katholieke Universiteit Leuven voor toelagedossiers goed. De samenwerkingsovereenkomst wordt opgemaakt voor de specifieke investeringstoelage voor de Katholieke Universiteit Leuven om de beleidsdoelstelling 'Leuven, (inter)nationaal en lokaal gekend als excellente, baanbrekende en aantrekkelijke stad' van het Meerjarenplan 2020-2025 van stad Leuven mee te realiseren, meer bepaald door een erfgoedpremie te voorzien voor het goed beheer, het onderhoud en de restauratie van het bouwkundig waardevol maar niet beschermd erfgoed van de KU Leuven (MJP003429). 
+
+Artikel 3 van de samenwerkingsovereenkomst beperkt de hoeveelheid jaarlijkse aanvragen tot maximum 75 000 euro. Tot op heden werd er niet jaarlijks gebruik gemaakt van de voorziene bedrag van 75.000 euro per jaar. Een aantal dossiers liepen in 2024 onder andere vertraging op door afwezigheid van een medewerker. De middelen werden echter meteen bestemd en jaarlijks overgedragen, ze zijn tot op heden nog beschikbaar voor KU Leuven. 
+
+Omdat de oorspronkelijke doelstelling het stimuleren van een extra inspanning omtrent de restauratie en onderhoud van haar historisch patrimonium nog steeds van toepassing is, en omdat KU Leuven nu wel voldoende projecten op de uitvoeringsplanning heeft voorzien, stellen wij voor in dit laatste werkingsjaar een hoger premiebedrag toe te kennen zolang dit het initiële totale bedrag over de 6 werkingsjaren niet overschrijdt. De aanvragen dienen evenwel te gebeuren voor 31 december 2025. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Akkoord te gaan met het addendum voor 2025 op de Samenwerkingsovereenkomst 2020-2025 tussen stad Leuven en de Katholieke Universiteit Leuven. 
+
+## **Artikel 2** 
+
+De kosten aan te rekenen op budgetsleutel MJP003429 - RDB/2025/6640000000/4/0720/BA202001745. 
+
+## **BIJLAGEN** 
+
+1. 2025113_Addendum.docx 
+
+## **SAMENLEVING** 
+
+## **Jeugd** 
+
+## **54 Toelagedossier - Addendum voor stopzetting van samenwerkingsovereenkomst tussen stad Leuven en EVA vzw Stedelijk Jeugdwerk Leuven voor de renovatie van Stelplaats - Goedkeuring (2025_GR_00564)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De stad Leuven wenst een addendum af te sluiten met vzw Stedelijk Jeugdwerk Leuven, Professor Van Overstraetenplein 1, 3000 Leuven, btw BE0455.445.279, voor de stopzetting van de samenwerkingsovereenkomst Investeringstoelage aan vzw Stedelijk Jeugdwerk Leuven voor de optimalisatie  van Stelplaats. Door wijzigingen in de ruimere context rond Stelplaats wordt het project van de renovatie zoals initieel voorgesteld stopgezet. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- de wet van 14 november 1983 betreffende de controle op de toekenning en op de aanwending van sommige toelagen 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 23° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat het vaststellen van subsidiereglementen en het toekennen van nominatieve subsidies bevoegdheden zijn die niet aan het college kunnen worden toevertrouwd 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 17 december 2019 betreffende de goedkeuring van het meerjarenplan 2020-2025 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+- de gemeenteraadsbeslissing van 18 november 2024 betreffende de achtste aanpassing van het meerjarenplan 2020-2025 en het vaststellen van de kredieten 2025 
+
+## **Argumentatie** 
+
+Het college in zitting van 15 april 2022 besliste EVA vzw Stedelijk Jeugdwerk Leuven aan te stellen als opdrachtgever voor de aanbesteding met als voorwerp 'Stelplaats - studieopdracht optimalisatie tijdelijk gebruik' via een vereenvoudigde onderhandelingsprocedure met voorafgaande bekendmaking in nauw overleg met de directie Gebouwen, afdeling Studiedienst Gebouwen. Ter uitvoering van de opdracht werd een samenwerkingsovereenkomst met EVA vzw Stedelijk Jeugdwerk Leuven afgesloten voor het dragen van de bouwkost. 
+
+Het college in zitting van 3 oktober 2025 besliste om de studieopdracht stop te zetten wegens te hoog opgelopen kostprijs en onzekerheid over de duurtijd van de huurovereenkomst van Stelplaats. Er werd gekozen voor een vervolgtraject met een afgeslankt plan zonder extern studiebureau. De directie Gebouwen, afdeling Studiedienst Gebouwen, zal hiervoor de nodige bestekken opmaken. De renovatiewerken worden voorzien met een start op 1 oktober 2026 en een einde van de werken op 31 maart 2027. De stad Leuven zal optreden als bouwheer voor dit project. 
+
+Om deze redenen is het aangewezen om de samenwerkingsovereenkomst betreffende een investeringstoelage voor de optimalisatie van Stelplaats met vzw Stedelijk Jeugdwerk Leuven stop te zetten. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van het gunstig visum van de waarnemend financieel directeur. 
+
+## **Artikel 2** 
+
+Het addendum tussen stad Leuven en vzw Stedelijk Jeugdwerk Leuven, Professor Van Overstraetenplein 1, 3000 Leuven, btw BE0445.445.279, goed te keuren. 
+
+## **Artikel 3** 
+
+## De toelage wordt aangerekend op budgetsleutel: 
+
+Voorschot 564.568,30 EURO - MJP005710 - JEU/2025/6640000000/5/0752 - BA2025006498; Saldo 250.000,00 EURO - MJP005710 - JEU/2025/664000000/5/0752 - BA2025006520. 
+
+Zowel het resterende voorschot als het volledige saldo niet uit te betalen. 
+
+## **Artikel 4** 
+
+Na goedkeuring en ondertekening van het addendum de overeenkomst stop te zetten. 
+
+## **BIJLAGEN** 
+
+1. Werkdocument SWO stelplaats getekend.pdf 
+
+2. ADDENDUM_stopzetting SWO Stelplaats.docx 
+
+3. Jaarrekening 2024.pdf 
+
+4. 20241217_AV_ontwerpverslag begroting 25_getekend.pdf 
+
+5. 2024_GR_00537_Begroting 2025.pdf 
+
+6. 2025_GR_00281_Agenda AV.pdf 
+
+## **VASTGOEDZAKEN** 
+
+## **Vastgoed** 
+
+- 22:10 - Daisy Kaerts, raadslid betreedt de zitting. 
+
+- 22:10 - Aynur Tasdemir, raadslid betreedt de zitting. 
+
+- 22:10 - Sarah Mohamed Khalif, raadslid betreedt de zitting. 
+
+- 22:10 - Anna Roos Brimco Melotte, raadslid betreedt de zitting. 
+
+- 22:11 - Thomas Van Oppens, schepen betreedt de zitting. 
+
+- 22:12 - David Dessers, raadslid betreedt de zitting. 
+
+- 22:12 - Bart Meulemans, raadslid betreedt de zitting. 
+
+- 22:17 - Ruben Geleyns, raadslid betreedt de zitting. 
+
+- 22:18 - Els Van Hoof, raadslid betreedt de zitting. 
+
+**55 Monseigneur Van Waeyenberghlaan 12-30 te 3000 Leuven  - Verlenen van een kosteloos recht van opstal aan  Dijledal  - Goedkeuring (2025_GR_00540)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 36 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Ruben Geleyns; Natalie Haine; Katja Hermans; Britt Huybrechts; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 10 stem(men) tegen: Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden - 1 onthouding(en): Anton Nilis 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Woonmaatschappij Dijledal plant de herontwikkeling van haar site aan de Monseigneur Van Waeyenberghlaan in Leuven en vraagt daarvoor een recht van opstal op een perceel van de stad Leuven. Na realisatie van het project zal Dijledal de aangelegde omgeving kosteloos overdragen aan de stad, die het zal inlijven bij haar openbaar domein. De procedure omvat ook een ruiling van gronden en wordt kosteloos uitgevoerd in het kader van betaalbaar wonen. 
+
+## **Regelgeving: bevoegdheid** 
+
+> - de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+Woonmaatschappij Dijledal, plant de vernieuwing van haar site aan de Monseigneur Van Waeyenberghlaan 12-30 te 3000 Leuven. De bestaande woonblokken zullen worden afgebroken en vervangen door twee nieuwe sociale woonblokken. De nieuwe gebouwen zullen een andere inplanting hebben dan de huidige, waardoor een deel van het geplande gebouw rechts gedeeltelijk op het perceel 24504E0121/00S000 komt te liggen. Dit perceel is eigendom van de stad Leuven. 
+
+De situatie is weergegeven op het bijgevoegde ontwerpplan: de stippellijnen geven de contouren van de huidige bebouwing aan. De contouren van de nieuwe gebouwblokken zijn roze en donkerroze gekleurd. Ook het aangrenzende perceel 24504E0116/00L000 wordt in opstal gegeven, aangezien Dijledal hierop eveneens de omgevingsaanleg zal realiseren. 
+
+Het college in  zitting van 1 augustus 2025 besliste om enerzijds om principieel akkoord te gaan met het kosteloos verlenen van een recht van opstal aan Dijledal op de percelen 24504E0121/00S000 en 24504E0116/00L000, met het oog op de realisatie van een nieuwbouwproject voor sociale woningbouw met omgevingsinfrastructuur, en anderzijds om - na ontvangst van een geprekadastreerd opmetingsplan en een ontwerp van akte -de vestiging van het opstalrecht ter goedkeuring aan de gemeenteraad voor te leggen. 
+
+Op 13 oktober 2025 maakte de notaris een definitief ontwerp van akte over. Een geprekadastreerd opmetingsplan bleek evenwel niet nodig, omdat het opstalrecht wordt verleend op twee volwaardige kadastrale percelen. 
+
+Het opstalrecht wordt kosteloos verleend, in het vooruitzicht dat Dijledal na de voorlopige oplevering de resterende gronden en de aangelegde omgevingsinfrastructuur nadien opnieuw kosteloos zal overdragen aan de stad Leuven. Deze overdrachten gebeuren ten algemenen nutte en met het oog op inlijving bij het openbaar domein. Deze overdracht zal gepaard gaan met een ruiling van gronden op basis van een – na de realisatie van het project – op te maken as-built opmetingsplan. 
+
+Dijledal zal tijdens de duur van haar opstal een recht van overgang en doorgang voorzien voor de ‘Paardenweg’, een openbare voetweg die de Monseigneur Van Waeyenberghlaan verbindt met de Kaboutermansstraat. Dijledal zal eveneens in de heraanleg van de ‘Paardenweg’ voorzien in haar project. Gedurende de uitvoering van de werken kan de doorgang uit veiligheidsoverwegingen tijdelijk worden afgesloten. 
+
+Het opstalrecht eindigt bij het verlijden van de akte waarin de kosteloze overdracht van de omgevingsaanleg en de ruiling worden vastgelegd. De kosten voor het verlijden van de akte van opstal zullen door Dijledal worden gedragen. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Akkoord te gaan met de desaffectatie van de percelen 24504E0121/00S000 en 24504E0116/00L000 uit het openbaar domein van de stad. 
+
+## **Artikel 2** 
+
+Akkoord te gaan met het kosteloos verlenen van een recht van opstal aan Woonmaatschappij Dijledal, te vestigen op de percelen 24504E0121/00S000 en 24504E0116/00L000, volgens de modaliteiten van het bijgevoegd ontwerp van akte, met het oog op de realisatie van een nieuwbouwproject voor sociale woningbouw met omgevingsinfrastructuur. Het opstalrecht geldt voor de duur van de werken en zal van rechtswege eindigen bij het verlijden van de notariële akte waarin de kosteloze overdracht van de gerealiseerde omgevingsaanleg aan het openbaar domein van de stad wordt vastgesteld. 
+
+## **Artikel 3** 
+
+De voorzitter van de gemeenteraad en de algemeen directeur van de stad Leuven, of hun aangestelde volmachtdragers, te machtigen de authentieke akte houdende het verlenen van een opstalrecht, namens de stad Leuven te ondertekenen. 
+
+## **BIJLAGEN** 
+
+1. 250029_03_Ontwerpakte-251013.pdf 2. 250029_02_Situatieplan.pdf 
+
+## **56 Aarschotsesteenweg 62-64-66 te 3012 Leuven - Handelsruimte  - Afsluiten van een bezetting ter bede - Goedkeuring (2025_GR_00541)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+In het kader van de uitbreiding van de logistieke site aan de Aarschotsesteenweg in Leuven, werd de handelshuurovereenkomst voor het pand op nr. 62-64-66 afgesloten met bv Menpro Group opgezegd met einddatum zondag 30 november 2025. Aangezien de werken pas ten vroegste in 2029 starten, wordt leegstand vermeden door een bezetting ter bede met de huidige huurder, onder dezelfde voorwaarden, tot minstens zondag 31 december 2028. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 266 van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+Bij akte van 30 augustus 2024, goedgekeurd bij gemeenteraadsbesluit van 25 maart 2024, werd de stad Leuven eigenaar van het opbrengsteigendom gelegen aan de Aarschotsesteenweg 62-64-68 te 3012 Leuven. Deze aankoop werd gerealiseerd met het oog op de uitbreiding van de naastgelegen logistieke site van de stad Leuven. 
+
+Het college in zitting van 22 november 2024 nam kennis van de overgenomen handelshuurovereenkomst voor de handelsruimte met opslag op de bovengenoemde site, afgesloten met bv Menpro Group op basis van de handelshuurwetgeving. Deze overeenkomst loopt sinds 1 oktober 2023 tegen een maandelijkse huurprijs van 1.500 euro, met een maandelijkse huurkorting van 150 euro gedurende de eerste 3 jaren. 
+
+Gelet op het feit dat de aankoop van deze site gebeurde in functie van de uitbreiding van de logistieke site van de stad Leuven, besliste het college in dezelfde zitting om akkoord te gaan met de opzegging van de handelshuurovereenkomst vóór 30 november 2024, op grond van uitzetting bij vervreemding van het gehuurde goed en het feit dat de koper een andere bestemming voor het pand voorziet, die geen handelsactiviteit inhoudt. 
+
+In uitvoering van de collegebeslissing van 22 november 2024 werd de huur bij brief van 25 november 2024 opgezegd, zodat deze eindigt op zondag 30 november 2025. De stad Leuven was hierdoor een eenmalige uitzettingsvergoeding verschuldigd ten gevolge van de vroegtijdige opzeg, ten bedrage van 18.000 euro. Deze vergoeding werd forfaitair bepaald in overeenstemming met de handelshuurwetgeving. 
+
+Aangezien de afbraakwerken volgens de laatste informatie van de directie Gebouwen pas ten vroegste voorzien is in 2029 en er de vraag wordt gesteld naar een tussentijdse invulling, is het aangewezen om een bezetting ter bede af te sluiten met de initiële huurder. Hierbij worden de originele contractuele modaliteiten integraal overgenomen, met uitzondering van de duurtijd en de opzegmodaliteiten en zonder toepassing van de handelshuur. 
+
+De bezetting vangt aan op maandag 1 december 2025, loopt tot en met zondag 31 december 2028 en is jaarlijks verlengbaar. Er geldt een opzegtermijn van zes maanden voor beide partijen. De bezetter is gehouden tot betalen van een vergoeding. Voor de periode van 1 december 2025 tot en met woensdag 30 september 2026 bedraagt de maandelijkse vergoeding 1.350 euro. Vanaf donderdag 1 oktober 2026 wordt de maandelijkse vergoeding verhoogd naar 1.500 euro. 
+
+De afgevaardigde van bv Menpro Group heeft bij e-mail van 28 september 2025 laten weten akkoord te gaan met deze voorwaarden en contractvorm. 
+
+Het lijkt daarom aangewezen om in te stemmen met deze bezetting ter bede en de uitzettingsvergoeding van 18.000 euro aan te rekenen op MJP006722 en deze uit te betalen aan bv Menpro Group, Koetsweg 168 te 3010 Leuven (0799.164.984), tot slot van alle rekeningen. (BA2025032534). 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Kennis te nemen van het gunstig visum van de waarnemend financieel directeur. 
+
+## **Artikel 2** 
+
+Kennis te nemen van het einde van de handelshuurovereenkomst afgesloten met bv Menpro Group, voor de handelsruimte gelegen Aarschotsesteenweg 62 te 3012 Leuven op zondag 30 november 2025. 
+
+## **Artikel 3** 
+
+Akkoord te gaan met de uitzettingsvergoeding wegens het vroegtijdig beëindigen van de initiële handelshuurovereenkomst, geraamd op 18.000 euro bij het einde van de handelshuurovereenkomst, aan te rekenen op MJP006722 en te betalen aan bv Menpro Group, Koetsweg 168 te 3010 Leuven (0799.164.984) (BA2025032534). 
+
+## **Artikel 4** 
+
+Akkoord te gaan om de voormelde ruimte, gelegen Aarschotsesteenweg 62 te 3012 Leuven, middels een bezetting ter bede verder ter beschikking te stellen aan bv Menpro Group vanaf maandag 1 december 2025 tot en met zondag 31 december 2028, ten alle tijde opzegbaar mits het respecteren van een opzegtermijn van 6 maanden en bij gebrek aan opzeg vanaf maandag 1 januari 2029 jaarlijks te verlengen. 
+
+## **Artikel 5** 
+
+De inkomsten verbonden aan de bezetting ter bede, geraamd op: - 16.250 euro per jaar, betaalbaar in maandelijkse schijven van 1.350 euro voor de periode van maandag 1 december 2025 tot en met woensdag 30 september 2026; - 18.000 euro per jaar, betaalbaar in maandelijkse schijven van 1.500 euro vanaf donderdag 1 oktober 2026 - jaarlijks te indexeren op de vervaldag. 
+
+te boeken op MJP004005 - VGSL/7030000000/0050. 
+
+## **Artikel 6** 
+
+De voorzitter van de gemeenteraad en de algemeen directeur - of de door hen aangeduide volmachtdragers - te machtigen toegevoegde overeenkomst goed te keuren, te ondertekenen en uit te voeren. 
+
+## **BIJLAGEN** 
+
+1. 240089_001_Ontwerp-BTB_Menpro.pdf 
+
+22:20 - Jasmien Beckers, raadslid verlaat de zitting. 
+
+## **57 Kapellekensweg 2 te 3010 Leuven - Valorisatie Kasteel Heiberg - Lanceren open oproep erfpacht voor de exploitatie als jeugdverblijfscentrum door een erkende jeugdwerkorganisatie - Goedkeuring (2025_GR_00568)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 36 stem(men) voor: Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Ruben Geleyns; Natalie Haine; Katja Hermans; Britt Huybrechts; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Mauro Michielsen; Sarah Mohamed Khalif; Anton Nilis; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters - 10 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Met onderhavig besluit keurt de stad Leuven de lancering van een open oproep goed voor de erfpacht van het Kasteel Heiberg gelegen te 3010 Leuven, Kapellekensweg 2. Er wordt daarbij naar een kandidaat-erfpachter gezocht die als erkende jeugdwerkorganisatie het onroerend goed als jeugdverblijfscentrum zal inrichten. 
+
+Kandidaten worden beoordeeld op vijf verschillende selectiecriteria, namelijk op hun visie inzake jeugdwerk en gedeeld gebruik, inzake de relatie tot de buurt en de omgeving (participatie en mobiliteit), inzake de relatie tot het landschap en natuurbehoud, inzake een duurzame renovatie inclusief de omgang met erfgoedwaarden en op een financieel plan. 
+
+De oproep wordt gepubliceerd in de week van 17 november 2025. De deadline om een projectvoorstel in te dienen valt op 2 februari 2026 om 12.30 uur. De erfpacht zal ten laatste ingaan op 1 juli 2026. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+De stad Leuven is eigenaar van een kasteeldomein, genaamd kasteel Heiberg (destijds ook gekend als kasteel Monte Rosa), gelegen aan de Kapellekensweg 2 te 3010 Leuven, kadastraal gekend onder Leuven, 9de afdeling, sectie D, perceelnummers, 332/C, 333/G, 336/H, 330/Z en 331/N, met een oppervlakte van circa 3ha 88a 59ca. Volgens het RUP 'ORGB1 Gebieden voor open ruimte met geïntegreerde bebouwing - fase 1' ligt het goed in volgende bestemmingszone  Deelgebied BovenLo; Zone voor open ruimte met geïntegreerde bebouwing 1 (Kasteelpark Heiberg). Sinds 2021 betreft het kasteeldomein Heiberg vastgesteld bouwkundig erfgoed. 
+
+In het kader van de langetermijnvisie heeft het college van burgemeester en schepenen in de zitting van 27 juni 2025 principieel beslist om een open oproep te lanceren om het kasteel Heiberg in erfpacht te geven. Met deze open oproep wordt een kandidaat-erfpachter gezocht om enerzijds de exploitatie als jeugdverblijfscentrum verder te bestendigen, maar anderzijds ook om het gebouw te laten voldoen aan de renovatieverplichting voor niet-residentiële gebouwen. Ook dient de kandidaat-erfpachter de exploitatie als jeugdverblijfscentrum zo te organiseren dat deze harmonieus samengaat met de activiteiten van de aanpalende eigenaar (vzw Monte Rosa),en de erfgoedwaarden van het kasteel en park als vastgesteld bouwkundig erfgoed. Daarnaast dient de kandidaat-erfpachter ermee rekening te houden dat het omliggende domein een publiek toegankelijk openbaar park betreft. De kandidaaterfpachter dient aldus haar beoogde activiteiten steeds met respect voor mens en natuur en de aanwezige erfgoedwaarden te organiseren waarbij het unieke karakter van het publiek toegankelijke park maximaal behouden blijft. De graslanden in het park zijn ingetekend als (historisch) permanente graslanden en daardoor beschermd door de Vlaamse natuurwetgeving. 
+
+In samenwerking met de directie Samenleving, de directie Openbaar Domein, de directie Gebouwen en de directie Ruimtelijke Ontwikkeling werkte AG Stadsontwikkeling Leuven een open erfpachtoproep uit welke via dit besluit ter goedkeuring wordt voorgelegd aan de gemeenteraad. 
+
+De stad gaat met de open oproep op zoek naar een kandidaat-erfpachter voor het Kasteel Heiberg voor een termijn van 99 jaar. De erfpacht gaat ten laatste in op 1 juli 2026. Het Kasteel Heiberg wordt samen met de toegangsweg in erfpacht gegeven (zoals aangeduid als lot 2, lot  3 en lot 4  op bijgevoegde opmetingsplan op datum van 24 oktober 2025 opgesteld door Geowijzer bv) met als bestemming exploitatie als jeugdverblijfscentrum door een erkende jeugdwerkorganisatie. De kandidaat-erfpachter zal aan de stad een erfpachtvergoeding dienen te betalen van minstens 20.000 euro per jaar. De kandidaat-erfpachter zal hierbij eveneens steeds rekening houden met 
+
+erfdienstbaarheden van toepassing op deze toegangsweg en deze respecteren gedurende de ganse looptijd van de erfpacht. 
+
+Vandaag verhuurt de stad Leuven Kasteel Heiberg aan vzw Koning Kevin. Deze huurovereenkomst neemt van rechtswege een einde op 30 juni 2026. De kandidaat-erfpachter neemt bij aanvang van de erfpacht de huurovereenkomst mee over en moet de huidige invulling van het Goed garanderen tot en met 31 december 2027. De bestaande huurovereenkomst, die normaal verstrijkt op 30 juni 2026, zal in dat geval tijdelijk worden verlengd tot en met 31 december 2027, onder dezelfde voorwaarden als de huidige huurovereenkomst. Deze tijdelijke verlenging zal van rechtswege een einde nemen op 31 december 2027, en zonder dat de huurder enig recht op verlenging of hernieuwing kan laten gelden. Voor zover de huidige huurder in rechten zou treden als kandidaat-erfpachter, dan zal de huurovereenkomst automatisch een einde nemen op moment dat de erfpacht aanvat. 
+
+De stad Leuven verleent het Kasteel Heiberg met bijhorende toegangsweg in erfpacht in de staat waarin het zich op heden bevindt. Middels de vestiging van het erfpachtrecht zal er automatisch een renovatieverplichting voor niet-residentiële gebouwen gelden, doch met inachtname van vrijstellingen aangaande dakisolatie, beglazing en het minimale energielabel omwille van het feit dat kasteeldomein Heiberg is vastgesteld als bouwkundig erfgoed. De stad Leuven legt geen bijkomende eisen op met betrekking tot de renovatie, maar de projectvoorstellen die getuigen van een innovatief gebouwconcept, duurzaamheid en een circulaire gedachte worden gunstiger beoordeeld. Voorstellen van kandidaat-erfpachters inzake geplande werkzaamheden zullen eveneens in de erfpachtovereenkomst als verwachte ingrepen worden opgenomen. 
+
+Kandidaat-erfpachters zullen door een adviesgroep beoordeeld worden op vijf criteria waaraan een score wordt toegekend, namelijk: 
+
+|score wordt toegekend, namelijk:||
+|---|---|
+|1. Visie jeugdwerk en gedeeld ruimtegebruik|30 procent|
+|2. Visie relatie tot de buurt en omgeving<br>(participatie en mobiliteit)|10 procent|
+|3. Visie relatie tot het landschap en natuurbehoud|15 procent|
+|4. Visie duurzame renovatie inclusief de omgang<br>met erfgoedwaarden|20 procent|
+|5. Financieel plan|25 procent|
+|TOTAAL|100 procent|
+
+
+
+De toewijzing gebeurt op basis van de som van de scores op de individuele criteria. Kandidaaterfpachters moeten op elk criterium minstens de helft van de punten behalen. In totaal moet het projectvoorstel minstens zestig procent scoren om in aanmerking te komen voor toewijzing. Kandidaten die een bod uitbrengen onder de minimale erfpachtvergoeding zullen uitgesloten worden van verdere deelname. 
+
+De stad Leuven wenst Kasteel Heiberg te blijven bestendigen als jeugdverblijfscentrum teneinde de volgende doelstellingen van de Bestuursnota Leuven 2025-2030 te realiseren: 
+
+_**19.** We blijven investeren in een stedelijk vakantieaanbod voor zowel kinderen als jongeren, in de vorm van speelpleinwerking en (sport)kampen. We werken met een sociaal tarief voor kwetsbare gezinnen._ 
+
+_**129.** We bieden een kwaliteitsvol belevings- en vrijetijdsaanbod voor en door kinderen, jongeren en hun gezin; we creëren plekken voor jeugd en ontmoeting._ 
+
+_**141.** We werken samen met middenveld en jeugdwerkorganisaties en ondersteunen hun werking op basis van een billijk afwegingskader. Daarnaast bieden we ook ondersteuning aan projecten van jongeren die niet noodzakelijk ingebed zijn in een bestaande jeugdwerking._ 
+
+Via deze erfpachtoproep wordt gezocht naar een uitbating die moet bijdragen aan de maatschappelijke en persoonlijke ontwikkeling van kinderen, jongeren en hun begeleiders, en 
+
+aansluiten bij de doelstellingen van het Vlaamse jeugdwerkbeleid. Kasteel Heiberg moet een inspirerende plek worden voor jeugdwerkactiviteiten, vorming, experiment en creatieve expressie, waar kinderen, jongeren en hun begeleiders op een speelse en betrokken manier met zichzelf, elkaar en de wereld kunnen omgaan. De werking mag vernieuwend en onderzoekend zijn, met ruimte voor participatie, reflectie en ontmoeting. 
+
+Daarnaast wordt het ook wenselijk geacht dat Kasteel Heiberg buiten de georganiseerde jeugdwerkactiviteiten ook ter beschikking gesteld wordt aan andere jeugdwerkinitiatieven, jeugdwerkpartners en/of lokale jeugdverenigingen. Dit houdt concreet in dat de lokalen maximaal benut worden door jeugdwerkvormen die aansluiten bij de visie van de kandidaat-erfpachter. 
+
+Bij de renovatie van het kasteel dient rekening gehouden te worden met de aanwezige erfgoedwaarden en erfgoedkenmerken. De Stedenbouwkundige Verordening Erfgoed omvat richtlijnen waarmee rekening moet gehouden worden tijdens het ontwerpproces en die aan de basis zullen liggen voor de advisering in kader van een procedure tot omgevingsvergunning. 
+
+De stad verwacht dat de kandidaat-erfpachter transparant communiceert en zowel de buurtbewoners als de gebruikers op de ruimere site zoveel als mogelijk actief betrekt bij hun werking. Het projectvoorstel dient een strikt mobiliteitsbeleid te omvatten waarin gebruikers worden gestimuleerd om zich op duurzame wijze te verplaatsen. De site vereist immers maximaal autoluw verkeer. 
+
+Het projectvoorstel moet blijk geven van respect voor de uitzonderlijke natuurwaardes op de site. Het sensibiliseren en responsabiliseren van andere gebruikers en bezoekers door de kandidaat-erfpachter is een vereiste. 
+
+Tot slot wordt er ook een gezonde dosis realiteitszin en een financiële draagkracht van de kandidaaterfpachter verwacht die moet worden aangetoond middels een financieel plan. 
+
+Kandidaat-erfpachters kunnen enkel aan de hand van het aangeleverde inschrijvingsformulier voor kandidatuurstelling een projectvoorstel indienen teneinde een objectieve beoordeling door de adviesjury mogelijk te maken. Men kan kandideren als individuele erkende jeugdwerkorganisatie of in een samenwerkingsverband. 
+
+De deadline om een projectvoorstel in te dienen is maandag 2 februari 2026 om 12.30 uur. In de weken voorafgaand worden er twee plaatsbezoeken georganiseerd waarop kandidaten kunnen inschrijven. Projectvoorstellen dienen mondeling te worden toegelicht aan de adviesgroep op woensdag 9 februari 2026. Het juryverslag wordt nadien bij aparte besluitvorming ter goedkeuring voorgelegd aan het college van burgemeester en schepenen waarna zij de erfpacht zullen toewijzen. 
+
+Het lijkt aangewezen om de lancering van de open oproep goed te keuren, het college van burgemeester en schepenen te verzoeken de erfpacht volgens voormelde selectiecriteria toe te wijzen en de erfpachtovereenkomst volgens de principes van bijgevoegd ontwerp van erfpachtovereenkomst te ondertekenen en uit te voeren. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Het ontwerp van de open oproep voor de erfpacht van het Kasteel Heiberg met bijhorende toegangsweg, aangeduid als loten 1 tot en met 3 op het opmetingsplan opgesteld door landmeterexperten Geowijzer bv op 24 oktober 2025, gelegen aan de Kapellekensweg 2 te 3010 Leuven en kadastraal gekend of gekend geweest onder Leuven, 9e afdeling, sectie D, perceelnummer 330/Zdeel, samen met zijn bijlagen en het inschrijvingsformulier voor kandidatuurstelling goed te keuren. 
+
+## **Artikel 2** 
+
+De opbrengsten verbonden aan deze erfpacht, zijnde de jaarlijks te indexeren basisvergoeding van minimaal 20.000,00 euro, te boeken op budgetsleutel MJP003976 - VGSL/2026/7030000000/5/0752 en volgende dienstjaren. 
+
+## **Artikel 3** 
+
+AG Stadsontwikkeling Leuven de opdracht te geven om de open oproep te publiceren, de toewijzingsprocedure te organiseren en het juryverslag aan het college van burgemeester en schepenen voor te leggen. 
+
+## **Artikel 4** 
+
+Het college van burgemeester en schepenen te verzoeken op basis van de goedgekeurde selectiecriteria de erfpacht toe te wijzen. 
+
+## **Artikel 5** 
+
+De voorzitter van de gemeenteraad en de algemeen directeur, of de door hen aangeduide volmachtdragers, te machtigen om de authentieke akte houdende deze vastgoedverrichtingen volgens de principes van bijgevoegd ontwerp van akte te ondertekenen en uit te voeren na voormelde toewijzing. 
+
+## **BIJLAGEN** 
+
+1. 150085_Valorisatiebundel Open oproep erfpacht Kasteel Heiberg_finaal_20251030.pdf 
+
+2. 150085_Bijlage 01_1_Oppervlaktegegevens.pdf 
+
+3. 150085_Bijlage 01_2_30040100_heiberg.pdf 
+
+4. 150085_Bijlage 01_3_30040101_heiberg_Nivo 01.pdf 
+
+5. 150085_Bijlage 01_4_30040102_heiberg_Nivo 02.pdf 
+
+6. 150085_Bijlage 01_5_30040191_heiberg.pdf 
+
+7. 150085_Bijlage 01_6_Ingescande plannen.pdf 
+
+8. 150085_Bijlage 02_2025LE31 Opmeting Kasteel Heiberg V4.pdf 
+
+9. 150085_Bijlage 03_1_VIP_20250618_24483D0330_00Z000.pdf 
+
+10. 150085_Bijlage 03_2_RUP_24062_214_00007_00001_GP_BG_1_3.pdf 
+
+11. 150085_Bijlage 03_3_RUP_24062_214_00007_00001_SV_BG_1_1.pdf 
+
+12. 150085_Bijlage 04_Overstromingsrapport_Kasteel Heiberg.pdf 
+
+13. 150085_Bijlage 05_ABA_OVAM_24483D033000Z000_20250529311.pdf 
+
+14. 150085_Bijlage 06_Onroerend Erfgoed_Perceelrapport_24483D0330-00Z000_20250618.pdf 
+
+15. 150085_Bijlage 07_20250807_Asbestinventarisattest_Kapellekensweg 2.pdf 
+
+16. 150085_Bijlage 08_EPC_NR_20250616-0014033094-NR-1.pdf 
+
+17. 150085_Bijlage 09_Keuringsverslag laagspanning_Kasteel Heiberg.pdf 
+
+18. 150085_Bijlage 10_Brandweerverslag_LEU_00311_014V_KD.pdf 
+
+19. 150085_Bijlage 11_1_19920217_Huurovereenkomst_Kapellekensweg_2.pdf 
+
+20. 150085_Bijlage 11_2_20210518_Addendum_I_verlenging.pdf 
+
+21. 150085_Bijlage 11_3_20230306_Addendum II_verlenging.pdf 
+
+22. 150085_Bijlage 11_4_20250710_Addendum III_verlenging.pdf 
+
+23. 150085_Bijlage 12_Visualisatie gelaagdheid Site versus Goed.pdf 
+
+24. 150085_Bijlage 13_Biologische Waarderingskaart.pdf 
+
+25. 150085_Bijlage 14_Graslanden met statuut HPG.pdf 
+
+26. 150085_Bijlage 15_Inschrijvingsformulier kandidatuur erfpacht Kasteel Heiberg.pdf 
+
+27. 150085_Ontwerpakte erfpacht stad Leuven_finaal_clean_20251030.pdf 
+
+22:31 - Mauro Michielsen, raadslid verlaat de zitting. 
+
+22:31 - Jasmien Beckers, raadslid betreedt de zitting. 
+
+## **58 Wijkcommissariaat politiezone Leuven, gelegen Martelarenplein te 3000 Leuven - Samenwerkingsovereenkomst tussen De Lijn en de stad Leuven met betrekking tot het onthaal - Goedkeuring (2025_GR_00569)** 
+
+## **STATUS** 
+
+**Goedgekeurd** bij elektronische stemming met: 
+
+- 35 stem(men) voor: Jasmien Beckers; Anna Roos Brimco Melotte; Karin Brouwers; Lies Corneillie; Bert Cornillie; Hannes De Geest; Irma De Wolf; David Dessers; Carl Devlies; Surya Dhakal; Ruben Geleyns; Natalie Haine; Katja Hermans; Britt Huybrechts; Lisa Jiroflee; Daisy Kaerts; Yu-Chun Liao; Bart Meulemans; Sarah Mohamed Khalif; Lothe Ramakers; Mohamed Ridouani; Jan Thomas Roefs; Christophe Stockman; Aynur Tasdemir; Bruno Tobback; Els Van Hoof; Thomas Van Oppens; Liesbeth Vandermeeren; Dirk Vansina; Bieke Verlinden; Janne Vermeesch; Katrien Vermijlen; Lalynn Wadera; Myriam Welkenhuysen; Frouke Wouters 
+
+- 11 onthouding(en): Frieda Aerts; Debby Appermans; Veerle Bovyn; Zeger Debyser; Katelijne Dedeurwaerder; Daniela El-Kadi; Anton Nilis; Karine Op de Beeck; Karen Van Herck; Pieterjan Vangerven; Lies Verlinden 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De samenwerkingsovereenkomst tussen De Lijn en de stad Leuven met betrekking tot de uitvoering van de aanpassingswerken en het gezamenlijk gebruik van het onthaal, gelegen Martelarenplein te 3000 Leuven, wordt ter goedkeuring voorgelegd aan de gemeenteraad. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Juridische grond** 
+
+- het artikel 41, 8° van het decreet van 22 december 2017 over het lokaal bestuur bepaalt dat de gemeenteraad bevoegd is voor het vaststellen van wat onder het begrip ‘dagelijks bestuur’ moet worden verstaan 
+
+- het artikel 41, 10°, en artikel 56 van het decreet lokaal bestuur betreffende de bevoegdheden van het college en gemeenteraad 
+
+- het artikel 266 van het decreet lokaal bestuur waarin bepaald wordt dat de voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom onderworpen zijn aan een voorafgaand visum van de financieel directeur in het kader van zijn opdracht zoals vermeld in artikel 177 van het decreet lokaal bestuur, voordat enige verbintenis kan worden aangegaan 
+
+- de gemeenteraadsbeslissing van 28 juni 2021 betreffende het verlenen van visum door de financieel directeur 
+
+- de gemeenteraadsbeslissing van 20 december 2021 betreffende de omschrijving van het begrip dagelijks bestuur 
+
+## **Argumentatie** 
+
+De stad Leuven nam deel aan een marktconsultatie van de NMBS met als concept 'Diensten – Kantoor met een publieke functie', voor het afsluiten van een overeenkomst voor 1.087 m² ruimte, gelegen aan het station van Leuven, Martelarenplein 18, om op deze locatie een wijkcommissariaat voor de politiezone Leuven te huisvesten. Met aanvang van 1 december 2023 werd vervolgens een huurovereenkomst afgesloten tussen de NMBS en de stad Leuven, voor een periode van 12 jaar, met betrekking tot voornoemde locatie, goedgekeurd door de gemeenteraad in zitting van 26 juni 2023. 
+
+Voor de werking van het nieuwe wijkcommissariaat is het noodzakelijk dat het gelijkvloers onthaal heringericht wordt, toegang tot het nieuwe wijkcommissariaat is namelijk enkel mogelijk via de voormalige Lijnwinkel. Dit gelijkvloers onthaal maakt deel uit van de gemeenschappelijke delen van het gebouw, waarvan de Vlaamse Vervoermaatschappij - De Lijn en de NMBS eigenaar zijn. De Lijn is gebouwbeheerder en verantwoordelijk voor het uitvoeren van werken in de gemeenschappelijke delen van het gebouw. Voor de realisatie van het gemeenschappelijk (virtueel) onthaal op het gelijkvloers werd door het college in zitting van 27 september 2024 besloten om een intentieverklaring op te maken met basisafspraken tussen De Lijn en de stad Leuven. Door langlopende onderhandelingen tussen De Lijn en de stad Leuven, bijgestaan door het AG Stadsontwikkeling Leuven, werd besloten om geen intentieverklaring op te maken, maar alsnog meteen over te gaan tot de opmaak van een samenwerkingsovereenkomst tussen De Lijn en de stad Leuven. 
+
+Deze samenwerkingsovereenkomst werd als bijlage toegevoegd en treedt in werking op de datum van de ondertekening ervan door De Lijn en de stad Leuven tot 30 november 2035, namelijk het einde van de inhuurname door de stad Leuven van de kantoren van de NMBS. 
+
+Deze samenwerkingsovereenkomst bevat onder andere afspraken omtrent: 
+
+- het renovatieproject; 
+
+- de tijdslijn; 
+
+- algemene afspraken; 
+
+- afspraken fase aanbesteding Studie/Ontwerp onthaal; 
+
+- afspraken fase aanbesteding werken onthaal; 
+
+- de door de stad Leuven uit te voeren werken aan het onthaal zullen worden geprefinancierd door de stad Leuven en zullen volledig worden teruggevorderd van De Lijn, met uitzondering van de volgende deelaspecten, waarvan de verdeelsleutel werd opgenomen in de samenwerkingsovereenkomst:; 
+
+- uitvoering virtueel onthaal; 
+
+- uitvoering toegangspoorten; 
+
+- aankleding interieur, aankleding muren, plafond lamellen, logo’s, mos en kunststofplanten; 
+
+- afspraken fase werken onthaal; 
+
+- de traphal: noodverlichting en camerasysteem; 
+
+- de brandcentrale; 
+
+- de toegangscontrole. 
+
+De politiezone Leuven zal op haar beurt de nodige technische installaties prefinancieren. Deze kosten zullen via een verdeelsleutel teruggevorderd worden van De Lijn. In zitting van 4 april 2025 stemde het college reeds in met de gunning van het virtueel onthaal. 
+
+Na goedkeuring en ondertekening van de samenwerkingsovereenkomst kunnen de werken aan het gemeenschappelijk onthaal gerealiseerd worden conform de afspraken opgenomen in voornoemde samenwerkingsovereenkomst. 
+
+De werken aan dit onthaal die ten laste zullen zijn van de stad Leuven zullen als meerwerk opgenomen worden in de lopende overheidsopdracht voor de renovatie en herinrichting van de ingehuurde kantoorruimtes die dienst zullen doen als wijkcommissariaat van de politiezone Leuven, omdat in deze overheidsopdracht reeds enkele voorbereidende werken en aanpassingen aan de technische installaties in het onthaal voorzien waren. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De samenwerkingsovereenkomst tussen De Lijn en de stad Leuven met betrekking tot de uitvoering van de aanpassingswerken en het gezamenlijk gebruik van het onthaal gelegen Martelarenplein te 3000 Leuven, zoals in bijlage toegevoegd, goed te keuren. 
+
+## **Artikel 2** 
+
+De door de stad Leuven terug te vorderen kosten van De Lijn, volgens de voorwaarden opgenomen in de samenwerkingsovereenkomst tussen De Lijn en de stad Leuven, terug te vorderen op budgetsleutel MJP007018 - GEB - STUD/2026/1500000000/1/0050. 
+
+## **Artikel 3** 
+
+Het college of haar aangestelde volmachtdragers te machtigen de samenwerkingsovereenkomst te ondertekenen en uit te voeren. 
+
+## **BIJLAGEN** 
+
+1. Draft SWO De Lijn en stad Leuven.pdf 
+
+22:35 - Mauro Michielsen, raadslid betreedt de zitting. 
+
+## **59 Genadeweg/Velderblok te 3010 Leuven  - Kosteloze grondverwerving ten algemenen nutte voor inlijving bij het openbaar domein  - Goedkeuring (2025_GR_00574)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+In de Genadeweg/Velderblok te 3010 Leuven wordt een perceel grond, aangeduid als lot 6 op het plan met referentienummer AAPD 24051-10250 en met een oppervlakte van 295 m², overeenkomstig de omgevingsvergunning OMV_2019058224 kosteloos overgedragen van de private eigenaars aan de stad Leuven, ten algemenen nutte en met het oog op inlijving in het openbaar domein van de stad Leuven. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+In de omgevingsvergunning OMV_2019058224 werd een kosteloze grondafstand voorzien van een perceel grond, aangeduid  als lot 6 op het opmetingsplan opgesteld door landmeter-expert K. Kockaerts op 28 januari 2022, en geprekadastreerd onder referentienummer AAPD 24051-10250. Het perceel is gelegen aan de Genadeweg/Velderblok te 3010 Leuven. 
+
+In de omgevingsvergunning werden tevens voorwaarden opgelegd met betrekking tot de aanleg van deze strook grond. Aan deze voorwaarden werd inmiddels voldaan. In zitting van 19 september 2025 keurde het college het proces-verbaal van definitieve oplevering van de wegenis- en rioleringswerken goed, en werd het resterende deel van de gestelde waarborg vrijgegeven. 
+
+Lot 6, bestaande uit de voorafgaande perceelsidentificaties 24051A0524/00M000 (lot 6A),  24051A0524/00N000 (lot 6B) en 24051A0524/00P000 (lot 6C), met een totale oppervlakte van 
+
+295 m², kan overeenkomstig de bepalingen van omgevingsvergunning OMV_2019058224 kosteloos worden overgedragen van de private eigenaars aan de stad Leuven, ten algemenen nutte en met het oog op inlijving in het openbaar domein. 
+
+De overdracht zal plaatsvinden onder voorbehoud van het afleveren van een bodemattest door de overdrager betreffende het betrokken kadastrale perceel. Uit dit attest moet blijken dat de grond niet verontreinigd is, of dat voldaan werd aan de verplichtingen opgelegd door het Bodemdecreet. 
+
+Aangezien de kosteloze overdracht een last betreft die als voorwaarde in de omgevingsvergunning is opgenomen, zijn alle kosten verbonden aan de notariële akte ten laste van de afstanddoeners. 
+
+De overdracht zal plaatsvinden met vrijwaring als naar recht: vrij en onbezwaard, zuiver en zonder enige schuld, inschrijving, voorrecht, hypotheek of andere bezwarende overschrijving. Ze geschiedt ten algemenen nutte, met het oog op inlijving in het openbaar domein van de stad Leuven. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+Akkoord te gaan met de kosteloze verwerving, ten algemenen nutte, van een perceel grond aangeduid als lot 6 op het opmetingsplan met referentienummer AAPD 24051-10250, gelegen aan de Genadeweg/Velderblok te 3010 Leuven, met het oog op inlijving in het openbaar domein van de stad Leuven. 
+
+## **Artikel 2** 
+
+De voorzitter van de gemeenteraad en de algemeen directeur van de stad Leuven, of hun aangestelde volmachtdragers, te machtigen de authentieke akte houdende de verwerving ten algemenen nutte namens de stad Leuven te ondertekenen. 
+
+## **BIJLAGEN** 
+
+1. Plan van afpaling (aangepast 2).pdf 
+
+## **VEILIGHEID EN PREVENTIE** 
+
+## **Preventiedienst** 
+
+22:35 - Karine Op de Beeck, raadslid verlaat de zitting. 
+
+## **60 Veilig Huis Oost-Brabant - Engagementsverklaring en kaderovereenkomst - Goedkeuring (2025_GR_00521)** 
+
+## **STATUS** 
+
+## **Goedgekeurd** 
+
+> - artikels 1 en 2: goedgekeurd met unanimiteit; 
+
+- artikel 3: goedgekeurd bij geheime stemming. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De nieuwe kaderovereenkomst tussen de stad Leuven en het Veilig Huis Oost-Brabant en het nieuwe voorstel tot engagementsverklaring, opgesteld door de Vlaamse Gemeenschap, Agentschap Justitie en Handhaving, worden aan de gemeenteraad ter goedkeuring voorgelegd. 
+
+## **Regelgeving: bevoegdheid** 
+
+- de gemeenteraad is bevoegd op basis van artikel 40-41 van het decreet lokaal bestuur 
+
+## **Argumentatie** 
+
+Op 25 november 2023 opende de Vlaamse Gemeenschap, Agentschap Justitie en Handhaving, officieel de deuren van het Veilig Huis Oost-Brabant in de site Zeven Tuinen in Leuven. Het Veilig Huis bouwt verder op de  ketenaanpak intrafamiliaal geweld. De werking bestaat uit een multidisciplinair team dat structureel en permanent samenwerkt, onder één dak, om gecoördineerde diensten te bieden aan slachtoffers van intrafamiliaal geweld. Het college in zitting van 3 februari 2023 keurde de medewerking van de stad in de uitbouw van het Veilig Huis Oost-Brabant principieel goed. Navolgend keurde het college in zitting van 17 november 2023 de engagementsverklaring en kaderovereenkomst goed. Deze documenten werden de afgelopen periode geactualiseerd, wat leidt tot een nieuwe kaderovereenkomst en engagementsverklaring die de verdere formalisering van de samenwerking tussen het Veilig Huis en alle betrokken samenwerkingspartners mogelijk maakt. 
+
+De kaderovereenkomst dient als uitgangspunt voor alle Veilige Huizen in Vlaanderen. Het betreft de modaliteiten omtrent de financiering en inrichting van het Veilig Huis: 
+
+- de doelstelling en de kerntaken van het Veilig Huis Oost-Brabant, het werkingsgebied en de overlegstructuur, de taakomschrijving van de functies, de bepalingen inzake afgevaardigde medewerkers, het instructierecht, de werklocatie, de externe communicatie, de informatiedeling en - verwerking van persoonsgegevens, de procedure bij knelpunten, de behandeling van klachten; - de engagementen, taken en verantwoordelijkheden van de kernpartners, vastgelegd in een engagementsverklaring; 
+
+- de inwerkingtreding, verlenging, wijziging, opzeg en betwisting van de kaderovereenkomst. 
+
+Het is aangewezen om de kaderovereenkomst, opgesteld door de Vlaamse Gemeenschap, Agentschap Justitie en Handhaving, betreffende het Veilig Huis Oost-Brabant goed te keuren onder voorbehoud van goedkeuring van de federale wet en onder voorbehoud van verduidelijking van de verantwoordelijkheden zoals vastgelegd in de annexen van de kaderovereenkomst. Met name is er verduidelijking nodig welke partij er in welke fase van de verwerking (gezamenlijke) verwerkingsverantwoordelijke of verwerker is en welke procedure er gevolgd moet worden bij verzoeken van betrokkenen met betrekking tot de uitoefening van hun AVG-rechten. Deze verduidelijking moet zo spoedig mogelijk verwerkt worden in volgende versies van de annexen. 
+
+Het agentschap sluit een kaderovereenkomst af met alle partners die een engagementsverklaring onderschrijven. In deze engagementsverklaring verklaren de kernpartners, waaronder stad en OCMW Leuven, akkoord te gaan met de bepalingen van de kaderovereenkomst inzake inrichting en financiering van het Veilig Huis Oost-Brabant, en zich te engageren tot: 
+
+- naleving van de bepalingen omtrent infodeling en gegevensverwerking, opgenomen in de kaderovereenkomst; 
+
+- deelname aan de regionale stuurgroep, jaarvergadering, de schriftelijke infodeling, de expertentafel, casusoverleg, thematische werkgroepen; 
+
+- de inzet via de samenwerking met de stad Aarschot van minstens 2 VTE (in dienst van de stad Leuven en waarvan de financiering onderling verdeeld wordt aan de hand van het inwonersaantal per gemeente) voor de functies van casusondersteuner Veilig Huis Oost-Brabant; 
+
+- het aanduiden van een medewerker binnen de organisatie die als aanspreekpersoon fungeert. 
+
+Het is aangewezen om het voorstel van engagementsverklaring goed te keuren. 
+
+Het is aangewezen om een vertegenwoordiger van de administratie, die tevens de contactpersoon is voor het Veilig Huis, af te vaardigen voor de regionale jaarvergadering op 20 oktober 2025 om 16.30 uur. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De kaderovereenkomst, opgesteld door de Vlaamse Gemeenschap, Agentschap Justitie en Handhaving, betreffende het Veilig Huis Oost-Brabant goed te keuren onder voorbehoud van goedkeuring van de federale wet en onder voorbehoud van verduidelijking van de verantwoordelijkheden zoals vastgelegd in de annexen van de kaderovereenkomst. 
+
+## **Artikel 2** 
+
+Het voorstel van de engagementsverklaring, opgesteld door de Vlaamse Gemeenschap, Agentschap Justitie en Handhaving, betreffende het Veilig Huis Oost-Brabant goed te keuren. 
+
+## **Artikel 3** 
+
+Mevrouw Jana Nickmans, beleidsadviseur veiligheid en preventie, contactpersoon voor het Veilig huis, bij geheime elektronische stemming met 37 ja-stemmen en 9 onthoudingen, op 46 geldige stemopnames, af te vaardigen voor deelname aan de regionale jaarvergadering van het Veilig Huis op maandag 20 oktober 2025 om 16.30 uur. 
+
+## **BIJLAGEN** 
+
+1. Kaderovereenkomst Veilig Huis Oost-Brabant 
+
+2. Annex 1 draaiboek Oost-Brabant 
+
+3. Annex 2 Engagementsverklaring lokaal bestuur Leuven.docx 
+
+4. annex 3.1 informatiestromen binnen het casusoverleg 
+
+5. Annex 3.2 Gezamenlijke Overeenkomst 
+
+6. Annex 3.3 Privacyverklaring 
+
+7. Annex 3.4 Verwerkersovereenkomst 
+
+8. Annex 3.5 Vertrouwelijkheidsverklaring 
+
+## **WELZIJN** 
+
+## **Sociaal Beleid** 
+
+22:40 - Karine Op de Beeck, raadslid betreedt de zitting. 
+
+22:43 - Pieterjan Vangerven, raadslid verlaat de zitting. 
+
+## **61 Decreet Buitenschoolse Opvang & Activiteiten (BOA)  - Aanduiding Stedelijke Adviesraad Kinderopvang als 'Lokaal samenwerkingsverband BOA' - Goedkeuring (2025_GR_00562)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+Het lokaal samenwerkingsverband BOA heeft een belangrijke rol bij de implementatie van het lokale beleid 'Buitenschoolse Opvang en Activiteiten' (kortweg BOA). Het lokaal samenwerkingsverband geeft mee uitvoering aan het ontwikkelen en coördineren van BOA-acties en bewaakt de kwaliteit en neutraliteit van het lokaal beleid. Zo moet het lokaal bestuur bij het nemen van beslissingen aantonen hoe rekening wordt gehouden met het advies van het samenwerkingsverband. Er wordt voorgesteld om de Stedelijke Adviesraad Kinderopvang aan te duiden als lokaal samenwerkingsverband BOA. 
+
+## **Juridische grond** 
+
+- het decreet houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten (3 mei 2019) 
+
+- het voorontwerp tot wijziging van het decreet buitenschoolse opvang en afstemming met buitenschoolse activiteiten(16 mei 2025) 
+
+## **Argumentatie** 
+
+## Inleiding 
+
+In 2013 werd het startschot gegeven voor de?Staten Generaal rond Opvang en Vrije tijd van Schoolkinderen. Naar aanleiding daarvan, maakte de Vlaamse regering een conceptnota?die als basis diende voor het decreet 'Buitenschoolse Opvang en Activiteiten' (3 mei 2019). In 2025 werden een aantal wijzigingen aan het decreet voorgesteld die in de loop van het najaar 2025 in een aangepast decreet en uitvoeringsbesluiten zullen landen. 
+
+Het decreet streeft naar een?geïntegreerd aanbod?van buitenschoolse opvang en activiteiten (BOA) voor álle kinderen en gezinnen. ?Het decreet heeft drie doelstellingen: -  kinderen de?speelmogelijkheden?en ontplooiingskansen geven, maar ook?keuzevrijheid en recht 
+
+op rust; 
+
+- ouders de?mogelijkheid bieden om werk, opleiding en gezin vlot te combineren; - een aanbod buitenschoolse opvang en activiteiten creëren dat?toegankelijk en betaalbaar?is voor iedereen. 
+
+Het decreet vraagt bijzondere aandacht voor kleuters, kinderen uit kwetsbare gezinnen, kinderen met een specifieke zorgbehoefte en het multifunctioneel gebruik van infrastructuur. ? 
+
+De geleidelijke uitrol van het BOA-decreet ging in 2021 van start, als de effectieve opstartdatum is in Leuven gekozen voor dinsdag 1 september 2026 (samenvallend met de start van het nieuwe schooljaar). 
+
+## - Lokale regie opdracht BOA 
+
+Nieuw met dit decreet is dat het?lokaal bestuur?de?regie?in handen krijgt en de opdracht krijgt om met verschillende partners (onder meer buitenschoolse opvangpartners, onderwijs, welzijn, cultuur, jeugd, sport, enzovoort) verenigd in een lokaal BOA-samenwerkingsverband een?BOA-beleid?uit te 
+
+stippelen. Dit beleid wordt opgenomen in de?meerjarenplanning. Zo komt elke gemeente tot een gedragen visie, aangepast aan lokale noden. ? 
+
+Om deze nieuwe regie-opdracht tot een goed einde te brengen, ontvangt het lokaal bestuur?een?Vlaamse subsidie,?gebaseerd op het aantal schoolgaande kinderen in de gemeente (60%) en het aantal gedomicilieerde kinderen in de gemeente (40%). Het lokaal bestuur krijgt de vrijheid om over de besteding van de beschikbare financiële, personele en infrastructurele middelen te beslissen volgens de principes van goed bestuur en afgestemd met het lokaal samenwerkingsverband. 
+
+Het lokaal samenwerkingsverband BOA adviseert over de ontwikkeling, de coördinatie en de  ontwikkeling van BOA-acties en bewaakt de kwaliteit en neutraliteit van het lokaal beleid. Zo moet het lokaal bestuur bij het nemen van beslissingen aantonen hoe rekening wordt gehouden met het advies van het samenwerkingsverband. 
+
+De directie Welzijn, afdeling Sociaal Beleid, stelt voor om de Stedelijke Adviesraad Kinderopvang aan te duiden als lokaal samenwerkingsverband BOA. Binnen de SARKO is er sinds vele jaren een vertegenwoordiging van 'organisatoren' kinderopvang - zowel organisatoren van opvang voor baby's en peuters als organisatoren buitenschoolse opvang, kampjes, kinderwerkingen binnen het buurtwerk en activiteiten door externen in de opvang (bijvoorbeeld: workshops). Ook is er in de schoot van de SARKO een vertegenwoordiging van 'gebruikers'. Door het lokaal samenwerkingsverband BOA in te bedden binnen de bestaande SARKO-structuur (bestaande uit een algemene vergadering en werkgroepen/sectoroverleg), stroomlijnen we de adviesorganen inzake kinderopvang en trachten we de vergaderlast zo efficiënt mogelijk in te vullen. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De stedelijke adviesraad kinderopvang (SARKO) aan te duiden als lokaal samenwerkingsverband BOA. 
+
+## **INITIATIEFRECHT** 
+
+## **Mondelinge vragen** 
+
+22:49 - Christophe Stockman, schepen verlaat de zitting. 
+
+22:49 - Jan Thomas Roefs, raadslid verlaat de zitting. 
+
+## **IR 1 Mondelinge vraag van raadslid Bart Meulemans: Studeren in de stadsbibliotheek (2025_MV_00068)** 
+
+## **STATUS** 
+
+## **Behandeld** 
+
+Dit punt werd besproken, over dit punt werd niet gestemd. 
+
+## **MONDELINGE VRAAG** 
+
+## **Indiener(s):** 
+
+Bart Meulemans (                            Vooruit                         ) 
+
+## **Toelichting:** 
+
+Er zijn steeds meer scholieren die de weg vinden naar de stadbibliotheek om er te komen studeren. Zowel kansarme jongeren die thuis niet de mentale en fysieke ruimte vinden om rustig te werken, als scholieren die het moeilijk vinden om zich in afzondering goed te concentreren en daarom gemeenschappelijke studieruimtes opzoeken. 
+
+- Op welke manier wordt er met deze studerende scholieren omgegaan? 
+
+- Is het mogelijk om dit aanbod voor scholieren nog uit te breiden tijdens de piekmomenten (kersten eindejaarsexamens)? Ik denk hier bijvoorbeeld aan het auditorium Henry of de Foyer? 
+
+22:51 - Yu-Chun Liao, raadslid verlaat de zitting. 
+
+- 22:52 - Pieterjan Vangerven, raadslid betreedt de zitting. 
+
+22:53 - Jan Thomas Roefs, raadslid betreedt de zitting. 
+
+22:53 - Christophe Stockman, schepen betreedt de zitting. 
+
+## **IR 2 Mondelinge vraag van raadslid Debby Appermans: verzakking dijlearm/riolering Craenendonck (2025_MV_00069)** 
+
+## **STATUS** 
+
+## **Behandeld** 
+
+Dit punt werd besproken, over dit punt werd niet gestemd. 
+
+## **MONDELINGE VRAAG** 
+
+## **Indiener(s):** 
+
+Debby Appermans (                            N-VA                         ) 
+
+## **Toelichting:** 
+
+Craenendonck is momenteel afgesloten ten gevolge van een verzakking van een Dijlearm (zie https://www.leuven.be/craenendonck-onderbroken). Op foto's is ook zichtbaar dat in het water dat hier loopt meerdere afvoeren van rioleringen uitkomen. In de krant spreekt schepen Vansina echter dat het hier gaat om een riolering. Graag had ik hierover enkele vragen gesteld: 
+
+- het water dat hier loopt, is dit een dijlearm, een riolering of een dijlearm waarin de riolering geloosd wordt? 
+
+- waar mond dit water uiteindelijk uit 
+
+- Zal deze verzakking aangewend worden om nu een gescheiden, gesloten riolering aan te leggen? 
+
+22:57 - Yu-Chun Liao, raadslid betreedt de zitting. 
+
+## **IR 3 Mondelinge vraag van raadslid Anton Nilis: Besparing op 30cc (2025_MV_00071)** 
+
+## **STATUS** 
+
+## **Behandeld** 
+
+Dit punt werd besproken, over dit punt werd niet gestemd. 
+
+## **MONDELINGE VRAAG** 
+
+## **Indiener(s):** 
+
+Anton Nilis (                            PVDA                         ) 
+
+## **Toelichting:** 
+
+Nog geen twee maand nadat bekend werd dat Leuven de Culturele Hoofdstad van Europa zal worden in 2030, beslisten het stadsbestuur dat het 10% will besparen op de toelage aan 30cc, het cultuurhuis Leuven. Die beslissing werd al toelalicht op de algemene vergadering van 30cc, voor ze door de gemeenteraad werd goedgekeurd. 
+
+De beslissing om te besparen op 30cc doet de vraag rijzen welke andere besparingen er nog beslist zijn, of zelfs al gecommuniceerd worden aan betrokkenen, zonder dat de gemeenteraad op de hoogte is. 
+
+1. Waarom wordt er bespaard op 30cc? 
+
+2. Waarom wordt de besparing besproken bij 30cc voor hij op de gemeenteraad passeert? 
+
+3. Zijn er nog besparingen nu al beslist? 
+
+23:04 - Hannes De Geest, raadslid verlaat de zitting. 
+
+- 23:05 - Mauro Michielsen, raadslid verlaat de zitting. 
+
+## **IR 4 Mondelinge vraag van raadslid Anton Nilis: Stijgende kotprijzen (2025_MV_00072)** 
+
+## **STATUS** 
+
+## **Behandeld** 
+
+Dit punt werd besproken, over dit punt werd niet gestemd. 
+
+## **MONDELINGE VRAAG** 
+
+## **Indiener(s):** 
+
+Anton Nilis (                            PVDA                         ) 
+
+## **Toelichting:** 
+
+Uit cijfers van Kotkompas blijkt dat een kot in Vlaanderen gemiddeld €610 (incl. kosten) per maand kost, een stijging van 30% op 5 jaar. 
+
+1. Wat doet het stadsbestuur om studeren en op kot gaan opnieuw betaalbaar te maken? 
+
+2. Is het stadsbestuur bereid om, zoals voor woningen, een regeling uit te werken om in elk project een deel betaalbare ‘basiskoten’ te verplichten? 
+
+23:09 - Hannes De Geest, raadslid betreedt de zitting. 
+
+23:11 - Bert Cornillie, schepen verlaat de zitting. 
+
+## **IR 5 Mondelinge vraag van raadslid Zeger Debyser: Leuvenaars hechten veel waarde aan grote bomen in de stad. Wat is de stavaza van het strategisch bomenplan? Wij vragen om de Leuvenaar alvast vooraf te informeren telkens men wil overgaan tot bomenkap. (2025_MV_00073)** 
+
+## **STATUS** 
+
+## **Behandeld** 
+
+Dit punt werd besproken, over dit punt werd niet gestemd. 
+
+## **MONDELINGE VRAAG** 
+
+**Indiener(s):** 
+
+Zeger Debyser (                            N-VA                         ) 
+
+## **Toelichting:** 
+
+**Leuvenaars hechten veel waarde aan grote bomen in de stad. Wat is de stavaza van het strategisch bomenplan? Wij vragen om de Leuvenaar alvast vooraf te informeren telkens men wil overgaan tot bomenkap.** 
+
+Deze week was er terecht veel media-aandacht voor een bevraging van de KU Leuven waarbij Leuvenaars veel financiële waarde (meer dan 1 miljoen euro) hechtten aan de Boom van het Groot Verdriet op de Naamse Straat. Dit verwondert ons niet. De Leuvense N-VA fractie hamert al jaren op het belang van grote bomen in de stad. Voor klimaatadaptatie (verkoeling) en biodiversiteit zijn ze uiterst belangrijk, maar ook de gevoelswaarde is erg hoog. 
+
+Ondanks dit groeiend bewustzijn, ook bij het stadsbestuur, verdwijnen nog steeds grote bomen, denk aan de platanen in de Brusselse Straat en de Japanse Kerselaars op het Rietensplein. 
+
+Hoe staat het met het voornemen uit het bestuursakkoord om een strategisch bomenplan te maken voor het bomenpatrimonium? 
+
+Zelfs als er een gegronde reden zou zijn voor het verwijderen van bomen in het straatbeeld, is het belangrijk de Leuvenaar daarover tijdig te informeren. Zo kregen we recent vragen over het verwijderen van bomen in de Barbarastraat (voor een glascontainer) en de Vesten (wegens afsterven). De omwonenden werden niet geïnformeerd. 
+
+Wij denken dat transparante communicatie een onderdeel hoort te zijn van een stategisch bomenplan. 
+
+Is het niet mogelijk om de omwonenden vooraf te informeren over de redenen waarom men overgaat tot bomenkap? 
+
+Is het niet mogelijk bomenkap vooraf aan te kondigen in het boekje LVN? 
+
+23:15 - Bert Cornillie, schepen betreedt de zitting. 
+
+## **IR 6 Mondelinge vraag van raadslid Zeger Debyser: Mondelinge vraag.  Analyse van de waterkwaliteit van de waterspeeltuin aan de Vaartkom is vereist. Vlaamse richtlijnen worden nu niet gevolgd. (2025_MV_00074)** 
+
+## **STATUS** 
+
+## **Behandeld** 
+
+Dit punt werd besproken, over dit punt werd niet gestemd. 
+
+## **MONDELINGE VRAAG** 
+
+## **Indiener(s):** 
+
+Zeger Debyser (                            N-VA                         ) 
+
+## **Toelichting:** 
+
+## **Uit de antwoorden op schriftelijke vragen aan de Stad en VMM blijkt dat de waterkwaliteit van de water(speel)tuin aan de Vaartkom vandaag niet kan worden gegarandeerd. Wij vragen dan ook analyses en continue monitoring door de Stad vooraleer de watertuin vrij te geven voor waterbeleving.** 
+
+Blikvanger van de vernieuwde Vaartkom is de watertuin. Deze watertuin heeft een aardig duitje gekost (700.000 euro) en belooft waterbeleving en pootjebaden, een waterspeeltuin dus. Reeds vroeger stelde de N-VA vragen over de waterkwaliteit in de Vaartkom. 
+
+(https://www.vrt.be/vrtnws/nl/2021/08/20/darmbacterien-in-water-van-de-vaartkom-in-leuven/. Het ongezuiverd rioolwater van de Kapucijnenvoer loopt immers via de Voer en De Hond in de Vaartkom en vervuiling met darmflora werd eerder vastgesteld. Het recente burgeronderzoek  “Watermonsters” leverde rode en oranje punten op voor het gebied rond de Vaartkom, waarbij de fecale contaminatie op oranje punten reeds gevaar oplevert voor kinderen, ouderen en mensen met een zwakke immuniteit (https://www.hln.be/leuven/leuven-slechtsteleerling-van-alle-centrumsteden-in-onderzoek-watermonsters-e-coli-bacterie-wijst-op-vervuilingmet-rioolwater~a7d2ff26/). 
+
+In een schriftelijke vraag (bijlage) stelde ik vragen over de watervoorziening en waterkwaliteit in de water(speel)tuin. Blijkbaar wordt de watertuin nog steeds gevoed vanuit De Hond maar zou het water gefilterd worden door planten. De waterkwaliteit zou volgens de stad minstens deze zijn van de Vistrap in het Sluispark. Wij merken op dat dit meetpunt wel rood aankleurde in het burgeronderzoek. In haar antwoord beweert de stad dat het water absoluut veilig is voor kinderen en dat de waterkwaliteit opgevolgd wordt door de Vlaamse Milieumaatschappij (VMM). 
+
+In zijn antwoord (bijlage) liet de Vlaamse Administratie mij echter weten enkel stalen te nemen in het kader van open zwemgelegenheden en zones voor waterrecreatie. Aangezien een waterspeeltuin hier niet toe behoort, worden geen stalen genomen door de VMM in de watertuin. Er zijn dus geen recente wateranalyses van de Vaartkom te Leuven. 
+
+In de richtlijnen van het Departement Zorg voor waterspeeltuinen, die men ons bezorgde, wordt gewezen op de noodzaak van een risico-analyse en de monitoring van de waterkwaliteit. Bij een eerste wateranalyse is het zelfs aangewezen om chemische parameters (PFAS, pesticiden) te bekijken. 
+
+Uit het antwoord van de stad blijkt dat een chemische en microbiële analyse van de waterkwaliteit van de watertuin vandaag ontbreekt. Dit druist in tegen de richtlijnen van het Departement Zorg. 
+
+We vragen dan ook een risico-analyse op te stellen, chemische en microbiële analyses te verrichten en een continue monitoring op te stellen voor de watertuin. Zonder analyse van de waterkwaliteit kan de stad niet garanderen dat het water veilig is voor kinderen. 
+
+## **IR 7 Mondelinge vraag van raadslid Ruben Geleyns: Oorlogsgraven in Leuven (2025_MV_00075)** 
+
+## **STATUS** 
+
+## **Behandeld** 
+
+Dit punt werd besproken, over dit punt werd niet gestemd. 
+
+## **MONDELINGE VRAAG** 
+
+## **Indiener(s):** 
+
+Ruben Geleyns (                            cd&v                         ) 
+
+## **Toelichting:** 
+
+Graag vestig ik even de aandacht op de oorlogsgraven op de begraafplaatsen van Leuven. Elk jaar naar aanleiding van Wapenstilstand brengen we hulde en leggen we kransen bij deze graven op de verschillende begraafplaatsen in onze stad. Maar ook buiten dit jaarlijkse herdenkingsmoment verdienen deze graven onze blijvende aandacht en het nodige onderhoud. 
+
+Op verschillende plaatsen is de toestand zorgwekkend. Sommige grafopschriften zijn nauwelijks nog leesbaar en hebben dringend nieuwe verf nodig in de groeven van de letters van de namen. In Wilsele-Putkapel zijn er stenen grafzerken zo verweerd dat de namen bijna niet meer te herkennen zijn. Op de Wijgmaalse begraafplaats in de Kroonstraat staan sommige zerken intussen zo scheef dat het bij wijze van spreken lijkt alsof men er nog een tweede keer voor het vaderland zou kunnen vallen. 
+
+Ik wil er dan ook op aandringen om te bekijken welke onderhoudswerken op de ereperken noodzakelijk zijn en om hier werk van te maken. Daarom mijn concrete vraag: kan er een onderhoudsplan worden opgemaakt voor de graven van de gesneuvelden en oud-strijders op het grondgebied van onze stad? 
+
+Het is niet meer dan een morele plicht die we als Leuvense samenleving hebben tegenover wie het leven liet voor onze vrijheid en vrede. Jaarlijks worden zij tijdens Wapenstilstand geëerd met woorden. Ik vraag om hen nu ook te eren met daden. 
+
+## **DIENSTEN ALGEMEEN DIRECTEUR** 
+
+## **Bestuurs- en Organisatieondersteuning** 
+
+23:31 - Christophe Stockman, schepen verlaat de zitting. 
+
+23:31 - Lothe Ramakers, schepen verlaat de zitting. 
+
+## **62 Notulen en zittingsverslag - Vergadering van de gemeenteraad van 20 oktober 2025 - Goedkeuring (2025_GR_00591)** 
+
+## **STATUS** 
+
+**Goedgekeurd** met unanimiteit. 
+
+## **BESCHRIJVING** 
+
+## **Beknopte samenvatting** 
+
+De notulen en het zittingsverslag van de vergadering van de gemeenteraad van 20 oktober 2025 worden ter goedkeuring voorgelegd aan de gemeenteraad. 
+
+## **Juridische grond** 
+
+- de artikels 32, 277 en 278 van het decreet lokaal bestuur - de artikels 49 tot en met 54 van het huishoudelijk reglement van de gemeenteraad 
+
+## **Argumentatie** 
+
+Er werden notulen en een zittingsverslag opgemaakt van de vergadering van de gemeenteraad van 20 oktober 2025. Deze notulen en het zittingsverslag worden ter goedkeuring voorgelegd aan de gemeenteraad. 
+
+Elk gemeenteraadslid heeft het recht tijdens de vergadering opmerkingen te maken over de redactie van de notulen en het zittingsverslag van de vorige vergadering. Als die opmerkingen door de gemeenteraad worden aangenomen, worden de notulen en het zittingsverslag in die zin aangepast. 
+
+Als er geen opmerkingen worden gemaakt, worden de notulen en het zittingsverslag als goedgekeurd beschouwd en worden ze uiterlijk binnen de maand door de voorzitter van de gemeenteraad en de algemeen directeur ondertekend. 
+
+Raadslid Zeger Debyser merkte op dat in het zittingsverslag bij zijn tussenkomst over het masterplan Haasrode (agendapunt 30) "fauna" werd vermeld, dit had "flora" moeten zijn. Dit werd aangepast in het zittingsverslag. 
+
+Er werden geen andere opmerkingen gemaakt over de notulen en het zittingsverslag. 
+
+## **BESLUIT** 
+
+## **Artikel 1** 
+
+De notulen van de vergadering van de gemeenteraad van 20 oktober 2025 goed te keuren. 
+
+## **Artikel 2** 
+
+Het zittingsverslag van de vergadering van de gemeenteraad van 20 oktober 2025, met hogervermelde aanpassing, goed te keuren. 
+
+## **BIJLAGEN** 
+
+1. 2025_10_20_Notulen_GR.pdf 
+
+2. 2025_10_20_Zittingsverslag_GR_aangepast.pdf 
+
+17 november 2025 23:34 - De voorzitter opent de besloten zitting. 
+
+17 november 2025 23:35 - Christophe Stockman, schepen betreedt de zitting. 
+
+17 november 2025 23:37 - De voorzitter sluit de zitting. 
+
+Gezien en goedgekeurd door de gemeenteraad. Op last van de raad: de algemeen directeur 
+
+**==> picture [83 x 13] intentionally omitted <==**
+
+**----- Start of picture text -----**<br>
+        de voorzitter<br>**----- End of picture text -----**<br>
+
+
+Geertrui Vanloo 
+
+Carl Devlies 
+
