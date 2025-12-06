@@ -30,27 +30,47 @@ headers = [
 ]
 
 
+ignore = [
+    'page-footer',
+    'page-header',
+    'picture'
+]
+
+collect_text = False
+
+
 def process_page(page):
+    global collect_text
     page = page["boxes"]
     zittingen = []
-    for box in page:
-        collect_text = False
-        collect_info = False
 
+    for box in page:
         openbare_zitting = []
         info_zitting = []
+
+
+        if box['boxclass'] in ignore:
+            continue
+
+        #print(box['boxclass'])
+
         if box['boxclass'] == 'section-header':
             line = parse_box(box)
-
+            if collect_text:
+                if re.match(r"^\d+\s+[^.:]", line):
+                    collect_text = False
+                else:
+                    print(line)
 
             # start van een belangrijk agendapunt
             if re.match(r"^\d+\s+[^.:]", line):
-                collect_text = True
                 print(line)
+                collect_text = True
 
-        if collect_text:
-
-
+        if box['boxclass'] == 'text':
+            line = parse_box(box)
+            if collect_text:
+                print(line)
 
 
         if len(openbare_zitting) > 0:
@@ -76,8 +96,10 @@ def process_json(json_file):
         zittingen = []
         for page in data["pages"] :
             result = process_page(page)
+
             if len(result) > 0:
                 zittingen.extend(result)
+        collect_text = False
 
         #print(zittingen)
 
