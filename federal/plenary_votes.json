@@ -1,0 +1,136 @@
+{
+  "total_items": 3,
+  "items_with_votes": 3,
+  "voting_items": [
+    {
+      "title": "Stemming 01 - Wetsvoorstel betreffende klimaatbeleid",
+      "votes": {
+        "voor": {
+          "count": 20,
+          "names": [
+            "Jan Jambon (N-VA)",
+            "Alexander De Croo (Open VLD)",
+            "Bart De Wever (N-VA)",
+            "Sophie Wilmès (MR)",
+            "Georges-Louis Bouchez (MR)",
+            "Conner Rousseau (Vooruit)",
+            "Melissa Depraetere (Vooruit)",
+            "Rajae Maouane (Ecolo)",
+            "Jean-Marc Nollet (Ecolo)",
+            "Paul Magnette (PS)",
+            "Ahmed Laaouej (PS)",
+            "Raoul Hedebouw (PVDA)",
+            "Peter Mertens (PVDA)",
+            "Tom Van Grieken (VB)",
+            "Barbara Pas (VB)",
+            "Joachim Coens (CD&V)",
+            "Sammy Mahdi (CD&V)",
+            "Egbert Lachaert (Open VLD)",
+            "Eva De Bleeker (Open VLD)",
+            "Patrick Dewael (Open VLD)"
+          ]
+        },
+        "tegen": {
+          "count": 4,
+          "names": [
+            "Theo Francken (N-VA)",
+            "Jan Bertels (VB)",
+            "Dries Van Langenhove (VB)",
+            "Hans Bonte ("
+          ]
+        },
+        "onthouding": {
+          "count": 5,
+          "names": [
+            "Kristof Calvo (Groen)",
+            "Stefaan Van Hecke (Groen)",
+            "Sarah Schlitz (Ecolo)",
+            "Tinne Van der Straeten (Groen)",
+            "Marie-Colline Leroy (Ecolo)"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Stemming 02 - Begrotingswet 2025",
+      "votes": {
+        "voor": {
+          "count": 18,
+          "names": [
+            "Alexander De Croo (Open VLD)",
+            "Sophie Wilmès (MR)",
+            "Georges-Louis Bouchez (MR)",
+            "Patrick Dewael (Open VLD)",
+            "Egbert Lachaert (Open VLD)",
+            "Eva De Bleeker (Open VLD)",
+            "Melissa Depraetere (Vooruit)",
+            "Conner Rousseau (Vooruit)",
+            "Hans Bonte (Vooruit)",
+            "Paul Magnette (PS)",
+            "Ahmed Laaouej (PS)",
+            "Joachim Coens (CD&V)",
+            "Sammy Mahdi (CD&V)",
+            "Koen Geens (CD&V)",
+            "Rajae Maouane (Ecolo)",
+            "Jean-Marc Nollet (Ecolo)",
+            "Kristof Calvo (Groen)",
+            "Stefaan Van Hecke (Groen)"
+          ]
+        },
+        "tegen": {
+          "count": 9,
+          "names": [
+            "Jan Jambon (N-VA)",
+            "Bart De Wever (N-VA)",
+            "Theo Francken (N-VA)",
+            "Tom Van Grieken (VB)",
+            "Barbara Pas (VB)",
+            "Jan Bertels (VB)",
+            "Dries Van Langenhove (VB)",
+            "Raoul Hedebouw (PVDA)",
+            "Peter Mertens (PVDA)"
+          ]
+        },
+        "onthouding": {
+          "count": 0,
+          "names": []
+        }
+      }
+    },
+    {
+      "title": "Stemming 03 - Wet betreffende digitale privacy",
+      "votes": {
+        "voor": {
+          "count": 13,
+          "names": [
+            "Alexander De Croo",
+            "Sophie Wilmès",
+            "Jan Jambon",
+            "Bart De Wever",
+            "Paul Magnette",
+            "Ahmed Laaouej",
+            "Conner Rousseau",
+            "Rajae Maouane",
+            "Jean-Marc Nollet",
+            "Raoul Hedebouw",
+            "Peter Mertens",
+            "Joachim Coens",
+            "Kristof Calvo"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 3,
+          "names": [
+            "Tom Van Grieken",
+            "Barbara Pas",
+            "Jan Bertels"
+          ]
+        }
+      }
+    }
+  ]
+}
