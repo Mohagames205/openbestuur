@@ -55,20 +55,6 @@ The JSON output has the following structure:
 
 Members are automatically sorted by party for easier API consumption.
 
-## API Integration
-
-The JSON output is designed to be served over an API. Key features:
-
-- **Sortable by party**: Members are pre-sorted by party affiliation
-- **Picture URLs**: Direct links to member photos
-- **Profile URLs**: Links to detailed member information
-- **Timestamp**: Last update time for cache validation
-
-## Dependencies
-
-- `beautifulsoup4`: HTML parsing
-- Python 3.6+: Standard library (urllib, json)
-
 Install dependencies:
 ```bash
 pip install beautifulsoup4
