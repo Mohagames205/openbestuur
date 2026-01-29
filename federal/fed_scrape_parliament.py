@@ -16,7 +16,7 @@ def scrape_parliament_members(url):
         A list of dictionaries containing member information
     """
     try:
-        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        req = Request(url)
         html_page = urlopen(req, timeout=10).read()
         soup = BeautifulSoup(html_page, "html.parser")
     except (URLError, Exception) as e:
@@ -35,6 +35,7 @@ def scrape_parliament_members(url):
     
     # Find all table rows in the page
     table = soup.find('table')
+
     if not table:
         print("Error: No table found in HTML", file=sys.stderr)
         return []
@@ -49,7 +50,7 @@ def scrape_parliament_members(url):
             continue
         
         member = {}
-        
+
         # Extract picture URL from first cell
         img = cells[0].find('img')
         if img and img.get('src'):
@@ -62,7 +63,7 @@ def scrape_parliament_members(url):
             member['picture_url'] = None
         
         # Extract name and profile URL from second cell
-        link = cells[1].find('a')
+        link = cells[0].find('a')
         if link:
             member['name'] = link.get_text().strip()
             profile_url = link.get('href')
@@ -78,7 +79,7 @@ def scrape_parliament_members(url):
             member['profile_url'] = None
         
         # Extract party from third cell
-        member['party'] = cells[2].get_text().strip()
+        member['party'] = cells[1].get_text().strip()
         
         # Only add member if we got at least a name
         if member.get('name'):
@@ -86,7 +87,7 @@ def scrape_parliament_members(url):
     
     return members
 
-def save_to_json(members, output_file='federal/parliament_members.json'):
+def save_to_json(members, output_file='parliament_members.json'):
     """
     Save parliament members to a JSON file.
     
