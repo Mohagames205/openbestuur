@@ -17,9 +17,9 @@ def scrape_parliament_members(url):
     """
     try:
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        html_page = urlopen(req, timeout=30).read()
+        html_page = urlopen(req, timeout=10).read()
         soup = BeautifulSoup(html_page, "html.parser")
-    except URLError as e:
+    except (URLError, Exception) as e:
         print(f"Error fetching URL: {e}", file=sys.stderr)
         print("Using local test data instead...", file=sys.stderr)
         # Fallback to local test data for development

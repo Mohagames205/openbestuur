@@ -6,16 +6,28 @@ Demonstrates how to filter members by party and access their information.
 
 import json
 import sys
+import os
 from typing import List, Dict
 
 def load_members(json_file='federal/parliament_members.json') -> Dict:
     """Load parliament members from JSON file."""
-    try:
-        with open(json_file, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    except FileNotFoundError:
-        print(f"Error: {json_file} not found. Run fed_scrape_parliament.py first.", file=sys.stderr)
-        sys.exit(1)
+    # Try multiple paths to handle different working directories
+    paths_to_try = [
+        json_file,
+        os.path.join(os.path.dirname(__file__), 'parliament_members.json'),
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), 'parliament_members.json')
+    ]
+    
+    for path in paths_to_try:
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except FileNotFoundError:
+            continue
+    
+    print(f"Error: parliament_members.json not found.", file=sys.stderr)
+    print(f"Run 'python3 federal/fed_scrape_parliament.py' first from the repository root.", file=sys.stderr)
+    sys.exit(1)
 
 def get_members_by_party(party_name: str, data: Dict) -> List[Dict]:
     """
