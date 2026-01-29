@@ -1,0 +1,2502 @@
+{
+  "total_items": 37,
+  "items_with_votes": 37,
+  "agenda_items": [
+    {
+      "item_number": "3",
+      "item_id": "2025_GR_00560",
+      "title": "Vertegenwoordiging - EU Local Councillors netwerk - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 45,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Jasmien Beckers",
+            "Veerle Bovyn",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Daniela El-Kadi",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Karine Op de Beeck",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Karen Van Herck",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Pieterjan Vangerven",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Lies Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 2,
+          "names": [
+            "Britt Huybrechts",
+            "Anton Nilis"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "5",
+      "item_id": "2025_GR_00582",
+      "title": "Vertegenwoordiging - Creat Services dv - Buitengewone algemene vergadering van 16 december 2025 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 12,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Anton Nilis",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "6",
+      "item_id": "2025_GR_00581",
+      "title": "Vertegenwoordiging - IGS Hofheide ov - Buitengewone algemene vergadering van 17 december 2025 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 12,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Anton Nilis",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "9",
+      "item_id": "2025_GR_00583",
+      "title": "AG Museum Leuven - Aanpassing prijssubsidiefactor vanaf 18 november 2025 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 33,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "10",
+      "item_id": "2025_GR_00584",
+      "title": "AG Museum Leuven - Aanpassing prijssubsidiereglement vanaf 18 november 2025 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 34,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "14",
+      "item_id": "2025_GR_00590",
+      "title": "Leningen stad 2025 Deel 2 - Contractvoorwaarden  - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 34,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        },
+        "onthouding": {
+          "count": 0,
+          "names": []
+        }
+      }
+    },
+    {
+      "item_number": "16",
+      "item_id": "2025_GR_00542",
+      "title": "Kerkfabriek Heilig Hart Blauwput - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "17",
+      "item_id": "2025_GR_00543",
+      "title": "Kerkfabriek Heilige Familie Boven-Lo - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "18",
+      "item_id": "2025_GR_00545",
+      "title": "Kerkfabriek Onbevlekt Hart van Maria - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "19",
+      "item_id": "2025_GR_00546",
+      "title": "Kerkfabriek Onze Lieve Vrouw van Troost - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "2026",
+      "item_id": "2025_GR_00544",
+      "title": "€ 39 371,41 2027 € 69 466 2028 € 74 318 2029 € 77 318 2030 € 78 124 2031 € 80 384 Notulen van de gemeenteraad van 17 november 2025 Stad Leuven Professor Van Overstraetenplein 1, 3000 Leuven pagina 53 van 155 Artikel 3 Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. BIJLAGEN 1. MJP2026_2031.pdf 20 Kerkfabriek Onze Lieve Vrouw van Vlierbeek - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "2026",
+      "item_id": "2025_GR_00547",
+      "title": "€ 90.000 2027 € 0 2028 € 0 2029 € 750.000 2030 € 1.500.000 Notulen van de gemeenteraad van 17 november 2025 Stad Leuven Professor Van Overstraetenplein 1, 3000 Leuven pagina 55 van 155 2031 € 750.000 Artikel 3 Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. BIJLAGEN 1. MJP2026_2031.pdf 21 Kerkfabriek Sint-Agatha - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "2026",
+      "item_id": "2025_GR_00565",
+      "title": "€ 0 2027 € 250.000 2028 € 25.000 2029 € 0 2030 € 0 2031 € 0 Notulen van de gemeenteraad van 17 november 2025 Stad Leuven Professor Van Overstraetenplein 1, 3000 Leuven pagina 57 van 155 Artikel 3 Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. BIJLAGEN 1. MJP2026_2031.pdf 22 Kerkfabriek Sint-Antonius - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "23",
+      "item_id": "2025_GR_00551",
+      "title": "Kerkfabriek Sint-Franciscus - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "24",
+      "item_id": "2025_GR_00553",
+      "title": "Kerkfabriek Sint-Gertrudis - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "25",
+      "item_id": "2025_GR_00548",
+      "title": "Kerkfabriek Sint-Hadrianus - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "2026",
+      "item_id": "2025_GR_00549",
+      "title": "€ 38 764,65 2027 € 47 479,40 2028 € 39 442,51 2029 € 30 963,30 2030 € 30 200,47 2031 € 29 464,72 Notulen van de gemeenteraad van 17 november 2025 Stad Leuven Professor Van Overstraetenplein 1, 3000 Leuven pagina 65 van 155 Artikel 3 Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. BIJLAGEN 1. MJP2026_2031.pdf 26 Kerkfabriek Sint-Jacob - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "2026",
+      "item_id": "2025_GR_00539",
+      "title": "€ 0 € 30.000 Notulen van de gemeenteraad van 17 november 2025 Stad Leuven Professor Van Overstraetenplein 1, 3000 Leuven pagina 67 van 155 2027 € 25 643,87 € 30.000 2028 € 25 999,23 € 0 2029 € 26 361,07 € 0 2030 € 26 730,07 € 0 2031 € 27 104,96 € 0 Artikel 3 Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en de betrokken kerkfabriek Leuven. BIJLAGEN 1. MJP2026_2031.pdf 27 Kerkfabriek Sint-Jan Evangelist - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "28",
+      "item_id": "2025_GR_00555",
+      "title": "Kerkfabriek Sint-Joannes Bosco - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "2026",
+      "item_id": "2025_GR_00558",
+      "title": "€ 51 866,18 € 136.849 2027 € 78 802 € 0 2028 € 77 565 € 0 2029 € 71 974 € 0 2030 € 69 883 € 0 2031 € 71 087 € 0 Artikel 3 Een afschrift van deze goedkeuring via Religiopoint over te maken aan de provinciegouverneur, het centraal kerkbestuur en kerkfabriek Sint-Joannes Bosco. BIJLAGEN 1. MJP2026_2031.pdf 29 Kerkfabriek Sint-Jozef - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "30",
+      "item_id": "2025_GR_00537",
+      "title": "Kerkfabriek Sint-Kwinten - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "31",
+      "item_id": "2025_GR_00556",
+      "title": "Kerkfabriek Sint-Lambertus - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "32",
+      "item_id": "2025_GR_00559",
+      "title": "Kerkfabriek Sint-Martinus - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "33",
+      "item_id": "2025_GR_00538",
+      "title": "Kerkfabriek Sint-Michiel - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "34",
+      "item_id": "2025_GR_00550",
+      "title": "Kerkfabriek Sint-Michiel en Reneldis - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "35",
+      "item_id": "2025_GR_00552",
+      "title": "Kerkfabriek Sint-Pieter - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "36",
+      "item_id": "2025_GR_00536",
+      "title": "Anglicaanse Kerk Leuven, Saint Martha and Mary’s Anglican Church - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "2026",
+      "item_id": "2025_GR_00557",
+      "title": "€ 0 € 0 2027 € 6.079,10 € 4.200,05 2028 € 6.139,35 € 4.241,68 2029 € 6.200,76 € 4.284,11 Notulen van de gemeenteraad van 17 november 2025 Stad Leuven Professor Van Overstraetenplein 1, 3000 Leuven pagina 88 van 155 2030 € 6.263,37 € 4.327,36 2031 € 6.327,20 € 4.371,46 Totaal € 31.009,78 € 21.424,66 Artikel 2 Afschriften van deze goedkeuring over te maken aan de provinciegouverneur, het Centraal Comité, de Anglicaanse Kerk Leuven en de gemeenten die dienen bij te dragen in de tekorten. BIJLAGEN 1. Budget2026.pdf 2. MJP2026-2031.pdf 3. Verslag Maatschappelijke Relevantie MM 2025.pdf 37 Protestantse kerk Leuven - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "2026",
+      "item_id": "2025_GR_00561",
+      "title": "€ 94.435,19 € 53.167,01 2027 € 110.150 € 62.014,45 2028 € 111.600 € 62.830,80 2029 € 112.885 € 63.554,59 2030 € 113.795 € 64.066,59 2031 € 115.040 € 64.767,52 Totaal € 657.905,19 € 370.400,62 Artikel 2 Afschriften van deze goedkeuring over te maken aan de provinciegouverneur, het ARPEE, de Protestantse Kerk Leuven en de gemeenten die dienen bij te dragen in de tekorten. BIJLAGEN 1. Meerjarenplan_2026_2031.pdf 2. 20250911_verslag.pdf 3. MJP2026_2031_Protestantse_cbs.docx 4. Budget2026.pdf 38 Evangelische Kerk Leuven - Meerjarenplan 2026-2031, budget 2026 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "15",
+      "item_id": "2025_GR_00573",
+      "title": "Stad Leuven - Toekennen subsidies - Nominatieve toelagen - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 33,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 12,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Anton Nilis",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "41",
+      "item_id": "2025_GR_00534",
+      "title": "Gunningswijze en -voorwaarden - Raamovereenkomst onthardingsprojecten (OD_SOW-25.4/865.11) - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 33,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen"
+          ]
+        },
+        "tegen": {
+          "count": 9,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Lies Verlinden"
+          ]
+        },
+        "onthouding": {
+          "count": 1,
+          "names": [
+            "Britt Huybrechts"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "49",
+      "item_id": "2025_GR_00586",
+      "title": "Omgevingsvergunning met wegenis - Bouwen van een kantoorgebouw (Campus Parkpoort II), te Philipssite 5, 3001 Leuven – OMV_2025059307 - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 30,
+          "names": [
+            "Jasmien Beckers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Katja Hermans",
+            "Britt Huybrechts",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Anton Nilis",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "50",
+      "item_id": "2025_GR_00587",
+      "title": "Omgevingsvergunning met wegenis / wijzigingen van het rooilijnenplan - Gedeeltelijke functiewijziging van Silo 54, vergroten dakkoepel en atrium, te Havenkant 24-28, 3000 Leuven  – OMV_2025082350  - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 39,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Jasmien Beckers",
+            "Veerle Bovyn",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Daniela El-Kadi",
+            "Ruben Geleyns",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Karine Op de Beeck",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Karen Van Herck",
+            "Liesbeth Vandermeeren",
+            "Pieterjan Vangerven",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Lies Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 2,
+          "names": [
+            "Britt Huybrechts",
+            "Anton Nilis"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "51",
+      "item_id": "2025_GR_00563",
+      "title": "Studentenbuspas academiejaar 2025-2026 (25.001/845) - Overeenkomst studentenbuspas verrekening - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 27,
+          "names": [
+            "Jasmien Beckers",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Lisa Jiroflee",
+            "Yu- Chun Liao",
+            "Mauro Michielsen",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Bruno Tobback",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Britt Huybrechts",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "55",
+      "item_id": "2025_GR_00540",
+      "title": "Monseigneur Van Waeyenberghlaan 12-30 te 3000 Leuven  - Verlenen van een kosteloos recht van opstal aan  Dijledal  - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 36,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Britt Huybrechts",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 10,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        },
+        "onthouding": {
+          "count": 1,
+          "names": [
+            "Anton Nilis"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "57",
+      "item_id": "2025_GR_00568",
+      "title": "Kapellekensweg 2 te 3010 Leuven - Valorisatie Kasteel Heiberg - Lanceren open oproep erfpacht voor de exploitatie als jeugdverblijfscentrum door een erkende jeugdwerkorganisatie - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 36,
+          "names": [
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Britt Huybrechts",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Mauro Michielsen",
+            "Sarah Mohamed Khalif",
+            "Anton Nilis",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 10,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    },
+    {
+      "item_number": "58",
+      "item_id": "2025_GR_00569",
+      "title": "Wijkcommissariaat politiezone Leuven, gelegen Martelarenplein te 3000 Leuven - Samenwerkingsovereenkomst tussen De Lijn en de stad Leuven met betrekking tot het onthaal - Goedkeuring",
+      "status": "Goedgekeurd",
+      "votes": {
+        "voor": {
+          "count": 35,
+          "names": [
+            "Jasmien Beckers",
+            "Anna Roos Brimco Melotte",
+            "Karin Brouwers",
+            "Lies Corneillie",
+            "Bert Cornillie",
+            "Hannes De Geest",
+            "Irma De Wolf",
+            "David Dessers",
+            "Carl Devlies",
+            "Surya Dhakal",
+            "Ruben Geleyns",
+            "Natalie Haine",
+            "Katja Hermans",
+            "Britt Huybrechts",
+            "Lisa Jiroflee",
+            "Daisy Kaerts",
+            "Yu-Chun Liao",
+            "Bart Meulemans",
+            "Sarah Mohamed Khalif",
+            "Lothe Ramakers",
+            "Mohamed Ridouani",
+            "Jan Thomas Roefs",
+            "Christophe Stockman",
+            "Aynur Tasdemir",
+            "Bruno Tobback",
+            "Els Van Hoof",
+            "Thomas Van Oppens",
+            "Liesbeth Vandermeeren",
+            "Dirk Vansina",
+            "Bieke Verlinden",
+            "Janne Vermeesch",
+            "Katrien Vermijlen",
+            "Lalynn Wadera",
+            "Myriam Welkenhuysen",
+            "Frouke Wouters"
+          ]
+        },
+        "tegen": {
+          "count": 0,
+          "names": []
+        },
+        "onthouding": {
+          "count": 11,
+          "names": [
+            "Frieda Aerts",
+            "Debby Appermans",
+            "Veerle Bovyn",
+            "Zeger Debyser",
+            "Katelijne Dedeurwaerder",
+            "Daniela El-Kadi",
+            "Anton Nilis",
+            "Karine Op de Beeck",
+            "Karen Van Herck",
+            "Pieterjan Vangerven",
+            "Lies Verlinden"
+          ]
+        }
+      }
+    }
+  ]
+}
