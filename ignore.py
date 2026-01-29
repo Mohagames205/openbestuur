@@ -46,12 +46,21 @@ class VotePoint:
     def __init__(self, name):
         self.name = name
 
+    def to_dict(self):
+        return {
+            self.name: {
+                "status": self.status,
+                "beschrijving": self.beschrijving,
+                "besluit": self.besluit,
+                "bijlagen": self.bijlagen,
+            }
+        }
+
     def __str__(self):
-        return json.dumps({self.name: {"status": self.status, "beschrijving": self.beschrijving, "besluit": self.besluit, "bijlagen": self.bijlagen}})
+        return json.dumps(self.to_dict())
 
-
-collect_text = False
 info = {}
+collect_text = False
 current_point = None
 current_subtitle = None
 
@@ -66,56 +75,38 @@ def process_page(page):
 
     for box in page:
         openbare_zitting = []
-        info_zitting = []
 
         if box['boxclass'] in ignore:
             continue
 
-        #print(box['boxclass'])
-
         if box['boxclass'] == 'section-header':
             line = parse_box(box)
-
-            print("checking if collect text", line, collect_text)
             if collect_text:
                 # nieuwe hoofding gedetecteerd, dus collect text moet weer op false
                 if re.match(r"^\d+\s+[^.:]", line):
-                    print(line, "matches regex, setting collect_text to false")
                     collect_text = False
                 elif line.lower() not in headers:
-                    print(line)
-                    print(current_subtitle)
-
-                    print("SETTING PROPERTY", current_subtitle.lower())
                     getattr(info[current_point], current_subtitle.lower()).append(line)
-                    print("propA", getattr(info[current_point], current_subtitle.lower()))
-
                 else:
                     current_subtitle = line
 
             # start van een belangrijk agendapunt
             if re.match(r"^\d+\s+[^.:]", line):
-                print("!!!!!!" + line + "!!!!!!")
                 match = re.search(pattern_gr_code, line)
                 if match:
                     gr_code = match.group()
                     current_point = gr_code
                     info[current_point] = VotePoint(line)
-                print("setting collect text to true for ", line)
+                else:
+                    continue
                 collect_text = True
 
         if box['boxclass'] == 'text':
             line = parse_box(box)
-            print("checking if should collext text", line, collect_text)
             if collect_text:
-                print(current_subtitle)
-                print(line)
                 getattr(info[current_point], current_subtitle.lower()).append(line)
-                print("propB", getattr(info[current_point], current_subtitle.lower()))
-
         if len(openbare_zitting) > 0:
             zittingen.append(openbare_zitting)
-
     return zittingen
 
 def parse_box(box):
@@ -141,9 +132,11 @@ def process_json(json_file):
                 zittingen.extend(result)
         collect_text = False
 
+
+    json.dump([info[x].to_dict() for x in info], open("assets/out/out.json", "w"))
+
     for punt in info:
         print(str(info[punt]))
-        pass
         #print(zittingen)
 
 process_json("assets/Ontwerpnotulen openbare zitting-1.json")
