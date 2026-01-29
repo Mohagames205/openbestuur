@@ -1,24 +1,900 @@
 {
-  "total_members": 3,
-  "last_updated": "2026-01-29T18:08:34.121267",
+  "total_members": 149,
+  "last_updated": "2026-01-29T19:21:37.147664",
   "members": [
     {
-      "picture_url": "https://www.dekamer.be/images/deputies/003.jpg",
-      "name": "Peter De Vries",
-      "profile_url": "https://www.dekamer.be/kvvcr/cvview.cfm?key=003",
-      "party": "CD&V"
+      "picture_url": null,
+      "name": "Bertrand Alexia",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07683&lactivity=56",
+      "party": "Anders."
     },
     {
-      "picture_url": "https://www.dekamer.be/images/deputies/001.jpg",
-      "name": "Jan Janssens",
-      "profile_url": "https://www.dekamer.be/kvvcr/cvview.cfm?key=001",
+      "picture_url": null,
+      "name": "Coenegrachts Steven",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07688&lactivity=56",
+      "party": "Anders."
+    },
+    {
+      "picture_url": null,
+      "name": "De Knop Irina",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06246&lactivity=56",
+      "party": "Anders."
+    },
+    {
+      "picture_url": null,
+      "name": "Di Nunzio Sandro",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07901&lactivity=56",
+      "party": "Anders."
+    },
+    {
+      "picture_url": null,
+      "name": "Gabriëls Katja",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06885&lactivity=56",
+      "party": "Anders."
+    },
+    {
+      "picture_url": null,
+      "name": "Vander Elst Kjell",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07972&lactivity=56",
+      "party": "Anders."
+    },
+    {
+      "picture_url": null,
+      "name": "Van Quickenborne Vincent",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=00972&lactivity=56",
+      "party": "Anders."
+    },
+    {
+      "picture_url": null,
+      "name": "Van Tigchelt Paul",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07686&lactivity=56",
+      "party": "Anders."
+    },
+    {
+      "picture_url": null,
+      "name": "De Smet François",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07100&lactivity=56",
+      "party": "DéFI"
+    },
+    {
+      "picture_url": null,
+      "name": "Aerts Staf",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07757&lactivity=56",
+      "party": "Ecolo-Groen"
+    },
+    {
+      "picture_url": null,
+      "name": "Almaci Meyrem",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01189&lactivity=56",
+      "party": "Ecolo-Groen"
+    },
+    {
+      "picture_url": null,
+      "name": "Maouane Rajae",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08184&lactivity=56",
+      "party": "Ecolo-Groen"
+    },
+    {
+      "picture_url": null,
+      "name": "Schlitz Sarah",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06722&lactivity=56",
+      "party": "Ecolo-Groen"
+    },
+    {
+      "picture_url": null,
+      "name": "Vanbesien Dieter",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07411&lactivity=56",
+      "party": "Ecolo-Groen"
+    },
+    {
+      "picture_url": null,
+      "name": "Vandemaele Matti",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08069&lactivity=56",
+      "party": "Ecolo-Groen"
+    },
+    {
+      "picture_url": null,
+      "name": "Van Hecke Stefaan",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01227&lactivity=56",
+      "party": "Ecolo-Groen"
+    },
+    {
+      "picture_url": null,
+      "name": "Van Lysebettens Jeroen",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07941&lactivity=56",
+      "party": "Ecolo-Groen"
+    },
+    {
+      "picture_url": null,
+      "name": "De Maegd Michel",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07122&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Dubois Xavier",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07794&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Frank Luc",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08097&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Gatelier Jean-François",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07817&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Hansez Isabelle",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08098&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Hiligsmann Serge",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08103&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Kompany Pierre",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08160&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Lasseaux Stéphane",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08126&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Lejeune Marc",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08139&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Lutgen Benoît",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01145&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Matagne Julien",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07818&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Nuino Ismaël",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08161&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Pirson Anne",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08125&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Ramlot Carmen",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07288&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Tourneur Aurore",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07816&lactivity=56",
+      "party": "Les Engagés"
+    },
+    {
+      "picture_url": null,
+      "name": "Bacquelaine Daniel",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=00757&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Bombled Christophe",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06934&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Bouchez Georges-Louis",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07650&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Cornillie Hervé",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06318&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Deborsu Charlotte",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08138&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Delcourt Catherine",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08086&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Ducarme Denis",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01056&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Dufrane Anthony",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06327&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Foret Gilles",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06712&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Goffin Philippe",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06383&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Handichi Youssef",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08141&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Jadoul Pierre",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08142&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Michel Mathieu",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07782&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Piedboeuf Benoît",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06423&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Reuter Florence",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01217&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Scourneau Vincent",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06287&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Taton Julie",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07800&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Vandeberg Victoria",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08087&lactivity=56",
+      "party": "MR"
+    },
+    {
+      "picture_url": null,
+      "name": "Bergers Jeroen",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08000&lactivity=56",
       "party": "N-VA"
     },
     {
-      "picture_url": "https://www.dekamer.be/images/deputies/002.jpg",
-      "name": "Marie Peeters",
-      "profile_url": "https://www.dekamer.be/kvvcr/cvview.cfm?key=002",
-      "party": "VLD"
+      "picture_url": null,
+      "name": "Buysrogge Peter",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06030&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Cuylaerts Dorien",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07746&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Demesmaeker Eva",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07999&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Depoorter Kathleen",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07387&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "De Roover Peter",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06588&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "De Vreese Maaike",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07655&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "De Wit Sophie",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06141&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "D'Haese Christoph",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06907&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Freilich Michael",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07022&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Gijbels Frieda",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06499&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Metsu Koen",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06591&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Peeters Lotte",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07931&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Raskin Wouter",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06498&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Ronse Axel",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08058&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Safai Darya",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07416&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Truyman Lieve",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07932&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Vandeput Steven",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06400&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Van der Donckt Wim",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06595&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "van Riet Katrijn",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07028&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Van Vaerenbergh Kristien",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06230&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Verkeyn Charlotte",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08059&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Wollants Bert",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06147&lactivity=56",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": null,
+      "name": "Dedecker Jean-Marie",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=00954&lactivity=56",
+      "party": "ONAFH"
+    },
+    {
+      "picture_url": null,
+      "name": "Aouasti Khalil",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07124&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Bayet Hugues",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07169&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Chahid Ridouane",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08150&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Courard Philippe",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01142&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Daerden Frédéric",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06731&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Dedonder Ludivine",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06336&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Dermagne Pierre-Yves",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07674&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Désir Caroline",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01298&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Lacroix Christophe",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06389&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Legasse Dimitri",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=O1078&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Magnette Paul",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01266&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Meunier Marie",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07810&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Mutyebele Ngoi Lydia",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08151&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Prévot Patrick",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06967&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Thémont Sophie",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07262&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Thiébaut Éric",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01222&lactivity=56",
+      "party": "PS"
+    },
+    {
+      "picture_url": null,
+      "name": "Bilmez Kemal",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07980&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Boukili Nabil",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07133&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Daems Greet",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07048&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "D'Amico Roberto",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07182&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "De Witte Kim",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07861&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Eggermont Natalie",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08040&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Hedebouw Raoul",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06759&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Jacquet Farah",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08131&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Merckx Sofie",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07181&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Mertens Peter",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07047&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Moscufo Nadia",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07270&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Ribaudo Julien",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08170&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Tonniau Robin",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07911&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Van den Bosch Annik",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08169&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Yigit Ayse",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07672&lactivity=56",
+      "party": "PVDA-PTB"
+    },
+    {
+      "picture_url": null,
+      "name": "Bury Katleen",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07425&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Depoortere Ortwin",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01129&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Dillen Marijke",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=00636&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Huybrechts Britt",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07962&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Keuten Dieter",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07847&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Moons Kurt",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07963&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Pas Barbara",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01236&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Ponthier Annick",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01292&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Ravyts Kurt",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07485&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Samyn Ellen",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07076&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Sneppe Dominiek",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=O1330&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Somers Werner",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07888&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Troosters Frank",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07227&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Van Belleghem Francesca",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07887&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Van Hoecke Alexander",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07889&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Van Lommel Reccino",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07077&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Van Rooy Sam",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07695&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Verbelen Kristien",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08022&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Vereeck Lode",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06487&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Vermeersch Wouter",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07487&lactivity=56",
+      "party": "VB"
+    },
+    {
+      "picture_url": null,
+      "name": "Bertels Jan",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06172&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Daenen Nele",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07991&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "El Yakhloufi Achraf",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07733&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Lamarti Fatima",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07990&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Lambrecht Annick",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06785&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Meuleman Brent",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06898&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Oru Funda",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07869&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Seuntjens Oskar",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07732&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Soete Jeroen",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08050&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Tas Niels",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07921&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Vanrobaeys Anja",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06897&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Weydts Axel",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=08051&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Yzermans Alain",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=O2433&lactivity=56",
+      "party": "Vooruit"
+    },
+    {
+      "picture_url": null,
+      "name": "Demon Franky",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06805&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Farih Nawal",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07192&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Gielis Tine",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07772&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Grillaert Leentje",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07950&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Lanjri Nahima",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01042&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Mahdi Sammy",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07407&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Matheï Steven",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07193&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Muylle Nathalie",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=01130&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Van den Heuvel Koen",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07771&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Van Hoof Els",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=06852&lactivity=56",
+      "party": "cd&v"
+    },
+    {
+      "picture_url": null,
+      "name": "Van Keymolen Phaedra",
+      "profile_url": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=nl&cfm=cvview54.cfm?key=07951&lactivity=56",
+      "party": "cd&v"
     }
   ]
 }
