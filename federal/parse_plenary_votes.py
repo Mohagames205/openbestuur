@@ -76,39 +76,47 @@ class PlenaryVoteParser:
             soup: BeautifulSoup object
             
         Returns:
-            List of HTML elements containing voting sections
+            List of unique HTML elements containing voting sections
         """
         sections = []
+        seen_sections = set()  # Track sections we've already added
         
-        # Look for common voting-related classes/ids
+        # Strategy 1: Look for divs/sections with class="voting-section" or similar
         voting_keywords = [
-            'voting', 'vote', 'stemming', 'nominatief',
-            'vote-result', 'voting-result', 'roll-call'
+            'voting-section', 'vote-section', 'stemming-sectie'
         ]
         
         for keyword in voting_keywords:
-            # Search by class
-            sections.extend(soup.find_all(class_=re.compile(keyword, re.I)))
-            # Search by id
-            sections.extend(soup.find_all(id=re.compile(keyword, re.I)))
+            for elem in soup.find_all(class_=re.compile(keyword, re.I)):
+                elem_id = id(elem)
+                if elem_id not in seen_sections:
+                    sections.append(elem)
+                    seen_sections.add(elem_id)
         
-        # Look for tables that might contain voting data
-        tables = soup.find_all('table')
-        for table in tables:
-            # Check if table contains voting-related text
-            table_text = table.get_text().lower()
-            if any(word in table_text for word in ['voor', 'tegen', 'onthouding', 'stemming']):
-                sections.append(table)
-        
-        # Look for divs/sections with voting headers
+        # Strategy 2: Look for headers with voting titles, then get their parent section
         headers = soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5'])
         for header in headers:
-            header_text = header.get_text().lower()
-            if any(word in header_text for word in ['stemming', 'vote', 'nominatief']):
-                # Get the parent section or next siblings that contain the voting data
+            header_text = header.get_text().strip()
+            # Look for headers that look like voting items (e.g., "Stemming 01 -...")
+            if re.match(r'^Stemming\s+\d+', header_text, re.I) or 'wetsvoorstel' in header_text.lower():
+                # Get the parent section
                 parent = header.find_parent(['div', 'section', 'article'])
                 if parent:
-                    sections.append(parent)
+                    elem_id = id(parent)
+                    if elem_id not in seen_sections:
+                        sections.append(parent)
+                        seen_sections.add(elem_id)
+        
+        # Strategy 3: Look for tables that contain voting data (only if no sections found yet)
+        if not sections:
+            tables = soup.find_all('table')
+            for table in tables:
+                table_text = table.get_text().lower()
+                if any(word in table_text for word in ['voor', 'tegen', 'onthouding', 'stemming']):
+                    elem_id = id(table)
+                    if elem_id not in seen_sections:
+                        sections.append(table)
+                        seen_sections.add(elem_id)
         
         return sections
     
@@ -128,7 +136,9 @@ class PlenaryVoteParser:
         # Extract votes
         votes = self._extract_votes(section)
         
-        if title or votes['voor']['count'] > 0 or votes['tegen']['count'] > 0:
+        # Only include if we have actual vote data and a meaningful title
+        if ((title and title != "Unknown Proposal") or 
+            votes['voor']['count'] > 0 or votes['tegen']['count'] > 0):
             return {
                 'title': title,
                 'votes': votes
@@ -138,20 +148,28 @@ class PlenaryVoteParser:
     
     def _extract_title(self, section) -> str:
         """Extract the title/proposal from a voting section."""
-        # Look for headers
-        header = section.find(['h1', 'h2', 'h3', 'h4', 'h5'])
-        if header:
-            return header.get_text().strip()
+        # Look for headers (excluding generic "Nominatieve Stemming" headers)
+        for header_tag in ['h1', 'h2', 'h3', 'h4', 'h5']:
+            headers = section.find_all(header_tag)
+            for header in headers:
+                title = header.get_text().strip()
+                # Skip generic voting headers
+                if title and not re.match(r'^Nominatieve\s+Stemming$', title, re.I):
+                    return title
         
         # Look for elements with title-like classes
         title_elem = section.find(class_=re.compile('title|heading|voorstel|proposal', re.I))
         if title_elem:
-            return title_elem.get_text().strip()
+            title = title_elem.get_text().strip()
+            if not re.match(r'^Nominatieve\s+Stemming$', title, re.I):
+                return title
         
-        # Fallback: use first paragraph or strong text
+        # Fallback: use first paragraph or strong text (excluding generic headers)
         first_strong = section.find('strong')
         if first_strong:
-            return first_strong.get_text().strip()
+            title = first_strong.get_text().strip()
+            if not re.match(r'^Nominatieve\s+Stemming$', title, re.I):
+                return title
         
         return "Unknown Proposal"
     
@@ -229,12 +247,14 @@ class PlenaryVoteParser:
                 elif 'onthoud' in first_cell_text:
                     current_vote_type = 'onthouding'
                 
-                # Extract names from cells
-                if current_vote_type:
-                    for cell in cells[1:]:  # Skip first cell
-                        name = cell.get_text().strip()
-                        if name and len(name) > 2:  # Basic validation
-                            votes[current_vote_type]['names'].append(name)
+                # Extract names from cells (skip first cell which has the vote type)
+                if current_vote_type and len(cells) > 1:
+                    for cell in cells[1:]:
+                        cell_text = cell.get_text().strip()
+                        if cell_text and len(cell_text) > 2:
+                            # Parse the cell text as it may contain semicolon-separated names
+                            names = self._parse_name_list(cell_text)
+                            votes[current_vote_type]['names'].extend(names)
             
             # Update counts
             for vote_type in ['voor', 'tegen', 'onthouding']:
