@@ -1,0 +1,24 @@
+{
+  "total_members": 3,
+  "last_updated": "2026-01-29T18:04:45.285285",
+  "members": [
+    {
+      "picture_url": "https://www.dekamer.be/images/deputies/003.jpg",
+      "name": "Peter De Vries",
+      "profile_url": "https://www.dekamer.be/kvvcr/cvview.cfm?key=003",
+      "party": "CD&V"
+    },
+    {
+      "picture_url": "https://www.dekamer.be/images/deputies/001.jpg",
+      "name": "Jan Janssens",
+      "profile_url": "https://www.dekamer.be/kvvcr/cvview.cfm?key=001",
+      "party": "N-VA"
+    },
+    {
+      "picture_url": "https://www.dekamer.be/images/deputies/002.jpg",
+      "name": "Marie Peeters",
+      "profile_url": "https://www.dekamer.be/kvvcr/cvview.cfm?key=002",
+      "party": "VLD"
+    }
+  ]
+}
